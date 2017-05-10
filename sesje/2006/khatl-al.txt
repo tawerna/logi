@@ -1,0 +1,466 @@
+---
+Pochmurny i mglisty poranek powoli budził do życia resztę załogi i pasażerów. Widząc wychodzącego kapitana majtkowie uwijali się na pokładzie "Szalonej Mewy" jak tylko mogli.
+Mgła była gęsta i mało co udawało się przez nią zobaczyć. Słaby wiatr z wolna dmuchał w żagle, dlatego statek wlekł się po wodzi niczym zółw po piasku.
+Przy lewej burcie da się zauwazyć dwóch męzczyzn, pasażerów którzy załapali się na rejs do Khatl-al, jednej z najwiekszych i najbardziej znanej wyspy na całym Ziemiomorzu.
+Solvei i Esayaac-Vauh znali się od dziecka, razem wychowując się w wiosce na jednej z poludniowych wysp. Ich drogi rozeszły się jakiś czas temu, gdy każy wyruszył w obranym kierunku.
+Los skierował Solvei'a w kierunku słynnej wyspy Rock, gdzie znajdowała się jedna z najsławniejszych i najwiekszych szkół magii po tej części Ziemiomorza, a jako, że miał na swój wiek niebywały talent, to bezproblemowo dostał się na szkolenie.
+Natomiast Esayaac-Vauh, który umiłował sobię, kulturę i sztukę wysp wschodu, ktore poznał przypadkowo od kupców przepływających w okolicach jego rodzinnych stron, pewnego razu przeszmuglował się na jeden z okrętów kupieckich i wyruszył mając nadzieje spotkania kogoś kto nauczy go czegoś więcej.
+Kilka lat spędzonych na wschodnich wyspach i nauk pobranych od różnych mistrzów psrawiły, ze doskonale poznał kunszt wytwarzania ozdobnych, ale jak zabójczych narzędzi, takich jak sztylety, czy jatagany. Zawsze to jakis sposob zarabiania na życie, nie mowiąc, juz o samej umiejętności poslugiwania sie nimi. Mawiają, że dobry płatnerz, musi być mistrzem posługiwania się bronią którą wykonał.
+Teraz, po latach przeznaczenie znowu połączyło ich na wspólnej drodze. Solvei jako, że dostał tytuł maga ma objąć stanowisko w wiosce na wyspie położonej niedaleko na północ od Khatl-al, po zmarłym niedawno tamtejszym szamanie. Esayaac-Vauh, płynie tam, gdzie zdoła coś zarobić wykonując swoje rzemiosło.
+Z odknych pokładów wychodzi dziewny człek, zdaje sie, że tez pasażer, bo nie pasuje to reszty załogi. Ziewa przeciągle drapiąc się po zadzie. Meżczyzna rosły, wysportowany z obszernym zarostem na klatce piersiowej, lezie mocno przygarbiony. Jegomość ów ubrany jest tylko w skorzane spodnie. Chodzi po pokładzie rozglądając się i powarkując.
+Nagle rozglega się głos z bocianiego gniazda: "Piraci, Piraci!"
+Powoli z mgły wyłaniają się małe statki w kształcie banana, po dziesięć osób na każdym. Ktoś rozpoznaje je dokladniej krzycząć: "To nie Piraci, to Aghantiańscy łowcy niewolników!". Rozlega się krzyk kapitana, pełna mobilizacja na pokładzie. Każdy na pokładzie dostaje po rapierze i butelce rumu, nie ważne czy jest byle majtkiem, kupcem, czy podróżnym.
+Krzyk kpitana zgrywa się z momentem zarzucenia lin z hakami na każdą z burt i pojawieniem się pierszych nieprzyjaciół na pokładzie: "Przygotować się na abordaż!"
+---
+
+* Esayaac-Vauh zwraca się do Solveia
+* Torn wyrywa wlaz i wypada na poklad ryczac
+<Esayaac-Vauh> By to glebie pochlonely! Nie znajdziesz ani kawalka spokoju na tym swiecie
+Pierszi łowcy wdarli się na pokład i ruszając na załoge, nic nie mowią, milczą całkowicie. Dwóch rzuciło się na Torn'a, a trzech okrążyło Esayaac-Vauh i Solvei'a
+
+* Torn lypi na boki, dopada do pierwszego z brzegu krzykacza i zdziera mu skore z twarzy wyrzucajac za burte jak lalke
+* Solvei tworzy w kolo siebie i Esayaac-Vauh'a pole silowe
+* Esayaac-Vauh dobywa swojego jatagana, cofając się, trzymając nisko na kolanmach
+<Esayaac-Vauh> Solvei mam nadzieje ze czegos Cie tam jednak nauczyli
+<Solvei> Ja tez ją mam.
+* Solvei koncentruje sie na stworzeniu pola silowego
+Solvei: no rzucaj k100
+
+<Solvei> !k100
+<Solvei> d100
+<Jaskier> Solvei, (d100) 40.
+Solvei: udaje Ci sie stowrzyc pole na kilka sekund, nim wpada na Ciebie jeden z marynarzy, ktory przypakowo znalazł się w zasięgu czaru, troszkę Cię to wyczerpało i wytrąciło z równowagi
+
+* Torn zalicza kolejna otwarta rane cieta, szerokimi ciosami posyla obydwu za burte miazdzac im czaszki
+* Solvei robi jeszcze jedno podejscie do pola
+<Solvei> d100
+<Jaskier> Solvei, (d100) 38.
+<Solvei> ...wa! ))
+Solvei: nie dasz rady drugiego, niepowodzenie pierszego Cie wyczerpało
+
+i nie rzucaj, ja Ci nie karze ))
+
+<Esayaac-Vauh> No dobra, ja nie mam zamiaru przyglądać się temu
+* Esayaac-Vauh rusza w kierunku najbliższego łowcy
+Torn: dwoch posłałes linia prostą za burte rozwalając przy okazji jeden ze statkow, ale kolejnych dwóch zaszło Cię od tyłu, tak, że zatrzymałeś się od uderzenia dopiero na burcie ledwo nie wypadając ze statku
+
+* Solvei dopada miecza ze swoich plecow i wymachuje nim groznie w kierunku ktoregos z lowcow
+* Torn wyje powarkujac i rzucajac glowa na boki, dyszac z wscieklosci
+Solvei: nie masz miecza, masz stylet i drewnianą laskę
+
+* Solvei dopada drewniana laske ze swoich plecow i wymachuje nim groznie w kierunku ktoregos z lowcow
+<Solvei> Nią ))
+Solvei: łowca rzuca w Ciebie dwoma małymi sztyletami, ktore wbijają się w laskę przechodząc na wylot
+
+* Esayaac-Vauh obracając miecz w w dłoni, dobiega do łowcy, wykonując szerokie cięcie na wysokosci ud
+Esayaac-Vauh: k100))
+
+<Solvei> Abys zdechl w meczarniach kmiocie chedozony przez stado swoich matek!
+* Solvei zlozeczac łowcy wyjmuje sztylet i wykonuje nim ciecie na wysokosci szyji łowcy
+<Esayaac-Vauh> 1d100
+<Jaskier> Esayaac-Vauh, (1d100) 30.
+Solvei: ale ni jak, on stoi kawalek od Ciebie ))
+
+* Solvei wykonuje dwa ciecia w powietrzu po czym rzuca sztylet w korpus łowcy
+Esayaac-Vauh: zadałeś mu ranę cietą przez udo prawie odcinając nogę - zachwiał się i wypadł przez burtę do wody
+
+* Torn podnosi sie i doskakuje do atakujacych Esayaaca biorac spory zamach reka
+Solvei: rzucaj))
+
+<Solvei> 1d100
+<Jaskier> Solvei, (1d100) 24.
+Solvei: zdziwiony sam sobie, bo nigdy do niczego nie udało Ci się wcelować, trafiasz w prosto w lewe oko, zabijając łowcę na miejscu
+
+* Solvei poprawia kolniez, ktorego ni ma, po czym zabiera sie za nastepnego łowce
+<Solvei> Laską ))
+* Esayaac-Vauh w doskoku wykonuje cięcie wysoko, wychodząc z ataku nisko, niemalże przy samym pokładzie
+* Torn zadaje potezny cios reka wrzeszczac chrapliwie
+Solvei: zadowolony z siebie nie zauważasz, jak dostajesz mieczem przez prawe ramię, rana nie jest poważna ale dość obficie krawi
+
+Torn, Esayaac-Vauh k100
+
+<Esayaac-Vauh> 1d100
+<Jaskier> Esayaac-Vauh, (1d100) 90.
+<Torn> 1d100
+<Jaskier> Torn, (1d100) 98.
+<Torn> oj ))
+Esayaac-Vauh: łowca z łatwością zrobił unik, w rewanżu dostałeś kopa z pół-obrotu, zatrzymująć się dopiero przy samym dziobie, z rozwalona dolną wargą
+
+* Solvei rozglada sie kto go dziabnal
+* Esayaac-Vauh sięga drugą reką do pasa po długi wąski sztylet, podnosi sie,
+Torn: nie trafiłeś wcale przywalająć straszliwie rękę w pokład, co wywołało spory bół i dezorientację. Jeden z łowców wykorzystując to sztyletem przejechał Ci po twarzy
+
+<Torn> dobrze, ze nie wydymal ))
+<Solvei> :D ))
+* Esayaac-Vauh ociera rękawem krew z brody
+<Esayaac-Vauh> :DD ))
+Solvei: stoi nad roba łowca przymiarzając się do ciosu, rzucaj k20
+
+<Solvei> 1d20
+<Jaskier> Solvei, (1d20) 14.
+<Solvei> Umarlem... ))
+* Esayaac-Vauh stara się dobiec do Solveia wykonując pchnięcie jataganem w stronę łowcy
+* Torn wywraca sie na sliskim pokladzie czujac pulsujacy bol w policzku i zapach krwi. wlasnej.
+Solvei: jedym plusem, jest to, że to nie był ten sam który Cie zranił - ten walczył drewnianą pałką. zatrzymnałeś się dopiero na filarze masztu, z rozwalonym łukiem brwiowym
+
+Esayaac-Vauh: k100
+
+<Esayaac-Vauh> 1d100
+<Jaskier> Esayaac-Vauh, (1d100) 48.
+* Torn wskakuje na rowne nogi rzucajac sie na jednego z lowcow z wyciagnietymi rekami
+Esayaac-Vauh: z poslizgiem, ale nie udaje Ci się trafić w łowcę, na szczęscie on tekże chybia, probująć kontrataku
+
+Torn: spoglądasz w górę i widzisz potężnego łowce z wielkim toporem, który własnie zamachuje się na Ciebie
+
+* Esayaac-Vauh widząc, ze Torn walczy wręcz, kładzie sztylet na pokladzie i mocno pcha nim w jego stronę, wrzeszcząc "POKŁAD!" w cenu przyciągnięcia jego uwagi
+* Solvei zbiera sie szybko po czym rzuca na lowce, ktory go zaatakowal czar- magiczną strzale
+Solvei: k10 :D ))
+
+<Solvei> 1d10
+<Jaskier> Solvei, (1d10) 3.
+* Torn odskakuje na bok przykucniety
+Solvei: mimo wielkego bolu udaje Ci się niemalże beztrudu przywołać strzałę, która idealnie przebiją pierś łowcy
+
+Torn: k20
+
+<Torn> 1d20
+<Jaskier> Torn, (1d20) 20.
+<Torn> prosze, powiedz, ze mialem zawal ))
+<Solvei> Auć ))
+Torn: potykasz sie tak niefortunnie, ze uderzaz głową w burtę, jednoczesnie widząc łowcę, który zamachuju się na Ciebie w ostatecznym cięciu.... jednak przerywa mu kapitan, przebijając mu piers bossakiem, przeklinając przy tym w niebogłosy jeog matke
+
+* Torn lezy dyszac. ciemno przed oczami.
+* Solvei rzuca na siebie czar 'uleczenie'
+* Esayaac-Vauh kręci jataganem w dłoni obracając się, starając się rozeznać w sytuacji złapać oddech i chociaż przez chwilę nie dopuścic nikogo do siebie
+Ten był ostatni, reszta labo wykończyły niedobitki załogi, albo sami pouciekali, widzać, że nie bardzo mają szansę
+
+* Esayaac-Vauh spluwa krwią na pokład, jednocześnie ocierając żuchwę z krwii
+* Solvei rzuca takze czar uleczenia na Esayaac-Vauh i Torn'a
+Solvei: nie tyle czas, co mozesz ich dotknac i sprobowac wyleczyc ich rany ))
+
+k10, do tego za kazdym razem
+
+* Torn wstaje powoli na nogi chwytajac sie jednej z lin, swiat mu w oczach wiruje
+<Solvei> To narazie na siebie ))
+<Solvei> 1d10
+<Jaskier> Solvei, (1d10) 10.
+<Solvei> Urosnie mi trzecia reka? ))
+Torn: kolyszesz sie tak, ze niedobrze Ci się robi miejscami
+
+* Esayaac-Vauh ociera miecz z krwii i szybko chowa w pochwie u boku
+* Torn opada na kolana, krwawi z ust.
+<Torn> na bogow...
+* Esayaac-Vauh podchodzi do Torna
+<Esayaac-Vauh> Trzymasz się jakoś?
+<Torn> nie mam wyjscia... dziekuje za ramie.
+* Esayaac-Vauh rozgląda się po pokładzie za rannymi którym może spróbować pomóc
+* Esayaac-Vauh wola
+* Solvei rzuca na siebie czar uleczenia
+<Esayaac-Vauh> Solvei! Solvei! Zyjeeeeesz?
+* Esayaac-Vauh ciezko sapie
+Kapitan zbiera co bardziej sprawnych marynarzy i zagania ich do pracy, rozkladając zapasowe żagle. Wiatr się wzmogł, więc trochę przyspieszacie.
+
+<Solvei> Zyyyyyje brachu! Latwo sie mnie nie pozbedziesz!
+Solvei: k10 ))
+
+<Solvei> 1d10
+<Jaskier> Solvei, (1d10) 1.
+Tak sie wyleczyles, ze umarles :D ))
+
+* Esayaac-Vauh dostrzega na pokładzie rannego marynarza, podchodzi doń, próbuje zatamować krwawienie z szerokiej rany
+<Solvei> Przeleczyłem się... ))
+Solvei: zadziwijąco dobrze Ci poszlo, czujesz się lepiej, a rany goją się 2x szybciej niż normalnie, chociaż zanim w pełni się zasklepią trochę czasu minie.
+
+* Torn chodzi kolowaty po pokladzie i dochodzi do siebie po ataku szalu, zaczyna trzezwo oceniac sytuacje
+Esayaac-Vauh: urywasz kawałek ubrania i zawiazujesz tamując ranę. Przynajmniej nie wykrwawi się na śmierć
+
+* Solvei wstaje, podchodzi do marynarza nad ktorym stoi Esayaac-Vauh i takze probuje go [marynarza] uleczyc czasem
+Solvei: nie bardzo umiesz leczyc czasem, w gruncie rzeczy, to nawet najpotezniejsi magowie maja problemu z opanowaniem czasu
+
+* Esayaac-Vauh mocno uciska rane, zwraca się do któregoś z marynarzy
+* Solvei wstaje, podchodzi do marynarza nad ktorym stoi Esayaac-Vauh i takze probuje go [marynarza] uleczyc czarem
+<Esayaac-Vauh> rumu daj, albo wody chociaż!
+<Solvei> Ach te literowki ))
+* Torn z braku innego zajecia wywala truchla za burte niosac po dwoch
+Kapitan widzac, że jest wam troche lepiej, rozdał szczotki, wiadra i kazał wyczyścic pokład
+
+* Solvei sie oburza
+* Esayaac-Vauh spogląda na wiadra
+* Solvei spluwa za burte
+Wolicie płynąć wpław?
+
+Kapitan obrzuca was chytrym spojrzeniem
+
+* Esayaac-Vauh pyta delikatnie
+* Solvei spluwa ponownie po czym zastanawia sie, czy nie uda mu sie wprawic szczotki w ruch czarami
+* Torn chwyta za kubel z pomyjami i wypija pare sporych lykow
+<Esayaac-Vauh> Nie przypominam sobie chwili w której z pasażera stałem się członkiem załogi
+<Solvei> Powiem Ci, ze ja tez niebardz...
+Braki personalne, powiedzmy. Zawsze możecie popłynąc za statkiem
+
+* Ictorn kapitan smieje sie gromko i odwraca na krewnianej nodzie kuśtykając w strone swojej kajuty
+<Solvei> To ja chce mopa z ABSem! ))
+<Esayaac-Vauh> EEeehhh...
+* Esayaac-Vauh wzdcha
+* Solvei lapie za szczotke i niechetnie zmywa
+<Esayaac-Vauh> Machniemy pare razy, dla spokoju świętego
+* Torn ociera morde z pomyjow
+<Torn> no dobra
+* Esayaac-Vauh na stronie zwraca soe do Solveia
+<Torn> ktore z was rzadzi na tej lajbie?!
+* Torn drapie sie w gola klate
+* Solvei niechetnie odpowiada Tornowi- "nie ja"
+Mocno powiało, tak mocno, że przewiało majtka w bocianim gnieździe, ktory spadając zrobił dziure w pokładzie i wkleciał prosto na jakąś prycze
+
+* Solvei zaglada w dziure na pokladzie
+<Esayaac-Vauh> Toć za przewóz tyle tyle zdziera, a my tu mamy teraz pracować... eeeh
+<Solvei> Panie kapitaaaanie!
+<Torn> no wlasnie, gdzie ten kapitam?
+* Torn rozglada sie na boki
+* Esayaac-Vauh z wielkimi oporami, ale jednak, za pomocą szczotki zgarnia ciemnoczerwoną krew z pokładu
+Powoli wypływacie z mgły, w zasadzie dopiero teraz sobie zdajecie sprawę, że towarzyszyła wam przez cały ranek. Marynarze łącznie z kapitanem juz od dawna byli tym faktem zdziwieni, co dało się niekiedy odczuć. Nigdy wcześniej nie widziano mgły na tym obszarze.
+Oczom waszym ukazał się Khatl-al, ale nie taki jakim znaliście go z opowieści... to było pogorzelisko, na wodach pełno było wraków, na plazach ciał, miasto jeszcze płoneło, w oddali słychaj było jedynie dogasający ogień. Komletna cisza. Jakby cos niewyobrazalnego i niepojetegio tedy przeszło.
+Nagle statek wszedł pod silny ostrzał. Solvei dostał seria strzał - zginał na miejscu. Tornowi i Esayaac-Vauh'owi udało się schować przed ostrzałem, jednak praktycznie cała pozostała załoga na głownym pokładzie została wybita. Grad strzał został przerwany tak szybko jak się zaczął. statek tracąc sternika wpłynął na mieliznę. Na plazy widać było rząd łuczników, ale jakby na coś czekjących, do statku zblizała się łódź, wyładowana przez około 15 chłopa.
+
+* Esayaac-Vauh trzyma się nisko podłogi, chowając za czym tylko sie da
+* Torn siedzi pod sterta desek trzymajac za ubranie Esayaaca
+<Torn> bogowie nam przygod nie szzcedza...
+<Esayaac-Vauh> cos sie wymysli
+* Esayaac-Vauh przeciąga szczotką z krwii po tunice, chwyta sztylet i kładzie się obok martwego członka załogi
+* Torn niewiele myslac chwyta Esayaaca jak lalke za skorzany kaftan na plecach i wyskakuje z nim przez przeciwna burte niz podplywajaca lodz
+* Esayaac-Vauh zamyka oczy, stara sie wstrzymać oddech, drugą reke trzyma w pobliżu rękojeści jataganu, ukrytego teraz pod nogawką
+<Esayaac-Vauh> too late, neich bedzie po mysli Torna ))
+Cos uderza w burte, prawdopodobnie to łodź. Za chwile na pokładzie pojawia się 3 kusznikow, 2 rycerzy i jakis kapitan, widać, że im wydaje rozkazy. Na pierszy rzut oka wyglądają jak by przed chwilą stoczyli ciężką walkę. Brudzni, osmoleni i w poszarpanych tunikach.
+
+<Torn> bardziej po instynkcie niz po mysli ))
+Zauwazaja was od razu. Kusznicy wycelowuja w was, a reszta wyciaga miecze, tylko kapitan nie, stoi i sie wam przyglada. Rusza powoli w wasza strone, sam.
+
+Męzczyzna zbliza się powoli, mowi do was coś w niezrozumiałym języku, ale do tej pory nie wyciągnął mieczam idzie powoli, z podniesionymi rekami, jak by staral sie kogos uspokajać.
+
+* Esayaac-Vauh stara sie utrzymac na powierzchni
+<Torn> my som in the water ))
+uchh, ja zrozumialem, ze na pokladzie jeszcze ))
+
+Mozemy sie umowic, ze nie udalo wam sie wyskoczyc, bo Esayaac-Vauh zaczepil nogawka o wystajacego gwzdzia :D ))
+
+<Esayaac-Vauh> to nic, w wodzie tez nas moga uspokajac... byle nie za dlugo, bo sie zimno robi, a mnie karwasze ciągną na dno coraz mocniej :P ))
+<Esayaac-Vauh> dopsz tam, dla mnie moze byc... szkoda spodni tylko ))
+Torn: ?))
+
+* Esayaac-Vauh stara sie gestami porozumieć z kapitanem, nie wykonując jednak gwałtownych ruchów, mając na uwadze kusze
+Esayaac-Vauh: kapitan do tej pory nie wychylil łba ze swojej kajuty
+
+* Torn wystawia leb znad wody i rzuca tylko krotkie warkniecia wygladajac przy okazji ile do brzegu
+<Esayaac-Vauh> .. ustalmy cos.. jestemy w wodzie czy nie, bo sie balagan robi ))
+Tak, i zbliza sie do was rekin ludojad ))
+
+<Esayaac-Vauh> poza tym mialem na mysli kapitana tego co wszedl na statek, "jakiegos kapitana", sorry za niedoprecyzowanie
+Dobra, woda!
+
+Kapitan spoglada przez druga burte i widzac was ustawia kusznikow wzdloz niej cos krzyczac, sam znika waszym oczom
+
+<Torn> a tam dobra, slona ))
+* Esayaac-Vauh sciaga karwasze, nie umiejac dlużej utrzymać się na powierzchni mając je na sobie... klnie pod nosem cichutko
+* Esayaac-Vauh rzuca spojrzenie Tornowi
+Torn: do brzegu spory kawalek jest, na koko jakies 400 metrow
+
+<Torn> pod woda nie dam rady...
+* Torn zagryza usta obserwujac twarz Esayaaca
+<Torn> pomysl? jakis pomysl?
+<Esayaac-Vauh> na trzy, bylebys mnie chwycil pod woda
+<Torn> chwyce.
+Wlasnie do wodu w poblizu was wlecialy belty wystrzelone z kusz mezczyzn stojacych na statku. Biorac pod uwage odległość, jest pewnym, ze chybienie było zamierzonym celem strzelających
+
+<Torn> trzymaj sie moich plecow
+<Torn> raz.
+Zza statku wyłania sie łódka, z reszta pasażerół i kapitanem, płyną w waszą stronę
+
+<Torn> dwa.
+<Esayaac-Vauh> trzy!
+* Esayaac-Vauh nurkuje pod wode,
+* Torn nurkuje mlocac wode rekami jak miechami z Esayaakiem uczepionym za kark
+* Torn nurkuje tak by zejsc poza zasieg beltow
+* Esayaac-Vauh gdy tylko czuje uchwyt Torna, plynie prosto pod kadlub, majac nadzieje, ze jego ksztalt uniemozliwi skuteczny ostrzal z kusz
+* Torn wykonuje spore, dokladne ruchy ramion pracujac nimi bez ustanku. Kieruje sie do brzegu.
+Torn, Esayaac-Vauh nie jest głęboko, a woda dość przejzysta. Waszym oczom ukazuje się przeraźliwy widok: pełno ciał, niektore wydają się być spalone inne całe, a jeszcze inne maja poobgryzane kończyny.
+
+* Torn stara sie nie wypasc z rytmu ruchow ramion
+* Esayaac-Vauh powoli opada z sil,
+* Esayaac-Vauh chwyta sie steru i wyplywa
+<Esayaac-Vauh> da.....dalej rady nie dam....
+Robi wam się nie dobrze, ale wytrzymujecie. Torn: przeplywasz wlasnie obok glowy, przecietej w polowie, wzdloz nosa
+
+<Torn> Esayaac-Vauh: plyniesz ze mna, jestesmy daleko od statku ))
+Torn: rzucajcie po k20
+
+Na wytrwałość
+
+<Torn> 1d20
+<Jaskier> Torn, (1d20) 11.
+<Esayaac-Vauh> hyh, malutkie nieporozumienie ))
+<Esayaac-Vauh> 1d20
+<Jaskier> Esayaac-Vauh, (1d20) 16.
+* Esayaac-Vauh nabiera powietrza i plynie za Tornem, ktory go wyprzedzil
+Torn: tracisz siły, w doatku na widok glowy otworzyłes na chwile usta, uda Ci się wstrzymać oddech najwyzej przez dluzsza chwilę
+
+* Esayaac-Vauh stara sie doplynac do Torna
+* Torn wynurza sie ogladajac na kompana
+Esayaac-Vauh: brakuje Ci powietrze, musisz się wychylić natychmiast, bo dalej nie pociągniesz. Na domiar złego na tafli wody widać kontury łódki
+
+Torn: ledo co zdazyłes nabrać rchu, a sopadła na Ciebie jakas sieć oplatując i ciagnąc w kierunku pobliskiej łodzi
+
+<Esayaac-Vauh> jaka jest pora? ))
+* Torn wraca po Esayaaca i wciaga go pod wode zmuszajac cialo do podwojnego wysilku
+Esayaac-Vauh: na nieszczescie musiales wynurzyć się natychmiast, z miejsca złapało Cie za ręce dwóch rosłych męzczyzn, nie masz nawet siły im się opierać. Związali Cię. To samo zrobili z Torn po jego wyłowieniu. Długo się nie opierał, udało mu się jedynie wyrzucić jednego z żołnierzy za burte.
+
+<Torn> o...
+<Esayaac-Vauh> lkgmgkgmkpf sprififif y krnyfyyff spkhryfyfyf!
+* Esayaac-Vauh przeklina, majac w ustach knebel
+Jakis człowiek zdaje się do was coś mówić, nie rozumiecie co.
+
+Esayaac-Vauh: nie zakneblowali was
+
+Tylko zwiazali
+
+* Torn sapie i pluje morska woda
+<Esayaac-Vauh> aa, ponioslo mnie :> ))
+* Esayaac-Vauh stara sie uspokoic oddech
+* Torn z wscieklosci wyskakuje z lodki tylem
+* Esayaac-Vauh korzystajac z zamieszania probuje kopnac najblizszego mezczyzne tak, zeby wylecial z lodzi
+Torn: tylko sobie miesien naciągnołeś. nie dośc, że jesteś związany, to jeszcze za sznury trzyma po trzech męzczyzn
+
+Zdaje się, ze skrzeczący męzczyzna co chwile zmienia język, aż w koncu zaczyna mowić we wspolnym: "Spokojnie, nic wam nie zrobimy, o ile powiecie nam kim jesteście i co tu robicie!"
+
+Esayaac-Vauh: to na nic, jestes wycieńczony, w dodatku mocno zwiazany i trzyma Cię 3 chłopa
+
+* Torn patrzy nieruchomo w dno lodki ociekajac tylko woda
+* Esayaac-Vauh nie wytrzymuje
+<Esayaac-Vauh> Cóż.... my tylko.....
+* Ictorn zmienia język na innym, mysląć, że nic nie rozumiecie.
+<Esayaac-Vauh> ..widzi Pan.... chcieliśmy pozwiedzać....
+O, jednak mowicie we wsólnym.
+
+Co tutaj robicie! Skad plyniecie i jakie macie zamiary.
+
+* Ictorn patrzy na was groźnie, chociaż w jego oczach widoczny jest strach.
+* Esayaac-Vauh zerka na Torn, czekując jakiejś reakcji, gestu, czegokolwiek
+* Torn patrzy w strone brzegu.
+<Esayaac-Vauh> Plyneliśmy wlasnie....
+* Esayaac-Vauh kontynuuje
+Nie pomagacie Mi... zostaliśmy niedawno zaatakowani, więc nie dziwcie się, że nikomu teraz nie ufamy...
+
+<Esayaac-Vauh> do Khatl-al....
+* Esayaac-Vauh przerywa kaszlem
+Nie ma już Khat-al...
+
+* Ictorn spoglada w dno lodzi milknac i zaciskajac piesc
+<Esayaac-Vauh> ja.... widzi Pan...
+* Ictorn wybucha nagle: Odpowiadajcie! kim jestescie i skad przybywacie!
+<Esayaac-Vauh> tam na statku.... Solvei, przyjaciel...
+<Torn> czym nasza dwojka Ci zagraza, czlowieku?
+<Esayaac-Vauh> Płyneliśmy tu w celach zarobkowych....
+* Torn nad wyraz spokojny, rozluzniony, regenerujacy sily, prawie obojetny.
+Obecna sytuacja nas do tego zmusila. Wplyneliście nagle, kierując się prosto na mielizne, gdy wesliscie na poklad zaczeliscie uciekac. Niech was nie dziwi nasze zachowanie.
+
+Nie wypuscimy was, dopkuki nie udowodnicie, ze nam nie zagrazacie i przybywacie w pokoju.
+
+<Esayaac-Vauh> Zostaliśmy ostrzelani... Solvei zginął...
+* Esayaac-Vauh kontunuuje
+<Torn> to, ze Ci nie zagrazam udowodnic moge poprzez szarpanie sie w wiezach
+<Esayaac-Vauh> On dostał nominacje.... miał w jakiejś wiosce...
+<Esayaac-Vauh> ...pracowac... byl magiem... a wy....
+* Esayaac-Vauh opuszcza głowę
+Nic mi o tym nie wiadomo, ale zrozumcie, co chwile napadajac nas piraci, wykoprzystujac obecna sytuacje
+
+* Esayaac-Vauh pyta
+<Esayaac-Vauh> Was?
+A dodatku, ten statek, spoznil sie o pol dnia, nie mielismy pewnosci, ze nie przejeli go piraci, albo łowcy.
+
+<Esayaac-Vauh> Was to... to znaczy kogo?
+Dolywacie wlasnie do brzegu.
+
+Caly Khatl-al.
+
+* Torn nie traci czasu i obserwuje brzeg dokladnie myslac nad ucieczka
+* Esayaac-Vauh leży w łodzi ze spuszczoną głową, mysląc o Solvei
+* Esayaac-Vauh zwraca się do człowieka, który z nim rozmawiał
+<Esayaac-Vauh> Mam prosbe...
+<Esayaac-Vauh> chociaż... pochowajcie mojego przyjaciela....
+Zostajecie brutalnie zaprowadzeni do pobliskiego obozowiska. Obraz jest przerazajacy, wszedzie martwe ciala i ranni - kobiety i dzieci. Zolnierze pomagaja kazdemu jak tylko sie da
+
+Czy wiesz co mowisz? Rozgladnij sie... nie mamy jak pochowac tych ludzi, a co dopiero twojego przyjaciela.
+
+* Torn zapamietuje kazdy element, droge, zarosla, brzeg, liczbe uzbrojonych, rozstaw obozu
+Torn: oboz jest maly, praktycznie zadnych zbrojnych oprocz tych co was przyprowadzili, wiekszosc to ranni, kobiety i dzieci, prawdopodobnie uciekinierzy z miasta
+
+* Esayaac-Vauh zaciska zęby
+To nie posterunek, to raczej oboz uchodzcow
+
+* Esayaac-Vauh mocno zasiska pięści
+Zostajecie przywiązani do pala i zakuci w lancuchy
+
+* Torn od razu sprawdza lancuchy gwaltownie za nie szarpiac kilka razy
+* Esayaac-Vauh zerka na Torna
+* Esayaac-Vauh stara się zebrać myśli
+* Torn prostuje kark i ramiona, przeciaga sie i z calych sil ciagnie za lancuch gwaltownym szarpnieciem
+Na nic wasze wysilki, lacuchy sa mocne, a pale wbije gleboko
+
+Wololi nastaje noc, a niebo sie rozjasnia, widac wschodacy ksiezyc. Torn, ty juz wiesz co to znaczy. Zbliza sie pelnia...
+
+* Torn caly dzien milczal, teraz z trudem zachowuje spokoj
+* Esayaac-Vauh stara sie ocenić co ze swoich rzeczy ma wciąż przy sobie
+* Torn odwraca sie do Esayaaca
+Esayaac-Vauh: nie masz nic, bron zabrali, jedynie ubranie
+
+<Torn> jak sie zacznie... biegnij tam.. w zarosla... czekaj tam...
+* Torn mowi z wyraznym trudem
+<Esayaac-Vauh> Nie..nie rozumiem....?
+* Esayaac-Vauh przyglada sie Torn
+<Esayaac-Vauh> Mówiłem że przesadzisz
+<Esayaac-Vauh> masz gorączke, majaczysz
+* Torn opada na kolana i zwiesza glowe
+* Esayaac-Vauh szepcze
+<Esayaac-Vauh> Torn.... Torn!.... Torn?? slyszysz mnie?
+<Torn> jak sie.. zacz...
+Zbliza sie pelnia, z namiotu wychoda dwaj mezczyzni zblizaja sie w wasza strone. Torn: wiesz, ze juz blisko, ze juz czas, powoli ogarnia Cie dzika rządza, przyplyw zwierzecego instynktu. Powoli tracisz panowanie na umyslem, a twoje ciało zaczyna się mieniać.
+
+* Torn zwisa bezwladnie uczepiony do lancucha. nie oddycha.
+* Esayaac-Vauh wole do mezczyzn
+Zolnierze odpinaja z lancuchuw Esayaac-Vauh'a lapiac go za rece prowadza w strone namiotu
+
+<Esayaac-Vauh> wody dajcie... wody..
+* Esayaac-Vauh zerka kątem oka na Torn
+* Esayaac-Vauh potyka sie umyślnie
+* Torn powoli sie podnosi, dyszy ciezko, zaczyna glosno wyc z bolu
+* Esayaac-Vauh podnosząc się, chwyta garść ziemi w ręke i dalej idzie bez większych oporów
+Torn: cale twoje ciało porasta siersc, wyrastaja kly, calkowicie znika twoja ludzka czesc, ustepujac miejsca tej zwierzecej, brutalnej. Przemiena jest prawie zakonczona, zaczynasz wyc do ksiezyca. Zolnierze widzac to z przerazenia puszczaja Esayaac-Vauh, zbiega sie ich wiecej...
+
+* Torn prostuje sie na ponad dwa metry i ryczy przeciagle wyrywajac slup z ziemi
+* Esayaac-Vauh zaciska odrobinę ziemi mocno w dłoni
+Jeden z nich krzyczy: To on, to jeden z nich! Alaram, TO JEDEN Z NICH!
+
+* Esayaac-Vauh ucieka w strone krzaków, z niedowierzaniem zerkając na Torna
+* Esayaac-Vauh chowa się w zaroślach
+Zbiegaja sie wszyscy, łapią za miecze i kusze celujac po omacku, strzelaja trafiajac w siebie nawzajemnie
+
+Ci stojacy blizej widza lepiej, rzucaja sie na Ciebie z mieczami
+
+<Esayaac-Vauh> prosi o opis jak jest skuty ))
+* Torn rzuca sie w wir walki ryczac i warczac na zmiane, mloci ludzkie mieso wielkimi jak miechy lapami, skacze, odskakuje, kuca, to wyskakuje w powietrze, zwodzi
+Esayaac-Vauh: nie jestes skuty, nic a nic, onie Cie rozkuli, i prowadzili ))
+
+* Torn rozposciera ramiona i rzuca sie z rykiem na najblizszych atakujacyh
+* Esayaac-Vauh przykruwa sie roślinnościa, obserwując rzeź wśród trzcin i niewysokich, gęstych krzaków
+Torn: nie panujesz nad soba, opanowal Cię zew, tniesz pazurami po wszystkim co sie rusza, wszedzie czujesz krew, nie mogac sie opanowac. Pada trup za trupem
+
+Zbiega sie wiecej zolnierzy. dostajesz strzala w udo, co nie robi na Ciebie wrazenia.
+
+* Esayaac-Vauh z przerażeniem chowa sięgłęboko w zaroślach, pooli wycofując w stronę jeszcze gęstrzej roślinności
+* Torn opada ciezkim muskularnym cielskiem na coraz to nowe grupy atakujacych lub rannych, na bezbronnych i na zolnierzy nadziewajac sie na miecze, piki i topory, nie dbajac o rany, czujac krew i szalejac coraz bardziej, odrywa cale platy miesa, wyrywa konczyny, lapami miazdzy czaszki
+Tniesz w szalenczy, tepie, nie patrzysz kto, czy dziecko czy matka, czy moze zolnierz. Nagle noc rozdziera chor rykow, poteznych rykow. Widzisz ich, zblizaja sie, czujesz ich zapach... inni tacy jak ty.
+To nie jest kilka osobnikow, to nawet nie jakies stado, to cala armia, z latwoscia rozgryzaja i rozszarpuja cala reszte na strzepy.
+Nastepuje cisza, sluchac tylko pomniejsze warczenie. Zla cisza. Wszystkie sosbniki oddychaja ciezko i nasluchuja. Nagle zwracaja sie w strone zarosli w ktorych siedzi Esayaac-Vauh.
+Juz wiesz, serce bije Ci jak szalone, wiesz ze Cie uslyszały, wyczuły twój strach.
+Sa wszedzie, widzisz w polmorku ich okrawawione pyski, czujesz na sobie ich oddech. Z przerazeniem spogladasz na zakrawwione pysku z odstajacymi klami. Nie ma odwrotu, nie ma ocieczki... Zapada glucha cisza...
+
+KONIEC

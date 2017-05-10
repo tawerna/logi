@@ -1,0 +1,639 @@
+<Juszi> ***
+<Juszi> Minęły dwa miesiące od bitwy o wyspę obecnie znaną jako Fort Buccaneer.
+<Juszi> Nad Thay zawisło realne widmo wojny domowej między Zulkirami.
+<Juszi> Niegdyś drobne spory zaczęły zamieniać się w lokalne konflikty. Najazdy na wzajemne lenna, ataki na uczniów szkół magii - to wszystko zdarzało się zbyt często, by móc przymknąć na nie oko.
+<Juszi> Nadciągał czas konfrontacji, jednak - jak to zwykle w kraju Czerwonych Magów - podziały, wrogości i przyjaźnie były zbyt niewyraźne, by ktokolwiek odważył się na otwartą konfrontację.
+<Juszi> Nevron poświęcił ten czas na budowanie sieci wzajemnych sojuszy, co w realiach rady Zulkirów było bardzo ciężkim zajęciem.
+<Juszi> Spodziewał się poparcia ze strony głowy Gildii Handlu Zagranicznego, Samasa Kula. Czerwony mag oczekiwał przełożenia się ekonomicznej potęgi Gildii na realny wpływ na władzę.
+<Juszi> Mógł też liczyć na Lauzorila, zulkira szkoły zaklinania, który słynął z niechęci do Szassa Tama. 
+<Juszi> No i był też jeszcze Aznar Thrul. Jego poparcie mogło być języczkiem u wagi. Nevron zdawał sobie sprawę z jego nienawiści do licza, ale i również z tajemniczego wpływu Tama na zulkira wywołania.
+<Juszi> Pozostali przywódcy szkół byli albo otwarcie po stronie zulkira nekromancji, albo oczekiwali na otwarty konflikt, by ocenić słabości i siły uczestników.
+<Juszi> Nevron miał jednak dwa asy w rękawie.
+<Juszi> Pierwszym był oczywiście Mythal, którego badaniom poświęcał się w wolnym czasie. Nawet obecnie siedział w swej pracowni w twierdzy i odkrywał jego kolejne własności.
+<Juszi> Drugim - równie ważnym - był władający przeobrażonym Fort Buccaneer Imre, stawający się nieformalnym władcą morza. Jego okręty - z Biczem na czele - chroniły drogi handlowe Thay, ale również  - zupełnie przypadkowo - przymykały oko na ataki i zaginięcia flotylli niesprzymierzonych z Nevronem.
+<Juszi> Zulkir zaczynał się zastanawiać, jaką realną siłą dysponował Imre; ten jednak wciąż zachowywał lojalność, dobrze opłacany. Nawet sprowadził swych starych druchów na służbę, stanowili nieocenione wsparcie dzięki swej lojalności.
+<Juszi> ***
+<Juszi> Kolejna runda niekończących się tajnych układów z Aznarem Thrulem, odbywająca się w twierdzy Nevrona.
+<Juszi> Przy wielkim stole ze srebrzyście lśniącego, rzadkiego drewna siedzieli obaj zulkirzy, mierząc się wzrokiem i tylko okazjonalnie wymieniając propozycje. 
+
+
+
+ * Nevron uderzył pieścią w stół
+<Nevron> To szaleństwo, przecież jak. Poniesiemy przez to ogromne straty!
+<Juszi> Za nimi stali ich służący i uczniowie. Obok Nevrona w milczeniu spokojnie stał Imre, żując swoim zwyczajem cytrusa. Za nim - dwóch olbrzymich, milczących wykidajłów. 
+ * Imre w spokoju czekał na rozkazy Nevrona
+<Juszi> Thrul wzruszył tylko ramionami, przyjmując jakiś pergamin od jednego ze swoich sługów - aż za dobrze wam znanego. "Ten dokument mówi mi, że twoje obecne zyski z faktyvznej kontroli nad handlem... pokrywają ci to z nawiązką."
+<Nevron> To nie czas na dywagacje o moich zyskach
+<Juszi> "A będziesz potrzebował mojego... błogosławieństwa... i wsparcia... by wykonać jakikolwiek widoczny ruch w okolicy Thaymount."
+ * Nevron oparł się wygodniej i złożył dłonie do siebie, dotykając ich tylko  końcówkami palców
+ * Imre odchrząknął cicho
+<Nevron> A Ty będziesz potrzebował doków w Bezanturze, które mogą niespodziewanie strasznie opustoszeć
+<Nevron> Nie graj ze mną Thrul, to Ci się nie opłaci - chce konkretów!
+<Juszi> Thrul uniósł tylko brew. "Kontynuuj. Ale niech zgadnę, twój druch... zaklinacz" - to słowo wypowiedział z wyraźnym obrzydzeniem "- będzie miał z tym coś wspólnego?"
+ * Nevron przybrał na twarzy wyraz nadchodzącej burzy stulecia
+ * Imre zachowywał twarz beznamiętną, jakby w ogóle nie usłyszał Thrula, żując spokojnie owoc
+<Nevron> On zawsze ma coś wspólnego z każdą rzeczą
+<Nevron> I to też radze sobie dobrze zapamiętać
+<Nevron> bo na dokach Beznaturu może się nie skończyć
+<Nevron> a ja nie kiwnę palcem
+<Juszi> "Ych. Moja ostatnia oferta to zwiększenie mojego zysku z Gildii Handlu Zagranicznego z 2 do 7%, zwiększenie ochrony dla portu w Bezanturze oraz 100 tysięcy sztuk złota z góry."
+<Juszi> Tu Zulkir wstał.
+<Juszi> "Mniej nie wchodzi w grę, bo będę tylko ponosił straty." - zwinął trzymany w dłoni pergamin, który zapłonął i zamienił się w popiół.
+<Nevron> 200 tysiecy z gory, cztery procent i pewna ochrona dokow, ale radze jej nie naduzywac
+<Juszi> "W zamian oferuję potężne wsparcie wojskowe oraz pełne wsparcie magiczne mojej szkoły. I jeszcze kilka detali."
+<Juszi> "NIe, to ja radzę to przemyśleć. Zostawiam tu sługę - jest w pełni upoważniony do podejmowania decyzji. Ja nie mam na to więcej czasu."
+<Nevron> To nie są negocjacje
+ * Nevron powiedział wpoli i stanowczo
+<Juszi> "I tu się mylisz." To powiedziawszy, Zulkir obrócił się na pięcie i wyszedł z większością swojej świty z sali.
+<Juszi> Został tylko niegdysiejszy kapłan bitewny świątynii Ilumatera, obecnie czerwony mag, Sig Hellstrom. Uśmiechnął się prawie że przepraszająco.
+<Nevron> Wyjdź, chce porozmawiać sam z Imre
+ * Nevron machnął tylko ręką
+<Nevron> służba Cię wezwie
+ * Imre skinął dwóm ochroniarzom, by opuścili pomieszczenie
+<Imre> Mów, w czym mogę być pomocny?
+<Juszi> "Naturalnie. Ale nie radzę podejmować ostatecznych decyzji bez wysłuchania mnie." Tu wasz stary znajomy skinął lekko głową i wyszedł.
+<Juszi> Przepuścił nawet uprzejmie w drzwiach wykidajłów Imrego.
+ * Nevron poczekam aż wyjdą, po czym zaklął i przywalił rozpaloną magicznie do czerwoności dłonią w stół, zostawiając w tamtym miejscu sporą dziurę
+<Nevron> Musimy nieco poprawić nasz plan, przyspieszyć go
+<Nevron> Thrul chce za dużo i za szybko
+<Nevron> Nie możemy czekać, jego kolej musi nadejść zaraz przed nieumarlakiem, ale w momencie, gdy już nie da się cofnąć kampanii i armii wypuszczonej w bój
+ * Imre kiwał głową ze zrozumieniem. Mimo obojętnej miny słuchał obrad z wielką uwagą
+<Imre> Jeśli dasz mu za dużo
+<Imre> użyje cię jak lodołamacza, tarana
+<Imre> i sam, bez oporu, zajmie twoje miejsce.
+<Nevron> Nic mu nie chce dać
+<Imre> Ten gość jest niebezpieczny i mu nie ufam.
+<Nevron> Ale musi dostać dostatecznie dużo, żeby poczuł się pewny, za pewny
+<Imre> Jednorazowy zastrzyk pieniędzy?
+<Imre> To da się zrobić bez problemu.
+<Nevron> To tylko tymczasowe
+<Imre> Jakieś artefakty, może wyszukane niewolnice?
+<Imre> Musi mieć jakieś słabości.
+<Nevron> Jak machina wojenna ruszy, trzeba go będzie wyeliminować
+<Nevron> To jest Twoje zadanie
+ * Imre kiwnął głową
+<Imre> Kiedy?
+<Imre> Po zabiciu lisza?
+<Nevron> Przed
+<Nevron> W czasie zamieszania związanego z rozpoczęściej otwartego konfliktu
+<Nevron> To da nam możliwość przejęcia poczynań jego armii
+<Imre> A co z jego zastępcą?
+<Nevron> Oficjalnie, myślę... powiedzmu, że nie był w stanie pokonać Tama i sam stał się jego ofiarą
+<Nevron> Na pewno coś wymyślisz
+<Nevron> Za chwilę i tak trzeba z nim pomówić
+ * Imre uśmiechnął się
+<Imre> Nevron, jeden tylko problem
+<Imre> Nie będę w stanie dosięgnąć go w jego twierdzy.
+<Imre> To musi być gdzieś w neutralnym miejscu, z zaskoczenia.
+<Nevron> Badz pewien, ze one odmowi sobie przyjemnosci poprowadzenia na tarcia na twierdze licza osobiscie
+<Nevron> Znajac tego dwulicowego psiego syna, sam bedzie chciał nas wtedy wykonczyc
+<Nevron> Musimy go po prostu ubiec
+<Nevron> Mam nadzieje, ze Twoja siatka wywiadowcza dziala jak nalezy?
+<Nevron> Kazda wiadomosc jest cenna
+ * Imre kiwnął głową
+<Imre> kapitani statków są łapani na bieżąco
+<Imre> gorzej z samymi zulkirami i ich gwardiami
+<Imre> Skubańce szkolili się od dziesiątek lat w kontrwywiadzie, przebicie się blisko graniczy z cudem
+<Nevron> Kaz sprowadzic tu tego kaplana, trzeba z nim pomowic
+<Juszi> Należy też wspomnieć, że zulkir wieszczenia była sojuszniczką Tama.
+<Juszi> Jakiekolwiek konszachty musiały się odbywać pod ciężką ochroną magii ochronnej i kontrszpiegowskiej.
+ * Imre kiwnął głową, po czym odwrócił się na pięcie i wymaszerował z pomieszczenia, by zawołać Hellstroma
+<Juszi> Imre: "czerwony mag" z zainteresowaniem oglądał akurat olbrzymi gobelin na ścianie. Na twój widok spokojnym krokiem wrócił do sali i znów się lekko ukłonił.
+<Imre> Przepraszam za tą krótką przerwę, pewne detale są niestety dość delikatnymi sprawami, wymagającymi poufności
+<Juszi> "Miło Cię znów widzieć, powiedz mi, nie masz tu gdzieś może kwaterki tego wybornego piwa z południa...?"
+ * Imre wyszczerzył zęby w uśmiechu
+<Juszi> "Zrozumiałe, zrozumiałe." Czasem zastanawiałeś się, ile naprawdę wiedział ten psionik.
+ * Imre wchodząc do sali za Hellstromem skinął ręką, by bliźniacy stanęli na straży drzwi do sali
+<Juszi> "Oczywiście możemy tu rozmawiać w spokoju?"
+ * Imre podszedł pewnym krokiem do barku, po czym schylił się do skrzynek
+<Imre> Jasne że tak.
+<Imre> Co wolisz, untherski stout?
+<Imre> Verdańskiego cienkusza?
+<Juszi> "Oni zapewne... nie pisną słówkiem." Zachichotał z własnego dowcipu, po czym wrócił do swojej prawdziwej postaci i rozsiadł się wygodnie w fotelu zajmowanym wcześniej przez Thrula.
+<Imre> Wiem!
+<Imre> Dambrański porter!
+<Juszi> Aż przyklasnął na tę sugestię.
+ * Imre wyciągnął po butelczynie. Jedna z nich wyglądała, jakby zabrudzona była jakąś zaschniętą, czerwoną mazią.
+<Imre> Oj, przepraszam.
+<Imre> Niektórzy nigdy nie mają dość, umarliby za te butelki.
+<Juszi> "Poprzedni właściciel?"
+ * Imre żachnął się
+<Juszi> Drow przejechał ręką po krótkim irokezie i znów uprzejmie skinął głową w podzięce za napitek.
+<Imre> Cóż, ale wnioskuję że nie chciałeś gadać o przywiązaniu do trunków
+<Imre> W czym mogę być pomocny?
+<Nevron> Uprzejmosci powymieniacie pozniej, przejdzmy do konkretow
+ * Imre uśmiechnął się szelmowsko
+ * Imre odwrócił się
+<Juszi> "Oczywiście." Wasz gość spoważniał, wziął łyka piwa. 
+<Juszi> "Wasze negocjacje z Thrulem, panowie, są, wybaczcie moje słownictwo, o kant dupy roztrzaskać."
+<Nevron> Jakie negocjacje?
+ * Imre prawie zachłysnął się piwem
+ * Imre patrzył na Nevrona, czekając tylko aż ten spopieli Hellstroma
+ * Nevron powiedział ironicznie
+<Juszi> "No tak. Wasze rozmowy. Albo jeszcze inaczej, gdybyście z nim usiłowali negocjować, byłoby to daremne."
+<Juszi> "Tracicie czas, mówiąc jeszcze inaczej."
+<Juszi> "Thrul już wybrał stronę w tym konflikcie, chcący czy nie; podejrzewam, że raczej mimo własnej woli, bo nie pała miłością do tego starego szkieletu."
+<Imre> Dlaczego więc nie zgodzi się na warunki Nevrona?
+<Imre> I tak nie ma wyboru, jak mi się zdaje.
+<Imre> Bez nas lisz zgniecie go jak robaka, czy to jutro, czy dziś - nie ma to znaczenia.
+<Juszi> "Jak do tej pory, utrzymywał go przy życiu."
+<Juszi> "I stary, dobry i niewiarygodnie głupi Aznar nie ma powodów myśleć, że będzie inaczej.
+<Juszi> "Ale..."
+<Juszi> Tu drow znowu zamilkł, popijając spokojnie piwo.
+<Juszi> "Szanowny panie Nevron, zapytałem pana kiedyś, czy jest pan gotów zrobić wszystko, by osiągnąć swój cel."
+<Nevron> Mam dość zagadek
+<Nevron> A moja cierpliwość ostatnio nie jest zbyt rozległa
+<Juszi> "Czy jest pan gotów przegrać bitwę, by wygrać wojnę?"
+<Nevron> Mow konkretniej, bo skonczymy te rozmowy w tym miejscu i o tej wlasnie porze
+<Juszi> "Bo na pewno zdaje sobie pan sprawę z tego, że wojska Thrula przejęły niedawno obowiązki pilnowania Cytadeli."
+ * Nevron aż wstał i obdarzył drowa wrogim wzrokiem
+<Juszi> Jeśli zrobiło to na nim wrażenie, nie dał po sobie poznać.
+<Nevron> Wiem o tym
+<Juszi> "Ale zapewne nie wie pan o tym, że wojska te pilnują tym razem, by nikt nie przeszkadzał Szassowi Tamowi w jego... hmmm, cholera wie, co on tam w sumie robi w środku."
+<Nevron> Nic dobrego
+ * Imre spojrzał czujnie na Hellstroma
+<Imre> Na pewno nikt?
+<Juszi> "Zapewne. Licz nie przezyłby tak długo na szczycie, gdyby nie kontrolował każdego ruchu swoich sojuszników i wrogów. Nawet pewnie tutaj ma jakąś wtykę."
+<Juszi> "Kiedy wy bawicie się tutaj w dyplomatów z Thrulem, zresztą według planu licza, on stopniowo odkrywa kolejne sekrety tego miejsca."
+<Juszi> "Wie bowiem, że nie zgodzi się pan w życiu na warunki Thrula, a to kupuje mu cenny czas."
+<Juszi> Drow dopił piwo.
+<Imre> Skąd wiemy, że tam jest coś cennego?
+<Juszi> Tu z kolei drow spojrzał badawczo na Nevrona.
+<Nevron> No wiec? Mam przyjac jego warunki?
+<Nevron> Tak byc nie moze! Mozemy dojsc zaraz do kompromisu, ale na pewno nie bedzie to taka suma, jaka zadal Thrul!
+<Nevron> I wcale nie chodzi tutaj o zloto
+<Juszi> "Tak. I nawet powinien pan pomaszerować z nim na twierdzę licza."
+<Nevron> Reputacja mi nie pozwala
+<Juszi> "Bo to nie tam rozegra się ostateczna walka."
+<Juszi> "No cóż, ale chwilowo nie negocjuje pan z nim, tylko ze mną. 5% i 100 tysięcy sztuk złota, i tak nie płaci pan tych procentów ze swojej kieszeni. Na to się zgodzi."
+ * Nevron machnął ręką
+<Nevron> Zgoda
+<Juszi> "A więc detale. W ostatecznym ataku na twierdzę, nawet, gdyby pan ją zdobył, nie spotkałby pan licza."
+<Juszi> "O jego kopiach, iluzjach i tym podobnych wie przecież całe Thay."
+<Nevron> To juz moje zmartwienie
+<Juszi> "A i zdobycie jej byłoby trudne, bo w odpowiednim momencie wojska Thrula przeszłyby na drugą stronę."
+<Juszi> "Tak, oczywiście, ale stwierdzenie, gdzie naprawdę siedzi Tam, może być trudne bez odpowiedniego wieszcza. Albo źródła informacji."
+<Juszi> "A ja akurat wiem, że licz od miesiąca nie wyszedł z Cytadeli."
+<Juszi> "A, i wiem jeszcze, że straszliwą drzazgą w jego kościstym tyłku jest przechowywany tutaj mythal. Ale nie wiem, dlaczego."
+<Juszi> "Nawet moja góra" - tu drow uśmiechnął się złośliwie i spojrzał w sufit - "nie chce mi powiedzieć."
+<Nevron> Nie dziwię się
+<Nevron> W każdym razie
+<Nevron> Tam to już nasze zmartwieni
+<Juszi> "Zapewne przeraża go perspektywa kompletnego wyłączenia jego magii..." tu drow ruchem ręki odstawił kufel po piwie na bok za pomocą psychokinezy.
+<Nevron> a nie oszukujemy się, zajmiesz miejsca po wlasciwej stronie, nieprawdaz?
+<Juszi> "...albo może mieć to coś wspólnego z tym, że mythal pierwotnie znaleziono w cytadeli i tam jest jego miejsce... Ale co ja tam wiem." Drow wstał i znów przybrał postać czerwonego maga.
+<Juszi> "Panie Nevron, zawsze zajmę to miejsce, które mi nakazano." Znów spojrzał na sufit. "Na razie dbam o równe szanse."
+<Juszi> "Imre, widzimy się pojutrze, co? Będziesz miał już wtedy obiecane elfie wino?"
+ * Imre uniósł butelkę
+<Imre> Oby tylko zapłata pojawiła się w porę
+<Imre> Cło jest teraz tak niewyobrażalnie wysokie, nie wyobrażasz sobie
+<Juszi> Uśmiechnął się szeroko. "Oczywiście, i ci piraci, biznes jest doprawdy niebezpieczny."
+<Juszi> "Co mogę panu obiecać, panie Nevron" - dodał, otwierając sobie ruchem dłoni drzwi - "jeśli dowiem się czegoś jeszcze, nie omieszkam wspomnieć. Długich dni i przyjemnych nocy."
+<Juszi> Wyszedł, stukając głośno podbitymi butami o marmurowe posadzki. Kroki ucichły kawałek za drzwiami, zapewne teleportował się.
+ * Imre wzruszył ramionami
+<Imre> Skoro umowa zawarta, chyba nic tu po mnie
+<Imre> Jeśli nie jestem ci już potrzebny wróciłbym do portu, sprawdził jak się sprawy mają
+<Imre> Te przeciągające się rozmowy mogą być złe dla interesów
+<Imre> Mam swoich ludzi na miejscu, ale wolałbym trzymać rękę na pulsie
+<Nevron> Tak, tak
+ * Nevron machnął ręką i usiadł zamyślony w fotelu
+ * Imre skinął głową
+<Imre> W razie czego pojawię się niezwłocznie
+ * Nevron nic nie odpowiedział, za to nagle zniknął
+ * Imre odszedł, nie oczekując odpowiedzi. W drzwiach machnął na wykidajłów i ruszył do swojej twierdzy
+<Juszi> ***
+<Juszi> Dzień później, jedna z wielu sal zamczyska Nevrona, przerobiona naprędce na pokój wojenny.
+<Juszi> Czerwony mag był bardziej oszczędny, poza wielką magiczną mapą na ścianie sala była praktycznie pusta.
+<Juszi> Właśnie pokazywała dokładny plan Bezanturu. 
+<Juszi> http://dl.dropbox.com/u/5430139/Bezantur.png
+<Juszi> Imre w towarzystwie jakiejś swojej członkini załogi, maga, uważnie obserwował ją z rękami założonymi za plecy.
+<Juszi> ***
+<Nevron> Dobrze, jesteś więc - zacznijmy... Słuchaj teraz uważnie. Mamy przełom. Udało mi się odkryć pewnie działanie mythala i zasadę jaka steruje do jej wywołania.
+ * Imre kiwnął głową
+<Nevron> Wiesz co to skłą czystego cienia?
+ * Nevron postawił mały kawałeczek na mapie
+<Imre> Wiem
+<Nevron> To nasz przepis na wygranie i bitwy i wojny!
+<Imre> A jak umowa z Thrulem?
+ * Nevron spoglądał na mały kamyczek koloru czarnego obsydianu i się uśmiechał, mozna by przysiąc, że błyskało mu w oczach
+<Nevron> Wszystko jest uzgodnione
+ * Imre kiwnął głową
+<Imre> Bicz jest gotów do ostrzału portu, mam też trochę nieregularnej, zbędnej załogi
+<Nevron> Thrul będzie niedługo osobiście w Bezanturze, nie chce przegapić przegrupowania naszych flot
+<Nevron> Takie jest oficjalne stanowisko
+<Nevron> Oczywiście nieczego nie będzie się spodziewał
+ * Nevron zasmiał się tutaj wyjątkowo podle
+<Nevron> A teraz
+<Nevron> Rzuć jakiś czar
+<Juszi> Kobieta - długie, ciemnobrązowe włosy, brązowe oczy, lekko egzotyczne oczy - słuchała tego wszystkiego ze znudzoną miną.
+<Imre> Wnioskuję, że drow jest ugadany?
+<Nevron> Możesz mnie nawet próbować nim zabić
+<Nevron> śmiało!
+ * Imre uniósł brwi
+<Imre> Może ograniczmy się do czegoś prostszego
+ * Imre spróbował rzucić pocisk magiczny w kierunku Nevrona
+<Juszi> Imre: nic. Po prostu. Nawet nie poczułeś znajomego mrowienia magii w koniuszkach palców.
+<Nevron> Tylka na tyle Cię stać?!
+ * Nevron śmieje się na głos
+ * Imre wzruszył ramionami
+<Imre> Zawsze wolałem mój sejmitar
+<Imre> Mówże, to mythal?
+<Nevron> Twoja matka potrafiłaby lepiej czarami zupą zamieszać
+<Nevron> Oczywiście, że to Mythal!
+<Imre> A co z zgnilcem?
+ * Nevron złapał kawałek skały, który wcześniej postawił na mapie
+<Imre> W sensie - liszem
+<Nevron> A ja potrfię kontrolować jedną z jego właściwości
+<Nevron> To kolejny punkt planu
+<Nevron> Teraz najważniejsze
+<Nevron> Pozbędziemy naszego znajomego czerwonego zachłannika
+<Nevron> Raz i na zawsze
+<Nevron> Razem z jego cennym portem w Bezanturze
+<Imre> A co z jego sojusznikiem?
+<Nevron> Pokażemy jemu i innym niedowiarkom, że z NEVRONEM nie ma ZARTOW!
+<Imre> Tamten zulkir jest ugadany?
+ * Nevron prawie krzyczał, a na koniec walnał pieścią w stół, a czarny kamień posypał się w postaci piasku prosto na mape i podłogę
+<Imre> Dobra. Czego oczekujesz ode mnie?
+<Imre> Po prostu paradnej gali banderowej i fanfarów?
+<Imre> Musisz zdawać sobie sprawę, że sporo sił jest w morzu, nie mam pod komendą całego stanu floty tak, ot, na zawołanie
+<Nevron> Spokojnie, nie zrobimy tego z dnia na dzień
+<Nevron> Nie ma jeszcze dokładnego terminu. W tym rzecz
+<Nevron> Potrzeba ściągnąć większość floty do Bezanturu
+<Nevron> Może nawet nie większośc
+<Nevron> taka siłą nie będzie nam potrzebna
+<Nevron> Sam chciał ochrony swych portów, znaczy nie jego flota morska nie jest zbytnio przystosowana do czegokolwiek
+<Nevron> To nie będzie problem.
+ * Imre wzruszył ramionami
+<Imre> Tu się zgodzę
+<Imre> Na morzu rządzę ja
+<Nevron> Twoje zadanie jest takie. W kluczowym momencie, ma zostać zniszczona
+ * Imre nachylił się nad mapą
+<Nevron> Port też
+ * Imre kiwnął głową
+<Nevron> Potem przechodzimy do ofensywy na lądzie, zmieciemy tego robaka, zanim zdąży cokolwiek zrobić
+<Imre> Moje siły lądowe na nic się niestety zdadzą
+<Imre> Poza chryją w porcie nie są ani zorganizowani, ani zmotywowani
+<Nevron> Przecież Ci tłumaczę, że mała część armi będzie czekać na pokładach
+ * Imre poskubał brodę
+<Nevron> Nie potrzeba dużo, to ścisła tajemnica. I tak nie będzie się tego spodziewał, a ja nie chce zbyt dużych strat, chce ograniczyć tę bitwę do minimum czasu i środków
+<Imre> Domyślałem się takiego rozwoju wydarzeń, mam już przygotowane okręty z czerwonymi magami na pokładach
+<Imre> Właduję na nie twoje oddziały
+<Imre> Nie zrozum mnie źle - w porcie moi się spiszą świetnie, ale operacje w głębi Thay - zapomnij
+<Imre> Bez łupów nie kiwną palcem
+<Imre> Ot, piraci
+<Nevron> Jakiej głębi Thay?
+<Imre> No, przecież po Thrulu idziemy dalej?
+<Nevron> Czy Tobie się już całkiem poprzewracało w głowie od gołych dup portowych kurtyzan?
+<Nevron> Słuchaj co do Ciebie mówię
+ * Nevron zdenerwował się niena żarty, aż huknął
+ * Imre wzruszył ramionami
+<Nevron> Wszystko w swoim czasie
+<Imre> Dobra, przyjąłem
+<Nevron> Thrul to ostateczny punkt przed natarciem na Cytadelę umarlaka
+<Nevron> Da nam sporą przewagę i środki, nie zakończyłem jeszcze badań Mythala, to nie wszystek jego mocy, to tylko małe możliwości jaki udało mi się kontrolować
+<Nevron> Dlatego właśnie musimy zmienić trochę bieg naszych poczynań, gdy mamy ku temu sposobności
+ * Imre westchnął
+<Nevron> Ta mała część nie wystarczy by poradzić sobie z Tamem, nie.. jeszcze nie teraz
+<Imre> Jak uważasz
+<Nevron> Ale niedługo, niedługo - wszystko ma swój czas
+<Imre> Będę gotów na czas
+<Nevron> Odłóż grog, zostaw dziwki. Czas na przygotowania.
+ * Nevron machnał ręką oczyszczając prostym zaklęciem mapę z prochu kamienia
+<Nevron> To mapa Bazanturu jak widzisz
+<Nevron> Z zaznaczonymi głównymi miejscami miasta
+ * Imre nachylił się, opierając się ręką o stół
+<Nevron> Thrul na pewno będzie obserwował wszystko z cytadeli
+<Nevron> Tam nastąpi jego koniec
+ * Imre wskazał palcem na cytadelę
+<Nevron> Chcę zobaczyć jego minę, gdy będzie próbował się teleportować
+<Imre> Na "Biczu" są potężne bombardy
+ * Nevron zaśmiał się znowu
+<Imre> Zrównanie z ziemią tego umocnienia to kwestia czasu
+<Imre> Defilada, atak z zaskoczenia na flotę
+<Imre> szturm portu, ostrzał cytadeli
+<Imre> śmierć Thrula
+<Imre> Zyski
+<Nevron> Czy bombardy dostaną ostrzałem do murów zewnętrznych? Wychodzących na ląd?
+<Imre> Wątpię, by byli w gotowości bojowej
+ * Nevron zakreślił palcem umocnienia na północnej części mapy
+<Imre> Zresztą, Bicz może trzymać się na spory dystans
+<Imre> Z pomocą magów nie trafią ani pociskiem
+<Imre> Gorzej z lżejszymi okrętami, ale tych nie szkoda
+<Nevron> Nie za daleko, Mythal musi być w zasięgu
+ * Imre poskubał brodę
+<Imre> Więc kluczowe będzie wyeliminowanie baterii
+<Imre> w szybkim tempie
+<Imre> Flota nie powinna stanowić problemu
+<Nevron> Tak
+<Nevron> nie odpowiedziałeś na moje pytanie
+ * Nevron stuka w mapę
+ * Imre zamyślił się
+<Imre> Tak, nie całą salwą, ale powinno sięgnąć
+<Nevron> Chce, żeby miasto było odcięte, żeby nie było tak łatwo uciec
+<Imre> Zburzenie bram powinno pójść łatwo
+<Imre> Myślałem że chodzi ci o równanie murów
+<Imre> Nie, zablokowanie miasta będzie proste
+<Imre> Zresztą można wydzielić oddziały
+<Imre> I teleportować je za bramy
+<Nevron> Cytadela ma stać, osobiście chce go tam wykończyć
+<Imre> Żeby wyłapywały umyślnych
+<Imre> Jak wolisz
+<Imre> W razie problemów zrównanie jej z gruntem to, jak mówiłem, kwestia czasu i nacisku
+<Imre> Mając czas i nacisk zrobi się wszystko
+<Nevron> Nie słuchasz tak? Teleportacja nie będzie możliwa
+ * Imre zamrugał oczami, po czym pacnął się w łeb
+<Imre> Cóż, po prostu sam pokieruję ostrzałem
+<Imre> Bramy padną na czas
+<Imre> Martwi mnie tylko ta za Cytadelą
+<Imre> Ta w porcie handlowym - betka
+<Imre> Ta na zachodzie również
+<Imre> Jednak Cytadela może przesłonić ostrzał
+ * Imre zamyślił się
+<Nevron> Nie chcemy zniszczyć miasta, wiesz ile będzie kosztowała odbudowa?
+<Nevron> Chcemy tylko pokazać do czego jestem zdolny!
+ * Imre uniósł dłoń w uspokajającym geście
+<Nevron> Port tak, flota tak, trochę mury, brama
+<Nevron> Ale na bogów!
+<Nevron> Nie chcemy zrównać Bezanturu z ziemią
+<Imre> Cóż, jak odcinać to odcinać
+ * Imre uśmiechnął się szeroko
+<Nevron> Koncem i tak zmieni właściciela
+<Imre> Ale dobra, jak uważasz za słuszne
+<Imre> W zasadzie to jeśli tam będzie jedna jedyna brama
+<Imre> I tak mało kto się wydostanie
+<Imre> Więc cel osiągnięty
+<Imre> A miasto będzie mogło wrócić do życia w szybkim tempie
+
+<Imre> Coś jeszcze o czym powinienem wiedzieć?
+<Imre> Jeśli nie, zajmę się szykowaniem floty
+<Nevron> Port Handlowy i Gildia Handlu ma być nietknięta, nawet omyłkowo
+<Nevron> Odpowiadasz za to głową
+<Imre> Tajes
+<Juszi> ***
+<Juszi> Morze Alamber, 3 mile morskie od wejścia do portu w Bezanturze.
+<Juszi> Nevron zaczynał odczuwać coraz większą niechęć do całego tego majdanu z żeglowaniem po morzach. Ot, typowy szczur lądowy.
+<Juszi> Niezbyt polubił też załogę Imrego. Spotkana wcześniej Lyri nawet nie starała się ukryć niechęci do czerwonych magów. Inna sprawa, że akurat ona nie lubiła chyba nikogo.
+<Juszi> Pierwszy oficer, Monroe, stał na dziobie ubrany odświętnie i wydawał polecenia. Jak zawsze zachowywał się, jakby pozjadał wszystkie rozumy, nawet te na pokładzie Czerwonego Bicza.
+<Juszi> Byli też niemi ochroniarze Imrego, znani jako Moko i Moto. Uzbrojeni w długie gizarmy, nie wzbudało zaufania to, że posługiwali się nimi głównie za pomocą jednej ręki.
+<Juszi> No i kręcący się po pokładzie w gnomich goglach na nosie alchemik i lokalna złota rączka, Horatio. Co chwilę podchodził do Imrego, zdając mu raporty i sugerując kolejne to zmiany w konstrukcji statku.
+<Juszi> "POrt w Bezanturze na horyzoncie!" Wykrzyknął MOnroe.
+<Juszi> ***
+<Imre> Dobra robota, panie Monroe
+<Imre> Wciągać banderę, niech myślą, że to parada
+<Juszi> "Tajest si... ekhm. Słyszeliście, co powiedział! Ruchy, ruchy!"
+<Juszi> Płyniecie w szerokiej formacji, jednej linii. Stopniowo zwęża się do wejścia do portu.
+<Juszi> Obok wielkich galer jest też kilka mniejszych i szybszych fregat, dowodzonych przez czerwonych magów.
+<Juszi> http://dl.dropbox.com/u/5430139/Wejscie%20do%20portu.jpg
+<Imre> Refować żagle!
+<Imre> Załoga do armat!
+<Imre> Szykować się, kamraci!
+<Juszi> Monroe pobiegł sprawdzać przygotowania przy poszczególnych bombardach. Lyri wspomagała magią manewrowanie okrętów, bliźniacy stalęli tylko przy relingu i ze znudzonymi minami oglądali port.
+<Imre> No, Nevron, my jesteśmy gotowi. Mów gdy ma się rozpętać piekło
+<Juszi> Horatio... a, cholera wie, jak zwykle gdzieś pobiegł.
+<Juszi> Wpływacie do portu, okręty zaczynają ustawiać się burtami do brzegów, szykując się.
+ * Imre splunął na pokład
+<Nevron> będziesz wiedział
+ * Imre kiwnął tylko głową
+<Imre> Nie otwierać klap, ładować działa
+<Imre> Ogień na moją komendę, bo wam łby pourywam, psubraty!
+ * Nevron zaczął inkantować zaklęcie, oczy mu poczerniały, wykreślił przed sobą dwa znaki, przyzwał potężne wiry wodne pod okrętami wroga
+<Juszi> Nevron: widzisz, jak alchemik pomaga ładować coś do dział, zapewne wymyślił jakąś nową amunicję.
+ * Imre uśmiechnął się pod nosem
+<Juszi> Woda w basenie portowym zakotłowała się, potężne syfony wody wystrzeliły w górę, formując wiry i wyrzucając dwie zacumowane w forcie fregaty z sił Thrula.
+<Imre> Panie Monroe!
+<Imre> Ognia, salwą!
+<Juszi> Słyszycie spanikowane krzyki o pomoc, gdy marynarze wpadają do wody.
+<Imre> Bombardy po bramach!
+<Juszi> "BAterie sterburty, na mój rozkaz! Cel - bramy! OGNIA! OGNIA!"
+ * Imre złapał się wanty, by nie rzucił go odrzut
+<Juszi> Ogień otworzyły też pozostałe okręty, widzicie kolorowe wybuchy i strumienie ognia wzdłuż całej linii brzegowej.
+<Imre> Piechota na pokład, ruszać dupska, psubraty!
+<Imre> Już, raz, raz, raz, do portu!
+<Juszi> Rozległ się alarm, marynarze w panice usiłują dotrzeć na swoje okręty, pojedynczy piechurzy biegną na mury.
+ * Imre przechadzał się wzdłuż armat
+<Imre> Ładować to, gamonie, celować po bateriach na murach!
+<Juszi> Druga salwa dokończyła dzieła zniszczenia, pozostałe statki były albo poważnie uszkodzone, albo osiadły na płytkim dnie.
+ * Imre pomógł podtoczyć działo, przy którym guzdrali się marynarze, po czym aż skulił się od huku
+<Juszi> Piechota w zorganizowanym szyku wypadła na pokład, szykując się do desantu. W większości ludzie, jest też kilka gnolli i orków.
+<Imre> Do szalup, ale migiem!
+<Juszi> Rozległy się pierwsze strzały z murów, niezdarne, niecelne. Jakiś pocisk uderzył w umocnienia, topią się w oczach. To zapewne wynalazek Horatia.
+
+<Juszi> "DO szalup! Już, migiem, kurwa, do portu!" O dziwo, to Lyri zasunęła kopniaka jakiemuś guzdrzącemu się piechurowi.
+ * Imre przechadzał się po pokładzie, nadzorując ostrzał. Mijał co chwilę Monroe, uwijającego się przy bombardach
+<Imre> Panie Monroe! Skupić się na wrogich umocnieniach, po zniszczeniu celów wojskowych wstrzymać ostrzał.
+<Imre> Port ma być sprawny!
+<Juszi> Bliźniacy czekali niecierpliwie w jednej z szalup, pierwszy raz od dawna szczerze uśmiechając się.
+<Imre> Dek jest pański!
+ * Imre złapał się za linę, po czym opuścił na pokład szalupy, która zdążyła już opaść na powierzchnię wody
+<Juszi> "Tak jest! Ty tam, bombardier z kurwa boskiego nadania! Celuj żesz!" Monroe pobiegł opierdzielić załogę jednej z bombard.
+<Juszi> Imre: obok Ciebie do szalupy wskoczyła też Lyri.Wzruszyła tylko ramionami na widok twojej miny.
+ * Imre uśmiechnął się promiennie. Ciężko powiedzieć, czy szczerze.
+
+<Juszi> Wielkie dziury zieją w murach obronnych miasta, grunt pod desant jest już prawie gotowy. W powietrzu zaczyają świszczeć strzały wystrzelone z brzegu.
+ * Imre wskoczył na ląd, gdy tylko szalupa dobiła do przystani. Od razu dobył sejmitaru i ruszył przed siebie biegiem, przewodząc szarży na umocnienia.
+ * Imre kierował się w stronę portu handlowego, chcąc go zająć w pierwszej kolejności, by nie ucierpiał w ataku
+<Imre> Za mną, kamraci!
+ * Nevron rzucił zaklęcie, szedł spokojnie po tafli wody w stronę doków
+<Juszi> Za tobą - jak za starych, dobrych czasów - z szalupy wyskoczyli bliźniacy, wywijając gizarmami jak patykami z balsy. Kilku piechurów na wasz widok wykonało taktyczny odwrót w stronę Portu Gildii Handlu Zagranicznego.
+<Juszi> Lyri w tym samym czasie podtrzymuje nad wami magiczną barierę, osłaniając waszą grupę przed strzałami z murów.
+ * Imre biegł, nie zatrzymując się na pojedynki. Kluczem było tempo w opanowaniu ważnych punktów portu. Przed nim brama niemal przetopiła się, a Imre poprowadził atak wprost przez jej resztki.
+<Juszi> Jeden z bliźniaków ryknął, wpadając w tłum wrogich piechurów. PRzed tobą wybiegł jakiś mag, chyba nie do końca wiedząc, co się dzieje.
+<Juszi> Nevron w tym samym czasie spokojnie kierował się w stronę centrum miasta, do cytadeli.
+ * Imre rzucił w niego sejmitarem, rozwijając łańcuch ukryty w rękojeści, którego koniec trzymał prawą ręką. Lewą szybko gestykulował, a łańcuch spowiły potężne wyładowania
+<Juszi> Mag upadł zwęglony na kolana i padł martwy. Za nim widzisz zorganizowaną formację piechoty biegnącą odeprzeć wasz atak. 
+ * Nevron szedł pewnie przed sobie, ciskając to kulą ognia, wachlarzem mrozu czy błyskawicą w ludzi, którzy odwarzyli się stanąć na jego drodze
+<Imre> Lyri!
+ * Imre krzyknął, wskazując formację piechurów. Dziki mag był wręcz stworzony do takich starć.
+<Juszi> Lyri otworzyła szeroko oczy, wyrzuciła ręce przed siebie i nagle wystrzeliła do przodu z niewiarygodną prędkością.
+<Juszi> Wpadła w sam środek formacji, paląc wrogów ognistą nową i pojedynczymi błyskawicami.
+<Juszi> Nevron: po chwili nie musiałeś już rzucać żadnych czarów, zresztą te działały coraz słabiej i coraz bardziej chaotycznie. Zaczyna działać magia mythala.
+ * Nevron przepił na sam konieć jakieś fanatycznego ucznia swego przeciwnika, którzy rzucił się na niego z kosturem - przebijając dwie ostatnimi ognistymi strzałami
+ * Imre złapał oficera dowodzącego piechotą wyładowującą się nieopodal z "Gorgony", rozkazując mu bronić wejścia do dzielnicy portu handlowego, a sam ruszył zająć samą gildię i doki
+<Nevron> przebił*
+<Juszi> Imre: po przebiciu się przez wojska Thrula w porcie handlowym spotkałeś się z szykującymi się do obrony siłami Gildii Handlu Zagranicznego. Patrzą na ciebie nieufnie, ale nie zaczynają walki.
+ * Imre gestem zatrzymał swoich podwładnych, po czym wyszedł przed swoich ludzi
+<Imre> Kto wami dowodzi!?
+ * Imre wrzasnął
+<Juszi> Z szeregu zbrojnych wyszedł niewysoki mężczyzna, półelf. "Ja", warknął. "A to komitet powitalny."
+ * Imre wskazał gestem resztki portu
+<Imre> Zabezpieczyliśmy wejście do dzielnicy handlu
+<Juszi> Nevron: podszedłeś kilkadziesiąt metrów pod cytadelę. Za tobą stopniowo posuwają się sprzymierzone siły z machinami oblężniczymi. Pozycja obronna może nie jest duża, ale na pewno będzie diablo ciężka do zdobycia.
+<Imre> Interesy Gildii są bezpieczne w tej bitwie
+<Imre> Sugeruję zostawić nam resztę, nie będziecie musieli nawet kiwnąć palcem
+<Juszi> "Ja to kurwa nic nie rozumiem z zagrywek tych czerwonych posrańców", odrzekł w bardzo subtelny sposób i machnął ręką.
+ * Imre wzruszył ramionami
+<Imre> Widzę że spotykam bratnią duszę
+<Juszi> "Zabezpieczymy ten teren, ale to nasza autonomia. My tu rządzimy."
+ * Imre odrzekł, uśmiechając się i podając rękę
+<Imre> Z całą pewnością. Jedynym powodem mojego ataku była troska o bezpieczeństwo Gildii
+<Imre> A teraz jeśli pan pozwoli, mam miasto do zdobycia.
+<Juszi> Uścisnął ci dłoń mocno i pewnie. "Idź pan wybić tę chołotę w mieście, tam się pewnie roi od tej czerwonej pluskwy."
+<Juszi> "Jasne. NIech was Tempus wspiera."
+<Juszi> Pokazał ręką coś swoim ludziom i w formacji udali się w stronę murów.
+ * Imre kiwnął głową i gestem kazał swoim zawracać
+<Imre> Dalej, psubraty, do miasta!
+<Imre> Robota czeka wy łachudry!
+ * Nevron wskazał dłonią do natarcia, prosto na cytadelę, a sam przyklęknał, oczy mu zapłonęły, a pod nim dosłownie popękał i zapłonął znak pentagramy - zaczynał inkantować zaklęcie
+<Juszi> Imre: idziesz ze swoimi ludźmi przez w większości puste ulice. Ludność cywilna już na samym początku ataku dała dyla, a samo natarcie wypchnęło obrońców w głąb miasta.
+ * Nevron wypowiadał słowa, a runiczne glify wirowały mu nad głową, pentagraf pulsował coraz mocniej, aż w końcu wszystko zgasło
+ * Imre prowadził, razem z bliźniakami, natarcie wzdłuż murów od strony Shantytown, obsadzając swoimi ludźmi bramy miejskie, i kierując się w stronę flanki cytadeli
+<Juszi> Zbliżacie się do Cytadeli, gdzie właśnie szykuje się natarcie.
+<Juszi> W dali widzisz Nevrona w swoim żywiole, sądząc po spektaklu, szykuje się coś wielkiego.
+ * Imre gestem kazał wiarze czekać i kryć się
+<Juszi> W tym czacie piechurzy ostrzeliwują się z łuków i kusz.
+<Imre> Chować się, gamonie, ten czerwoniec rzuca jakiś potężny czar!
+ * Imre sam przykleił się do załomu i jął otaczać się osłonami magicznymi, przynajmniej na tyle na ile blokady mythala mu pozwalały
+ * Nevron oczy nadal płonęły mu jeszcze czerwonym blaskiem żywego ognia
+
+<Juszi> NEvron uniósł ręce nad głowę, pentagram pod jego nogami powiększył się... zniknął... znów pojawił się, płonąc żywym ogniem, od którego zajęły się okoliczne budynki...
+<Nevron> d20+3
+<Jaskier> Nevron, (d20+3) 8.
+ * Imre czuł z magii Nevrona tętniące zło, rzucające mu się cieniem na serce. Aż zadrżał, gdy domyślił się prawdy.
+<Imre> Spierdalać stąd!
+<Nevron> d20+3
+<Jaskier> Nevron, (d20+3) 13.
+ * Imre wrzeszczał
+<Juszi> Nevron sam zbladł na chwilę, ale dokończył zaklęcie. Pentagram zgasł i sama rzeczywistość zafalowała i zagięła się w tym miejscu, gdy ukazał się jeden z lordów demonów, Pazuzu.
+<Juszi> http://images.wikia.com/forgottenrealms/images/1/14/Pazuzu.jpg
+<Imre> Do bram Gildii, WON!
+ * Imre pogonił swoje oddziały i przybocznych, samemu pozostając za załomem i patrząc na rozwój wydarzeń
+<Juszi> Przyzwany demon ryknął coś w czarnej mowie, języku tak plugawym i złym, że aż walka na chwilę ustała, gdy żołnierze usiłowali dojść do siebie.
+ * Imre złapał jakiegoś czerwonego maga, zbyt wystraszonego, by uciekać
+<Imre> Niech "Bicz" i flota odejdą na bezpieczny dysatns!
+<Imre> Zrozumiałeś?!
+<Juszi> "Tak... tak jest"
+<Juszi> MAg był prawie że wdzięczny, że ma wymówkę do ucieczki z pola bitwy.
+<Imre> A teraz won, pluskwo, niech cię nie widzę!
+<Juszi> Na murze ujrzeliście Aznara Thrula. Mag dzielnie stał wyprostowany, ściskając w ręku długi, kościany kostur.
+<Juszi> Nie zważając na unoszącego się nad cytadelą demona, na którego widok jej obrońcy rzucili się do panicznej ucieczki, uniósł kostur nad głowę i przełamał go.
+ * Nevron wskazał dłonią na Aznara, a potem spoglądając w jego stronę zrobił znany gest palcem przez całą długość szyji
+ * Imre zauważył, że część oddziałów wciąż szturmuje mury cytadeli
+<Juszi> Znowu rzeczywistość zagotowała się, powietrze zafalowało, pokazał się migoczący, złocisty portal... wyleciał z niego największy drakolicz, jakiego kiedykolwiek widzieliście.
+<Juszi> Imre: to nie są dobre czasy dla uczciwego pirata. Z jednej strony demon, z drugiej drakolicz... prawie że ci słabo.
+ * Imre klęknął, po czym trzasnął otwartą dłonią w ziemię, a spod niej wystrzeliły jęzory zielonego kwasu, wypalające grunt w kształt pentagramu
+<Imre> Tabitha, pomóż!
+ * Nevron wbił kostur w ziemię, rzucił czar niewrażliwości, otaczając się srebrzystym kloszem i skupił całą swoją moc na kontroli lorda demonów
+<Juszi> Nevron: demon zignorował polecenie ataku na twojego wroga, gdy Drakolicz ruszył na niego z rozdzierającym powietrze rykiem.
+<Juszi> Ależ to widok! Dookołą nich wybuchają magiczne pociski i inne potężne, wzajemnie kontrujące się czary. Demon zamachnął się czarnym, płonącym plugawym płomieniem mieczem, na co Dragolicz odpowiedział stożkiem magicznego kwasu.
+<Juszi> Imre: twój chowaniec dosłownie wypełzł spod gruntu. 
+ * Imre uśmiechnął się, po czym zwinnie wskoczył na plecy stworzenia
+<Juszi> Pojedynczy piechurzy wrócili na mury, ostrzeliwując znowu was z kusz i łuków. Załogi wróciły też niechętnie pod bombardy, zaczął się ostrzał.
+<Imre> Dalej, Tabitho, zabierz nas tam, zabierz nas do walki, zabierz nas do maga!
+ * Imre krzyczał, rzucając na nich czar opończy, by przedarli się przez pole walki
+<Juszi> Demon walnął pięścią w jedno ze skrzydeł drakolicza, prawie je odrywając. Obie istoty spadły na mur, kotlując się w szaleńczej walce wręcz.
+<Juszi> Gdzieś z boku Imre chyżo wspinał się po murze na swoim pająku, wykorzystując zamieszanie.
+<Juszi> Nevron uśmiechał się tylko szeroko, widząc, jak jego wróg na murze usiłuje rzucać zaklęcia.
+ * Imre nie czekał, aż pajęczyca dobrnie do szczytu murów, i skoczył, łapiąc się blanków i wdrapując na umocnienia. Od razu dobył miecza i rozejrzał się, oceniając sytuację
+<Juszi> Imre: przeskoczyłeś przez blanki muru z sejmitarem w dłoni. Gdzieś dalej grupa piechurów usiłuje odrzucić szturmujące siły Nevrona, jeszcze dalej walka ustala, wszyscy obserwują kotłowaninę magicznyh istot.
+<Juszi> a gdzieś pomiędzy stoi Aznar Thrul ze swoją świtą, usiłując w panice rzucać zaklęcia. Niezbyt mu idzie.
+<Juszi> Nevron: k20+4
+<Juszi> masz modyfikator za skupienie :P))
+ * Nevron modli się, dzięki! ))
+<Nevron> d20+4
+<Jaskier> Nevron, (d20+4) 17.
+ * Imre gestem wskazał pajęczycy resztki obrońców murów, tak by wsparła natarcie sojuszników. Sam złapał mocno sejmitar, po czym rzucił się wprost na Thrula, ignorując pozostałych przeciwników.
+<Juszi> Nevron: twoja kontrola nad demonem wzmaga się, przestaje tak walczyć mentalnie. Koncentruje się zamast tego na drakoliczu, właśnie oderwał mu ogon. Potworny ryk niesie się po mieście.
+<Juszi> Imre: zeskoczyłeś z grzebietu swojego chowańca i, przeskakując po blankach obok wrogów rzuciłeś się z wyskoku z sejmitarem w ręce. K20+3
+<Imre> d20+3
+<Jaskier> Imre, (d20+3) 11.
+<Juszi> Thrul usiłował odrzucić cię jakimś czarem, ale niezbyt mu wyszło. Wpadłeś prosto na niego i przewróciłęś go, uderzając mocno pięścią po ryju. Jego ochroniarze niestety rzucili się na ciebie.
+<Juszi> Nevron: demon kończy już z drakoliczem. Uniósł go nad głowę w potężnych łapach, ścisnął i dosłownie złamał w pół, po czym spopielił czarnym ogniem.
+<Juszi> Ryknął okrutnie.
+ * Nevron rozkazał demonowi oczyścić pozostałe siły Anzara Thrula
+<Juszi> Pazuzu samym wyglądem sprawiał, że obrońcy rzucali się do panicznej ucieczki. Wybił kilka potężnych dziur w murze, ułatwiając atak.
+<Juszi> Imre: k20+2
+ * Imre kątem oka dostrzegł ruch gwardii przybocznej Thrula, złapał więc za flakon wiszący na pasie przewieszonym przez ramię i cisnął nim o ziemię, samemu wstrzymując oddech i tnąc Thrula na odlew
+<Imre> d20+2
+<Jaskier> Imre, (d20+2) 15.
+<Juszi> Imre: wybiłeś się mocno w górę, tnąc i rzucając flakon, rozbijając go o ziemię. Chmura dymu zasłoniłą twoje działania, wyskoczyłeś z kotła z saltem.
+<Juszi> Chyba chlastnąłeś Thrula przez twarz, ale nie jesteś pewien.
+<Juszi> Demon właśnie wykończył jakieś niedobitki. ZOstały pojedyncze gniazda oporu.
+ * Imre przysiadł nisko na nogach, próbując wyczuć aurę magii pulsującą od Thrula. Wyciągnął przed siebie dłoń, a na jej powierzchni zaczął wibrować i zarysowywać się jątrzący, krwisty znak. Rzucił się następnie w kierunku, gdzie, jak myślał, stał Zulkir.
+ * Nevron skupił się i starał się odwołać demona do jego wymiaru
+<Juszi> Nevron: K20+4.
+<Juszi> Imre: k20+2.
+<Nevron> d20+4
+<Jaskier> Nevron, (d20+4) 22.
+<Imre> d20+2
+<Jaskier> Imre, (d20+2) 19.
+<Juszi> Nevron: demon ryknął nienawistnie ostatni raz, rozłożył łapy i zniknął w chmurze ognia.
+<Juszi> Imre: bezbłędnie wyczułeś, gdzie stał Aznar Thrul. Gdy dym się rozwiał, stał w takiej pozie, w jakiej go złapałeś, usiłując rzucić jakiś czas. Jego twarz wykrzywia grymas przerażenia.
+ * Nevron stanął po chwili przed Zulkirem i tylko się uśmiechał
+<Juszi> Walka dookoła was zamiera. Bliźniacy idą cali zakrwawieni w stronę Imrego, Lyri prowadzi jakiegoś jeńca z małą kuszą w rękach.
+<Juszi> Pojedyncze budynki w Bezanturze płoną, ale większość miasta jest nieruszona.
+<Nevron> Szkoda, że nie widziałem Twej twarzy pomyleńcze, gdy - a na pewno próbowałeś - chciałeś się teleportować i ucieć jak ostatni tchórz
+ * Nevron skupił na chwilę myśli, rzucił zaklęcie przesuwając dłoń przed sobą i zdejmując paraliż z twarzy Zulkira
+ * Imre stał obok, patrząc się na całą scenkę. Nie lubił czarów ogłuszeń, znęcanie się nie było w jego stylu. Twarz wykrzywiał mu nieprzyjemny grymas.
+<Juszi> Thrul milczy, jego twarz wykrzywiła szczera nienawiść.
+<Juszi> Zapewne nie raz wyobrażał sobie taką scenkę, w której to Nevron miał być sparaliżowaną ofiarą.
+<Nevron> Wybrałeś złego maga jago cel swych chciwych łap
+<Nevron> a Thay... Thay będzie MOJE!
+ * Nevron smiał się mu prosto w twarz
+<Nevron> a Tobie... cóż, przyjdzie po prostu zdechnąć
+ * Nevron przybrał nagle wyraz nadchodzącego sztormu
+<Juszi> "POlegniesz, polegniesz. Zabrałeś się za przeciwnika znacznie potężniejszego od siebie."
+ * Imre splunął
+ * Nevron odwrócił się i poszedł w swoją stronę, tylko kiwną przechodząc obok Imre
+<Nevron> Pozbądź się go
+ * Imre podszedł do Thrula, patrząc na niego beznamiętnie. Dobył sejmitaru i płynnym, szybkim cięciem odrąbał mu głowę
+<Juszi> Nic dodać, nic ująć. Widzisz tylko, że pomiędzy trupami jego uczniów stoi jeden czerwony mag, który uszedł z życiem. Sig Hellstrom.
+<Juszi> Kiwa głową z uznaniem.
+<Juszi> "Subtelność nie jest waszą mocną stroną, co?"
+ * Imre strzepnął krew z jataganu, po czym wsunął go za pas. Kierował się do Lyri, ciekaw co też za jeńca zdobyła. Hellstroma zignorował.
+<Juszi> Lyri popędza kopniakiem jakiegoś maga, nie jest zbyt rozmowna. Widać, że jeśli zrobi jeden krzywy ruch, przebije mu głowę bełtem.
+<Juszi> Monroe podszedł do Ciebie z raportem. 
+<Imre> Jak sytuacja, panie Monroe?
+ * Imre spytał się, lustrując czerwonego maga-jeńca wzrokiem
+<Imre> I co to za ścierwo Lyri, też cię wzięło na znęcanie się?
+<Juszi> "Właśnie eliminujemy pojedyncze ogniska oporu. Doki nasze, port handlowy też, właśnie wykańczamy mury miejskie."
+<Juszi> "Myślał, że zdoła mnie spalić ognistą kulą."
+<Juszi> "Źle myślał."
+<Imre> Bardzo dobrze, panie Monroe. Nie przemęczajcie się, nie umkną nam. Nie ma co marnować surowców i ludzi. Wydziel kilka statków, niech wrócą z rannymi do portu, tam lepiej się nimi zajmą niż w tych ruinach.
+<Imre> A ty, Lyri, daj sobie już spokój, przecież on ma pełne gacie.
+<Juszi> "Pozwoliłem sobie to zrobić bez rozkazu." Obejrzał niedbale paznokcie.
+ * Imre uśmiechnął się po raz pierwszy od śmierci Thrula
+<Imre> I dlatego jesteś moim chiefem, Monroe!
+<Nevron> Dość gadania
+<Nevron> Musimy opracować plan działania i wystartować z kampanią i uderzneiem na cytadelę, razem ze wszystkimi sojuszami w kilka najbliższych dni
+ * Imre kiwnął głową, patrząc na dogasające gdzieniegdzie pojedyncze walki
+<Imre> Niczego innego się nie spodziewałem
+<Nevron> Flota musi być gotowa
+ * Imre kiwnął głową
+<Imre> Będzie
+<Imre> Straty uzupełnimy, statki nie ucierpiały
+<Nevron> Zawiadomię wszystkich naszyh sojuszników.
+<Imre> Kontaktowałeś się z następcą Thrula?
+<Nevron> Niezdecydowanym obecne wydarzenia powinny dać do myślenia
+<Imre> Pewnie i tak będzie po naszej stronie, daliśmy mu idealny prezent
+<Nevron> Nie ma następcy Thrula
+<Nevron> Jestem tylko ja
+ * Imre uniósł brwi ze zdziwieniem
+<Imre> Zulkirem nie zostaje następny w kolejce z jego szkoły?
+ * Imre wzruszył ramionami
+<Nevron> Przynajmniej do czasu, gdy kosciej zaszczycie w koncu swymi sprochnialymi koscmi jakies mauzoleum na dobre
+<Imre> Cóż, polityka to twoja broszka
+<Nevron> Lepiej nie rozmyślaj za mocno o tym, jaka jest polityka wśród czerwonych magów, bo po pierwsze
+<Nevron> To nie Twoja sprawa
+<Nevron> a po drugie
+<Nevron> to nie Twoja sprawa
+<Imre> Jeśli nie masz nic przeciwko, zajmę się rozmową z tutejszym przedstawicielem gildii handlowej
+<Imre> Upewnię się że dzielnica opanowana
+<Imre> Chciałbym, by port był w stanie przyjmować zaopatrzenie z portu Buccaneer jak najszybciej
+<Juszi> Monroe był niezastąpiony.
+<Imre> Zresztą, mam parę detali odnośnie naszej współpracy morskiej do obgadania.
+<Juszi> "Mam tu raport od jakiegoś półelfa z tej dzielnicy, pono osobiście wyciął ostatniego przydupasa Thrula w porcie handlowym."
+ * Imre obejrzał się
+<Imre> Świetna robota, panie Monroe
+<Juszi> "Staram się, si..." zamilkł.
+<Imre> Niech pan zbierze załogę "Bicza" i czeka na mój powrót, wkrótce rejs do Buccaneer
+<Juszi> "Zrozumiano."
+<Juszi> Monroe spokojnym krokiem udał się do portu, wydając polecenia, szykując też przegrupowanie sił.
+<Juszi> ***
+<Juszi> Nie minęły trzy dni, gdy zjednoczone pod dowództwem Nevrona siły ruszyły w głąb Thay, w stronę cytadeli.
+<Juszi> PO drodze miały dołączyć do niego wojska sprzymierzeńców; wiedział, że Szass Tam zapewne obserwuje magicznie każdy jego krok.
+<Juszi> Prawie że pokazał figę w powietrze, ale się powstrzymał.
+<Juszi> Imre miał złe przeczucia co do tego ataku. Jak na razie wszystko szło według planów, ale plany były ambitne. Cholernie ambitne.
+<Juszi> Ciekawiło go, czy to był uśmiech od losu, czy też interwencja jakichś innych sił,
+<Juszi> Zbliżała się ostateczna konfrontacja.
+<Juszi> ***
+<Juszi> FIN

@@ -1,0 +1,837 @@
+
+Zima dawała się we znaki coraz bardziej, a statek - mimo, że specjalnie projektowany na takie przeprawy - ledwo dawal sobie radę z krami przykrywającymi taflę wody
+Załoga przemarznięta do szpiku kości biegała po pokladzie aby jakoś się rozgrzać i zapomnieć o panujących warunkach.
+Większość pasażerów, głównie najemników upatulona we wszystko co tylko dało sie ubrać i czym dało się przykryć kulila się pod pokładem, albo ogrzewała na pokładzie skupiona wokół kilku specjalnie rozpalonych małych ognisk.
+Czas ciągnął się niemołosiernie, ale po kilku dniach w końcu mróz zelżał i chociaż dalej było zimno, to teraz dało się to znieść.
+Z wody zniknęły już tafle lodu - znak, że podróż zbliża się ku końcowi.
+Statek zwany "Pijaną Syreną" (zawiłe i mocno pijane są losy nadania takiego imie), na którym właśnie płyniecie zmierzał ku Targos - małemu miasteczku rybackiemu w pobliżu Dziesięciu Miast
+Przewoził na swoim pokładzie zapasy i siłę zbrojną - najemników, którzy zaciągneli się głównie za obiecane pieniądze.
+Powodem tego stanu rzeczy były ciągłe ataki goblinów na Targos, oraz reszte z Dziesięciu Miast, które nasilały się z każdym dniem.
+Głównie wieść o sowitym wynagrodzeniu spowodowała napływ najemników wszelkiej maści w te okolice
+Było już widać port oraz dostrzegalny ogien i dym, gdy nagle ktoś krzyknął:
+- KATAP...
+Nie zdążył... wielki głaz uderzył w pokład dokładnie w miejscu gdzie stał przepaławiając statek na pół dosłownie w ciągu sekundy
+Oboje jednocześnie polecieliście w stronę rufy w ostatnim momencie łapiąc się wystającego kawałka drewna - to uratowało was przed wpadnieciem do lodowatej wodym gdy po chwili drugi glaz przelecial przez zagle i uderzyl w mostek calkowicie pozbawiajac was nadzieji
+Wpadliscie do wody, o dziwo i na szczescie nie takiej zimnej, jakby sie to wydawało po pnaującym klimacie
+Po chwili ktoś wyciągnął was na szalupe ratunkową - to kapitan i dwóch majtków
+Hadrian dostał do ręki jedno z czterech wiosel
+Obraliście kierunek portu, a gdy dobijaliście już do brzegu w oddali dało się słychać potężne bębny, brzmiące równo i coraz głośniej...
+Wioska jest w połowie zniszczona, wszędzie biegają gobliny niszcząc i krzycząc coś po swojemu. Wiele domostw w porcie płonie, a inne już dawno spłonęły.
+Wszędzie leżą ciała poległych
+Dalej, widzicie dwóch męzczyzn - jeden leży ranny, a drugi właśnie rozpłatał głowę jednemu z czterech goblinów, z którymi najwidoczniej walczy.
+
+* Hadrian wyskoczyl z lodzi jak poparzony i chwycil za miecz
+<Hadrian> Idziemy!
+* Rann wyskoczyła z łodzi, podążając za Hadrianem.
+* Hadrian ruszyl i natarl na jednego z goblinow, tnac poprzecznie
+k100
+
+<Hadrian> d100
+<Jaskier> Hadrian, (d100) 65.
+Gobliny nie sa trudnymi przeciwnikami, nawet dosc slabymi jak na Twoje umiejetnosci, ale to nie byl z pewnoscia jedeno z Twoich popisowych uderzen.
+
+* Rann otwarla szerzej oczy, widzac gobliny, zrazu tez chwycila za sztylet i doskoczyla do jednego z nich.
+Udalo Ci sie jedynie odciac jednemu z goblinow (temu przytrzymujacego mezczyzne) reke, az sie wywrocil
+
+Rann: k100
+
+<Rann> d100
+<Jaskier> Rann, (d100) 50.
+Rann pchnela nozem prosto w oko goblina bez reki. Ten pomachal zdrowa konczyna, chwile jeszcze stal po czym padl martwy twarza na snieg
+
+* Hadrian wykrecil miecz i grzmotnal nastepnego goblina ciezka glownia
+Jeden goblin wlasnie zamachnal sie na Rann kosciana maczuga, celnie, mocno...
+
+* Rann krzyknęła, próbujac uniknac ciosu
+... z pewnoscia by trafil, gdyby nie reakcja mezczyzny, ktorego jeszcze przed chwila trzymaly gobliny. Podniosl sie blyskawicznie i zablokowal mieczem cios. Odwrocil sie i wyciagajac sztylet zza paska, zgrabnie z polobrotu przecial goblinowi tetnice szyjna
+
+Krew bryzgnela na snieg. Goblin jeszcze przez chwile umieral w drgawkach.
+
+Hadrian: d100
+
+<Jaskier> MG, (d100) 16.
+kurde
+
+k100*
+
+<Hadrian> d100
+<Jaskier> Hadrian, (d100) 87.
+Glupi Jaskier... ))
+
+<Hadrian> jeszcze lepiej, moje legendarne rzuty ))
+* Rann otrzepala kubrak i spojrzala pytającym wzrokiem na oby dwa martwe gobliny.
+Hadrian: goblin uniknal Twojego ciosu (sam nie wiesz jak) i zdolal Cie uderzyc w odwecie maczuga. Nie byl to mocny cios, ale straciles na chwile rownowage i upadles.
+
+* Hadrian wkurzyl sie, odwrocil sie, obrocil miecz i pchnal dziada, wciaz lezac
+d100
+
+<Jaskier> MG, (d100) 2.
+Aaaa... KURWA ))
+
+<Hadrian> rzuciles za mnie :D ))
+Niech bedzie... ))
+
+* Rann wzruszyla ramionami, widząc nieudolnego człeka, natarla na kolejnego goblina.
+Hadrian: zrobiles to tak szybko, ze normalny widz nawet by sie nie zorientowal, ze sie poruszyles. Jedyna rzeczy jaka by zobaczyl, to odpadajaca na snieg glowa goblina i jego cialo, pobieglo prosto w sciane jednego ze spalonych domostw
+
+* Hadrian zerwal sie na nogi
+Czlowiek, ktoremu pomogliscie upadl na kolana i upuscil miecz dyszac ciezko, ale szybko sie pozbieral i podbiegl do mezczyzny lezacego nieopodal, na juz czeronym od krwi sniegu
+
+Odwrocil sie do was
+
+- Prosze... pomozcie, macie jakies leki? Mikstury leczace? Moze ktos z was jest klerykiem i umie uzdrawiac rany?
+
+* Rann zerknela na Hadriana, unoszac brew do gory.
+* Hadrian pokiwal przeczaco glowa
+<Hadrian> Poszukajmy czegos, szybko
+<Hadrian> Gdzie tu jest jakis kaplan? Medyk? Szarlatan z ziolkami?!
+Mezczyzna posmutnial, spojrzal do dogorywajacego czlowieka, widocznie przyjaciela, urnil lze kladac glowe czolem na jego piersi
+
+- Umarl...
+
+<Hadrian> Szybko!
+<Rann> I tak nie przezyje, tedy po co biegac naderemno?
+* Hadrian zatrzymal sie
+Czlowiek wstal, zmienil wyraz twarzy na mocno zagniewany i podniosl miecz
+
+* Hadrian opuscil glowe i przystanal
+- Zaplaca mi za to, cala ta goblinska zaraz... zaplaca!
+
+<Hadrian> Kto tu dowodzi?!
+- Wybaczcie... to trudno czas... jestem Tergh Iminis, palladyn w sluzbie Illmantera
+
+- To byl moj wierny kompan i przyjaciel... ech... ale to nie czas... wojna trwa
+
+<Hadrian> Witaj, panie, jestem Hadrian, wojownik z Sundbar
+* Hadrian uklonil sie lekko
+- Dowodzi tutaj Lord Ilroyd
+
+<Rann> Ano, wybaczamy. Rann zwa.
+<Rann> Lord? I gdzie on niby przesiaduje tera?
+<Hadrian> Na pewno nie w dokach
+- Wyzej w miescie, za fortyfikacjami
+
+<Hadrian> A te gobliny skad tu?!
+- Przedarly sie sposobem przez magazyny - przekopaly sie jakos przez skaly. Musialy to drazyc tygodniami
+
+- Na szczescie w ostatniej chwili udalo nam sie je wybic i zawalic przejscie. Od tej strony przynajmniej jestesmy juz bezpieczni
+
+<Rann> Przez skaly? Znaczy sie zrobily sobie skads tunek do miasta?
+- Jak widzicie, nie wszystkim udalo sie przezyc, wielu dzielnych rycerzy zginelo
+
+<Hadrian> Czas ucieka, ruszajmy do lorda! Czas dolaczyc do jakiejs skoordynowanej obrony
+<Hadrian> Mozesz poprowadzic nas, panie?
+- Chodzcie za mna
+
+* Hadrian chwycil mocniej miecz i ruszyl szybko
+Tergh podniosl miecz i pewnym korkiem ruszyl sciezka skalna w strone dalszej czesci miasta
+
+* Rann pokiwala glowa i podazyla za palladynm chyzo.
+* Hadrian rozglada sie w biegu
+Przeszliscie przez spore fortyfikacje do srodka miasta
+
+* Rann rozglada sie ukradkiem na boki
+Nie bylo zbyt duze. Po drodze mineliscie karczme o wdziecznej nazwie "Pelny Dzban" - jak glosil szyld.
+
+Rann: nic ciekawego, normalne zabudowania miejskie, tyle ze w wiekszosci domow okna i drzwi sa pozabijane, a na ulicach pusto
+
+Obok karczmy stoi mezczyzna pokaznej budowy ciala i klnie na glos kopiac w dziwne urzadzenie przypominajace jakis dzwig
+
+<Rann> Wesole miasto.
+* Rann mruknela do siebie
+* Hadrian zatrzymal sie na chwile, by przyjrzec sie machinie
+Tergh prowadzi was dalej, za miasto do czesci, ktora zbudowana zostala niedawno.
+
+Jest to spora palisada dookola kilku domostw. tutaj juz sporo ludzi. Glownie najemnikow masci wszelakiej. Ale mozna tez spokac grupki patrolujacych zolnierzy miejskich
+
+Hadrian: nie ma czasu, palladyn idzie dosc szybkim krokiem
+
+* Hadrian westchnal i ruszyl dalej
+Dochodzicie do okazalego budynku
+
+- Jestesmy na miejscu.
+
+Tergh wszedl do srodka
+
+* Hadrian nie zastanawiajac sie wkroczyl za nim
+* Rann zerknela na budynek przelotnie, weszla za palladynem zaraz.
+- Lordzie Iloyd - zaczal palladyn - sukces, przejscie zostalo unieszkodliwione i nie zagraza nam juz obustronny atak
+
+- Dobra robota Tergh.
+
+- Niestety Armis polegl...
+
+Lord widocznie sie zasmucil, ale obecna sytuacja nie pozwalala mu w tej chwili na takie emocje i szybko wrocil do wyrazu powaznego i zdecydowanego czlowieka
+
+- A ni kim sa
+
+- Przybyli na "Pijanej Syrenie"... przezyli tylko oni, dwoch majtkow i kapitan
+
+* Hadrian uklonil sie lekko
+<Hadrian> Hadrian Arthis, z Sundbar, najemnik.
+<Rann> Rannveig z... Z daleka. Do uslug.
+- Dobrze... zostaw mnie z nimi i udaj sie na palisade do siezanta Certa. Poprowadzisz przygotowania do obrony osobiscie. Na tobie moge polegac najlepiej.
+
+Therg skinal glowa i wyszedl
+
+* Hadrian wzruszyl ramionami i ruszyl za paladynem
+<Hadrian> Zaraz
+* Hadrian zatrzymal sie
+<Hadrian> Co w kwestii zaplaty, panie?
+<Hadrian> Idea sie nie najemy.
+* Rann ukryla ziewanie, odwracajac lekko glowe w bok.
+- Wiec przybyliscie na "Pijanej Syrenie"... szkoda statku i zalogi, czesto przyplywal. Mozna rzecz, ze mial regularne kursy... ale ja nie o tym
+- Co was sprowadza tutaj, w obecnych czasach i panujacej sytuacji
+-Jakiej zaplacie... nie zatrudnialem was do zadnej pracy
+
+<Hadrian> Idea. I chec zarobku.
+<Rann> Zloto... Tfu! Pomoc ludziom.
+Najemnicy... ach tak
+
+<Hadrian> Mhm, rozumiem. To moze ja sobie usiade pod dokami, a nie na murze, razem z innymi.
+- Nie oszukujcie mnie, ze pomoc ludziom, nie jestescie tu jedynymi najemnikami
+
+* Rann wzruszyla lekko ramionami, starajac sie zachowac powazna mine
+<Rann> Najemnik nie najemnik, jak zwal tak zwal.
+* Hadrian usmiechnal sie lekko
+<Hadrian> Ludzie nigdy mi nie wierza w tej kwestii
+<Hadrian> A poza tym przybylem ratowac brata.
+<Hadrian> Moze go panie znasz, Kemp go zwa.
+* Rann zerknela pytajaco na Hadriana i zapytala szeptem
+<Rann> Mi mowiles o siostrze?
+- Oczywiscie... Jestes jego bratem?... Hadrian?... Niemozliwe... pamietam Cie jeszcze jak byles taki maly
+
+Lord pokazal reka w miejscu kolan
+
+* Hadrian usmiechnal sie krzywo
+* Rann chrzaknela glosno.
+- tak... pamietam Cie... wyjechales z ojcem jak byles maly, a brat zostal tu z matka... tak...
+
+<Hadrian> Co z nim, zyje?
+Ilroyd usiadl
+
+- Dwa miesiace temu zginal podczas pierwszego szturmu goblinow na miasto... Przykro mi, dobry i poczciwy byl z niego czlowiek
+
+* Hadrian zbladl i spowaznial
+- Jak wielu ludzi, ktorzy wlasna piersia bronili Targos
+
+* Rann przestala wpatrywac się glupio w lorda, ponownie chrzaknela.
+- Jednak teraz trzeba pamiectac, ze to nie koniec walk, a uczucia zostawic sobie na potem
+
+<Hadrian> O tak...
+Rann: Lord obdarowal Cie kamiennym wzrokiem
+
+Rzucil na podloge mieszek ze zlotem
+
+* Hadrian pozostal w bezruchu i milczeniu
+- 100 sztuk zlota, po 50 na glowe. Potem dostaniecie cala sume - jak wszyscy. Teraz idzcie zapoznajcie sie z miastem. Powiadomie was, gdy bede czgosc podtrzebowal
+
+Ilroyd wstal i wyszedl do innego pomieszczenia zamykajac za soba drzwi
+
+<Rann> Nad wyraz miły jegomosc.
+* Rann zerknela ukradkiem na podloge.
+<Hadrian> Wez, wez, wiem, ze az cie rece swiezbia.
+* Rann pokrecila przeczaco glowa
+* Hadrian okrecil sie na piecie i wyszedl szybko
+<Rann> Ej, hejże, Hadrian!
+* Hadrian stanal na chwile
+* Rann krzyknela i przewrocila oczami. Zgarnela mieszek z podlogi i wybiegla za nim
+<Hadrian> Tak?
+<Rann> No ten, szkoda brata, wspolczuje. Ale mozeby tak pomoc tym... biednym... ludziom jak juz tu jestesmy? Pomscisz brata, ot co!
+<Hadrian> Ot, co.
+<Hadrian> To oddaj moje 50 sz.
+* Hadrian usmiechnal sie promiennie
+* Rann zerknela ponownie na mieszek
+<Rann> Trza w cos wsadzic temieniadze, przeca nie bedziesz ich po kiszeni trzymal. Przetrzymam mieszek, poki co.
+<Hadrian> Tak, tak.
+<Hadrian> MG, mam jakis swoj mieszek?))
+Tylko jeden, ale on juz zajety))
+
+<Hadrian> Niech wiec tak bedzie.
+<Rann> Toc mi chyba ufasz, co?
+<Hadrian> A teraz moze rozejrzyjmy sie za naszym znajomym paladynem.
+<Hadrian> Tobie przede wszystkim nie ufam.
+* Hadrian usmiechnal sie znowu
+<Rann> To powiedzmy, ze z dobroci wlasnej poniose ten wielki ciezar
+* Rann podrzucila niezdarnie mieszkiem
+<Hadrian> Och, z pewnoscia
+* Hadrian ruszyl szybko w strone, w ktora poszedl Paladyn
+Hadrian: rownie dobrze mozesz isc w kazda
+
+<Hadrian> w sumie ))
+* Hadrian rozejrzal sie za jakims wojakiem
+<Rann> Wyjdziemy z tego budynku czy stac bedziemy jak te kolki tu?
+Hadrian: pelno ich tu. To jakis zolnierz siedzi opart o scianie, to w okolo ognisk siedza, albo stoja najemnicy, a od czasu doczasu przejdzie grupa patrolowa
+
+Rann: jestescie na zewnatrz juz
+
+* Hadrian podchodzi do jednego z zolnierzy miejskich
+<Hadrian> Powiedz mi, przyjacielu, gdzie znajde sierzanta Certa?
+- Przy wejsciu do palisady, na polnocy
+
+Wskazal placem kierunek
+
+palcem*
+
+<Hadrian> Dziekuje.
+* Hadrian szybko ruszyl w tamtym kierunku
+<Rann> Ej, czekajze! 
+* Rann podazyla za Hadrianem, rozgladajac sie na boki uwaznie
+Hadrian: widzisz spora grupke zolnierzy przy wejsciu, za nimi spora dziura w drewnianej palisadzie
+
+Miedzy zolnierzami stoi Tergh i rozmawia z jakims czlowiekiem
+
+* Hadrian podchodzi do paladyna i czeka, az skoncza rozmawiac
+* Rann sprobowala przywiazac rzemykami mieszek do paska, zerkajac chytrze dookola.
+Hadrian: palladyn zobaczyl Cie i natychmaist sie odwrocil
+
+- Wspaniale ze jestescie, przydacie sie
+
+* Rann podeszla do palladyna
+<Rann> Do...?
+<Hadrian> ...walki.
+- Niezbyt ciakwe... ale ktos musi to zrobic...
+
+- Chodzi o to, ze nie mamy drewna, zeby zlatac palisade. Musicie isc w dol do miasta i zobaczyc co sie dzieje
+
+<Hadrian> mm... sekunde, czy do przenoszenia drewna sluzyla taka dziwna konstrukcja w miescie?
+- Chyba tak, nie wiem - nie zajmuje sie tym
+
+- musicie po prostu zbadac sprawe, co zatrzymalo transporty
+
+<Rann> Sie wie. Daleko to to?
+<Hadrian> W miescie.
+<Hadrian> Chodzmy po prostu do tej dziwnej dzwigopodobnej konstrukcji, i to szybko
+* Hadrian obrocil sie na piecie i ruszyl truchtem
+* Rann westchnela ze zrezygnowaniem i ruszyla za nim
+Hadrian: docieracie na miejsce, ten sam czlowiek dalej kopie w maszyne i klnie
+
+<Hadrian> Co sie stalo?!
+* Hadrian przyglada sie maszynie dokladniej
+* Rann obrzucila maszyne bacznym spojrzeniem
+- Zepsuc sie... zepsuc... a Qin nie wiedziec czemu
+
+W tym momencie znowu zaczal klnac
+
+<Hadrian> Mhm. A jak szybko to naprawic? Bo to byc potrzebne.
+* Rann chciala cos powiedziec, ale w ostatniej chwili powstrzymala sie
+* Hadrian obrzucil ja lodowatym spojrzeniem
+- Qin nie wiedziec... Qion tylko wciagac drewno, a teraz Qin nie moc, bo nie dzialac
+
+<Rann> Pewnie sie cos zepsulo...
+* Rann zrobila filozoficzna mine i spojrzala na Hadriana
+* Hadrian spojrzal na maszyne jeszcze raz, usilujac zrozumiec zasade jej dzialania
+Qin usiadl na zimnej ziemi, a zrobil to w dosc specyficzny sposob... po prostu skoczyl zadkiem na podloze wywolujac pojedynczy, maly i niezbyt rozlegly wtrzas sejsmiczny
+
+* Hadrian zakolysal sie
+* Rann scisnela mocniej mieszek, uwazajac, by nie spadl na ziemie
+* Hadrian nadal usiluje zrozumiec, jak dziala to dziadostwo
+Hadrian: pare prostych blokow i trybow, wiekszosc ukrytych pod drewnianym wiekiem
+
+<Hadrian> Hmm....
+<Hadrian> To moze...
+* Hadrian szturchnal Quina
+<Hadrian> Wstan i usiadz kilka razy.
+Po prostu ciagnac za sznur ponosi sie platforme ktora jedzie tutaj po skanlej scianie
+
+Hadrian: Qin wlasnie rzucil Cie w twarz sniezka i zaczal sie smiac do siebie
+
+- Qin dobry w sniezkach, Qin dobry
+
+<Rann> Z kim ja mam pracowac...
+* Rann wzniosla oczy do nieba
+<Hadrian> A dobry w siadaniu i wstawaniu?
+* Hadrian zachowal spokoj
+- YYYyyy?
+
+Hadrian: Qin chyba nie rozumie o co Ci chodzi
+
+<Rann> Qin umiec siadac i wstawac?!
+- Umiec! Quin pokazac?
+
+<Hadrian> Tak!
+* Rann mruknela cos pod nosem
+* Hadrian usmiechnal sie
+Qin wstal i skoczyl tym tazem tak mocno na dupe, ze malo sie nie przerwociliscie
+
+* Rann rozlozyla rece na boki, coby zachowac rownowage
+* Hadrian chwycil sie czegos i utrzymal rownowage
+* Hadrian zerknal na maszyne
+Hadrian: patrzac na Qina masz wrazenie, ze jakbys rzucil patyk ze skarpy, to Qin na pewno by za nim pobiegl
+
+<Hadrian> nie, bo wtedy miasto upadnie ))
+* Rann zatarla rece, zerkajacna Qina
+Hadrian: ogladasz i ogladasz
+
+k20
+
+<Hadrian> d20
+<Jaskier> Hadrian, (d20) 17.
+Ale nic nie widzisz
+
+<Hadrian> odpadly mi soczewki kontaktowe ))
+wklesly Ci sie w patrzadla ))
+
+<Hadrian> Quin, sprobuj, moze teraz zadziala?
+* Hadrian pokazal na maszyne
+Qin wstal i pociagnal za sznurek
+
+- Nie dzialac, nie dzialac!
+
+qin zaczal machac rekami i klnac
+
+<Rann> To my miec problem nadal, do jasnej cholery...
+Hadrian: dostrzega pod swoimi stopami jakis dziwny przedmiot
+
+* Hadrian kucnal i podniosl go
+Wyglada to na drewniane kolo zebate
+
+* Rann zerknela mu przez ramie
+<Hadrian> Mhm.
+<Rann> Ki czort?
+<Hadrian> Kolo zebate.
+<Hadrian> Qin, powiedz mi, co to jest?
+* Hadrian pokazal mu znalezisko
+<Rann> Pewno odpadlo, jak ten kretyn siadal sobie...
+* Rann mruknela pod nosem
+Hadrian: Qin tylko sie na Ciebie popatrzyl i przekrzywil glowe w lewo
+
+<Hadrian> Powiedz mi, to nie wypadlo z maszyny?
+<Rann> Daj to, ty nie umiesz z nim gadac
+* Hadrian rzucil kolo w przepasc i krzyknal "aport" ))
+<Hadrian> Jak chcesz
+* Hadrian oddal kolo
+* Rann kiwnela glowa i wyciagnela dlon z kolem w strone Qina
+<Rann> Powiesz cioci, co to jest?
+Qin powachal
+
+* Rann starala sie, bardzo starala sie zrobic milamine
+- Nie dobre, nie
+
+qin otworzyl ust i pokazal nadkruszony zab
+
+<Rann> Dobre, dobre, ale skad to masz?
+Rann: Qin sie tylko na Ciebie patrzyl z glupim usmiechem
+
+<Rann> Qin, dam ci cos jak... jak ty mi pokazac, skad miec takie koleczko.
+<Hadrian> Wiesz co?
+* Hadrian wyrwal kolo z rak Rann, podszedl do maszyny i sprawdzil, gdzie je sie da wcisnac
+<Rann> Ej! Dobrze mi przeca szlo z nim.
+Hadrian: niby nic, wszystko gra, ale nagle udalo Ci sie dostrzec jedno miejsce, gdzie widocznie czegos brakuje, dosc male, mniej wiecej wielkosci kola zabatego ktore trzymasz
+
+* Hadrian wcisnal tam kolo
+Pasuje
+
+O dziwo
+
+<Hadrian> Qin, sprawdz, czy dziala
+Qin pociagnal za line jedna reka.... byliscie pod wrazeniem, po chwili na gorze byla platforma zaladowana wielkimi drewnianymi palami
+
+Pieciu chlopa by tego nie potrafilo wciagnac, a Qin na razie uzyl tylko jednej reki, bo druga dlubal w nosie...
+
+<Hadrian> Wracajmy na mur, tu juz nie musimy nic robic.
+- Dzialac, dzialac
+
+* Hadrian podniosl troche sniegu, uformowal i rzucil w Qina, odchodzac
+Qin puscil line i zaczal klaskac w dlonie... uslyszeliscie tylkom potezny huk spadajacych pali
+
+* Rann spojrzala jeszcze raz na Qina po czym odwrocila sie i poszla dalej
+Hadrian: to nie byl dobry pomyl... Qin zaczal plakac i gdzies uciekl
+
+* Rann zatrzymala sie w pol kroku.
+<Rann> No to pieknie. Szukaj go teraz, albo sam ciagnij za ta line.
+<Hadrian> To nie my.
+* Hadrian ruszyl szybko
+* Rann wzruszyla ramionami i zaczela niewinnie gwizdac, oddalajac sie od tego miejsca
+Hadrian: wlasnie przybiegl maly glopiec w podartej koszuli
+
+- Panie, panie! Lord Ilroyd Cie wzywa.
+
+* Hadrian zwrocil na niego uwage
+* Hadrian ruszyl pedem do niego
+<Rann> Ej!
+* Rann prychnela i ruszyla biegiem za nim
+Wpadacie szybko do domu Lorda. W srodku czeka juz na was razem z sir Tergh'iem
+
+- Widze, ze jestescie. Dobra robota z ta maszyna.
+
+<Hadrian> Dziekujemy.
+Rzucil Ilroyd od progu
+
+* Hadrian zrobil niewinna mine
+* Rann przystanela, poprawiajac szybkimi ruchami rak wlosy, zerknela na Lorda.
+- Ale do rzeczy - Ilroyd kiwna glowa do palladyna
+
+- Nasi zwiadowcy przyniesli niepokojace wiesci
+
+<Rann> Ta lina sama sie... Niepokojace wiesci? naczy sie jakie?
+<Hadrian> Zarty na bok, jak to powiedzial krol Dezmod, gdy goscie na przyjeciu zaczeli siniec i mdlec.
+Tergh rozlozyl na stole mape okolicy
+
+Hadrian: obaj mezczyzni spojrzeli na Ciebie wymownie, z mocno powaznymi minami... chyba ich ten zart nie rozbawil
+
+* Hadrian zrobil powazna mine
+- Nasi zwiadowcy donosza, ze gobliny, wspomagane przez orki i ludzi, ktorych nikt wczesniej nie widzial tutaj zajeli most na rzece Brengen
+
+- To jedyna droga od ladu dostania się do Targos. Wlasnie spodziewamy sie posilkow z Neverwinter
+
+- Wejscie na most z tamtej strony jest calkowicie odloniete, wojka na moscie beda mialy calkowita przewage
+
+<Hadrian> W zwiazku z tym...?
+<Rann> I co w tym jest niepokojacego?
+- Musimy sie ich pozbyc i wybadac sytuacje, a najlepiej przdrzec sie na druga strone i powiadomic oddzialy z Never
+
+<Hadrian> Przepraszam, pozbyc, tak?
+<Hadrian> A ilu idzie?
+- Pojdziecie ze mna, wezmiemy dwa oddzialy zolnierzy i pare grup najemnikow
+
+<Rann> Hadrian... TO Ty sie ich pozbedziesz, a ja powiadomie wojsko.
+<Hadrian> Ah, dobrze.
+* Rann powiedziala cicho
+- rzeka jest teraz zamarznieta, wiec mozemy zakrasc sie bokiem, to zaskoczenie dajem nam spora przewage
+
+* Hadrian pokiwal glowa
+<Hadrian> Hmm... a jezeli rzeka jest zamarznieta... to dlaczego wojska z Neverwinter nie przejda po niej?
+Bo dorga prowadzi przez wawoz, a jego ujscie znajduje sie bezposrednio przed mostem. Nie ma innej drogi tamta strona
+
+droga*
+
+<Hadrian> Rozumiem.
+* Rann pokiwala glowa
+<Hadrian> Kiedy ruszamy?
+- Natychmiast
+
+Palladyn wyszedl szybkim krokiem, a Lord rzucil wam tylko: Powodzenia i zlapal sie za wisior Helma na piersi
+
+* Hadrian wyjal miecz i ruszyl szybkim tempem za nim
+* Rann wyszla za palladynem, nie ogladajac sie juz na lorda.
+Gdy wyszliscie, momentalnie rozlegl sie huk bebnow wojennych, dwa plonace glazy trafily w palisade rozwalajac ja w tych miejscach w drobny mak
+trzeci walnal w budynek nieopodal
+* Hadrian instynktownie przykucnal
+Najemnicy nagle zerwali sie. Slychac bylo krzyki zolnierzy, ktorzy akurat stali wtedy na palisadzie
+* Rann poderwala sie do gory, dobywajac sztylet
+Jeden z kapitanow krzyczal: "ORKOWIE ATAKUJA!"
+Rozlegl sie dzwon alarmowy, ale po chwili umikl, bo 10-letni chlopiec, ktory go obsluwial dostal spora strzala miedzy oczy i padl sztywny na ziemie
+
+Nagle zrobilo sie ciemno... momentalnie polapaliscie sie, ze to nie zadne chmury, tylko orkowe strzaly... 
+Nie wszyscy zdolali sie ukryc lub zaslonic tarczami. Poza tym przez co slabsze tarcze strzaly przebijaly sie bez problemu.
+Hadrian udalo Ci sie druchowo i szybko wskoczyc za drewniany daszek
+Rozejrzales sie po chwili, Rann nie miala tyle szczescia. Lezala na srodku poprzebijana strzalami i przyszpilona do ziemi. Niezbyt przyjemny widok.
+Po chwili ponownie rozbrzmialy bebny, tym razem mocniej i glosniej. Juz teraz slyszales, ze ida siepacze Orków, slychac bylo ich wrzaski z daleka.
+
+* Hadrian wybiegl, stanal twardo i zrobil kilka szerokich zamachow mieczem na probe
+<Hadrian> Nakopmy im do tylkow!
+Hadrian: orki zaczely wbiegac przez wyrwy w palisadzie i drzec przerazliwie mordy. Byly paskudne, umalowane wojennymi znakami na twarzach i zbrojach
+
+* Hadrian ryknal i ruszyl na nie ze spiewem bojowym na ustach, wykonujac szerokie ciecia i nie pozwalajac, by zblizyly sie do niego - caly czas sie cofal
+Hadrian: jeden wyskoczyl na Ciebie z oburecznym siepaczek i krzykiem na mordzie
+
+* Hadrian chlastnal na odlew
+Hadrian: k100
+
+<Hadrian> d100
+<Jaskier> Hadrian, (d100) 4.
+<Hadrian> Oo )
+Ork nie miał szans - nim dotknal ziemi jego glowa byla juz dalego od Ciala, abok Ciebie wbil sie jego obureczny miecz, lekko swiecil - byl pokryty jakimis runami
+
+* Hadrian rzucil swoj miecz i podniosl ten orka
+<Hadrian> Kto nastepny!
+* Hadrian zrobil dwa wymachy
+Nagle dostales obuche od boku, polecialem dobre cztery metry w bok
+
+<Hadrian> ja dostalem, Ty poleciales, podoba mi sie ten miecz ))
+* Hadrian sprobowal sie otrzasnac i wstac
+poleciales* :D))
+
+Hadrian: spory ork wlasnie przycisnal Cie butem do ziemi i podniosl miecz do finelnego ciecia
+
+Hadrian: zycie przelecialo Ci przed oczami... moze nie cale, ale te lepsze momenty, gdy nagle orkowy leb przebila strzala... inna, nie tutejsza, a na pewno nie orkowa - byla za dobrze zrobiona, za elegancko... dalbys sobie reke uciac ze elficka
+Nagle nadlecialo ich wiecej trafiajac precyzyjnie w orki
+Kilku orko poszybowalo w gore od ognistej kuli. Jeszcze inni zostali zamrozeni w sople lodu tak jak stali
+Na palisadzie dostrzegles elfickich ludznikow i magow, a przez wyrwy wlasnie wbiegali zbrojni. Solidne zbroje, dobre miecze i charakterystyczne oko na pancerzach - to z pewnoscia posilki z Neverwinter.
+Nikt sie nie spodziewal, musialy dotrzec jakos wczesniej - na cale szczescie.
+Wsrod zbrojnych byl jeszcze jeden czlowiek, dosc wysoki, poteznie zbudowany. Twarz pocieta niczym rosyjska szachownica, dlugie czarne wlosy. Zapewne dowodca. 
+Posluchiwal sie perfekcyjnie sporym oburecznym toporem nie dajac najmniejszych szans orkom
+Niebieska charakterystyczna peleryna powiewala na mroznym wietrze - znak dziewiatki z Never
+Orki padaly jak muchy, niewielu udalo sie uciec.
+Slain wyjechal na srodek i pociagnal za lejce. Kon stanal na dwoch tylnych noga i zarzal zwyciesko.
+
+* Hadrian zerwal sie na rowne nogi, rozgladajac sie, czy ktorys moze przezyl
+* Slain schowawszy topor przy siodle gromko wykrzykiwal wywijajac buzdyganem
+<Slain> Za mureeem! Zamurrem! w podjazd!
+<Slain> Do bramy samotrzec! do bramy!
+* Hadrian ruszyl na najblizszego z orkow, nie rozumiejac, co wykrzykuje gosc na koniu
+* Slain spial konia, zawrocil, przeskoczyl nad gruzowiskiem i w locie rozplatal buzdyganem orczy leb az mozg bryzgnal o kamienie
+* Hadrian wywinal kilka razy nowym mieczem, tnac orkow
+* Slain zatrzymal sie na placu, uspokoil konia i wstal w siodle
+<Slain> Zawracac! Druga linia, szereg!
+--- Day changed Mon Sep 03 2007
+<Slain> ?me przejechal przed kusznikami
+* Slain przejechal przed kusznikami
+<Slain> Jeszcze nie... Na moj znak!
+* Hadrian odwrocil sie, spojrzal na kusznikow i padl plasko na ziemi
+Orkow juz prawie nie bylo. Ostatnich niedobitkow zalatwili lucznicy, albo magowie - spalajac im czaszki zywym ogniem
+
+* Slain machnal buzdyganem i belty poszly za uciekinierami
+* Hadrian wstal i otrzepal sie ze sniegu
+<Hadrian> w ostatniej chwili..
+* Hadrian w koncu znalazl czas, by dokladnie przyjrzec sie nowemu mieczowi
+Ciala lezaly teraz na kazdym kroku, glownie orkowe. Ale pod nimi bylo tez duzo ludzkich, poleglych podczas najazdu
+
+Hadrian: nic z niego nie wyczytujesz, poza tym, ze jest pokryty runami i fajnie swieci. Jedyna wada jest taka, ze ostro smierdzi orkami
+
+* Hadrian skrzywil sie
+<Hadrian> Pokropi sie wonnymi olejami, powinno pomoc
+Wlasnie na plac wszedl Qin ciagnac za soba sporych rozmiarow drewniane place powiazane lina, tylo sie dziwnie popatrzyl i zawrocil
+
+pale*
+
+* Slain wydal krotko i zwiezle kilka rozkazow, porozsylal konne patrole i wrocil na plac
+Snieg pod waszymi stopami juz nie jest bialy. Przyjal koloryt i lejacej sie krwi z cial ofiar
+
+* Hadrian ruszyl do trupa Rann
+<Hadrian> Medyka! Kaplana! Szybko!
+Hadrian: to na nic, chociaz nie wiem jakbys chcial, to wiesz, ze juz nic nie mozna zrobic. Cialo jest poprzebijany strzalami doslownie w kazdym miejscu
+
+* Hadrian cicho zaklnal, po chwili glosniej, az w koncu stanal i zaczal klnac, na czym swiat stoi
+* Slain pokiwal glowa na telepatyczne wiesci magow, ktorych rozstawil na murach
+<Slain> ?me gwizdnal ostro w strone jednej z bram i podjechal kawalek do przodu
+* Slain gwizdnal ostro w strone jednej z bram i podjechal kawalek do przodu
+* Hadrian zdal sobie z czegos sprawe
+<Hadrian> On tez?
+* Hadrian rozejrzal sie, szukajac wzrokiem paladyna
+Hadrian: znalazles Tergh'a, a raczej jego glowe przybita strzala do palisady, odciete cialo spoczywalo ponizej
+
+* Hadrian przyjrzal sie cialu 
+<Hadrian> Szlag by ich wsystkich trafil!
+* Hadrian sprawdzil, czy orki ukradly swiety symbol zakonu paladyna
+(TU NASTĽPIŁA ZMIANA MG, OD TEGO MOMENTU PROWADZI JUSZI)
+* Slain podjechal powoli do formujacych sie oddzialow, zsiadl z konia i wysluchal raportow poszczegolnych dowodcow
+Slain, niedobitki goblinoidow wycofuja sie w strone Grzbietu Swiata. Magowie potwierdzaja slowa patroli konnych, ale ich dowodca chce ci powiedziec cos jeszcze
+
+Wyglada na przegrupowanie sie
+
+<Ksendar> Orkow ))
+i innych goblinoidow ))
+
+* Slain odszedl z magiem na strone i siadl na kamieniach
+<Ksendar> Zla moc czaji sie niedaleko
+<Ksendar> Potezna moc... tajemnicza... nie wpuszcza mnie dalej, nie moge ryzykowac, bo z pewnoscia mnie odkryje podczas proby
+* Slain przetarl twarz reka
+<Slain> mow dalej.
+* Ksendar popatrzyl dziwnie
+<Ksendar> Juz skonczylem
+* Ksendar otrzepal przysmalona toge wojenna
+<Ksendar> nic teraz nie wskoram. Musimy wrocic na stary szlak i ruszyc do Bryn Shander
+<Ksendar> Tam znajdziemy odpowiedz.
+Wsrod posilkow z Neverwinter byl tez burmistrz Targos, Kemp. Czlowiek wysoki, dumny, ale nieco aroganski. Skinal na was reka i ruszyl w strone siedziby lorda.
+
+Zdenerwowany, krzyknal do was. Widac, ze mu sie spieszylo.
+
+* Ksendar wsiadl na konc
+* Ksendar ruszyl za Kempem
+<Ksendar> Slain, na kon, czas nagli
+* Slain odjal rece od skroni, wstal i nie zwazajac na ponaglenia przekazywal dowodztwo i rozkazy na najblizsze dni
+Kemp ruszyl prosto pod palac Lorda Iloyida, ktory zarzadzal miastem pod jego nieobecnosc. Dojechawszy, zeskoczyl z konia, zignorowal go i wbiegl do srodka.
+
+* Ksendar przycumowal konia kolo koryta, zjadl kostur i ruszyl do srodka
+<Ksendar> zdjal*
+* Slain podjechal na koncu, w obstawie, rzucil lejce i wszedl za Ksendarem
+Kemp prowadzil juz ozywiona konwersacje ze swoim zastepca. Czekaliscie moze 3 minuty, w koncu Kemp zwrocil sie do was.
+
+- To jakie mamy plany na teraz? Zbieracie ludzi i ruszacie z nami, gonic orki na grzbiet swiata?
+
+* Ksendar oparl sie o kostur
+<Ksendar> Nie
+- Przegrupowuja sie! Uderzymy teraz i pekna!
+
+<Ksendar> Ruszamy do Bryn Shander
+<Ksendar> Co do ludzi, to nie mnie decydowac. sir Slain nimi dowodzi
+Bryn Shander?!
+
+* Slain nawet nie byl laskaw sie odezwac opierajac prawa dlon na glowni uzdygana zatknietego za pas
+- A niby po co?! Burmistrz i przywodca rady Dekapolis juz wie o naszym przybyciu!
+
+- Cassius osobiscie idzie tutaj podobno z wojskami!
+
+<Ksendar> Wybacz, ale to nasza sprawa i sprawa Neverwinter
+<Ksendar> Nic nie moge w tym momencie powiedziec.
+* Slain obserwowal towarzystwo wielce lekcewazaco
+<Ksendar> Slainie, co z wojskami Neverwinter?
+* Slain ocknal sie
+Kemp wyglada jak razony piorunem. Za chwile dojdzie do jednego z jego slynnych wybuchow gniewu.
+
+* Ksendar wyprostowal sie i uderzyl kosturem o podloge
+<Slain> Jest mozliwosc pozostawienia posilkow w miescie.
+<Ksendar> Kemp... znasz mnie i jak znam Ciebie i wiesz dobrze, ze nie pozlowe na twoje krzyki
+<Ksendar> pozwole*
+<Ksendar> Wojska Neverwinter moga zostac i chronic Targos przed przybyciem Cassiusa
+<Slain> Dowodcy poszczegolnych druzyn otrzymali juz odpowiednie rozkazy.
+* Slain patrzyl zimnym beznamietnym spojrzeniem swoich szmaragdowych oczu
+"Skoro tak!" Kemp krzyknal. Jego zastepca caly czas milczal, patrzac na was blagalnym wzrokiem. Burmistrz Targos przeszedl kolo was i trzasnal drzwiami. Kontratak zaraz mial sie zaczac.
+
+* Ksendar odwrocil sie i wyszedl bez slowa
+* Slain kiwnal glowa celowo bez okazujacego szacunek uklonu. Rowniez odszedl
+* Ksendar spojrzal w niebo
+Bylo troche po poludniu.
+
+Slonce juz nie znajdowalo sie tuz nad wami, przemieszczalo sie na wschod.
+
+<Ksendar> Musimy ruszac, zeby dotrzec przed zmrokiem
+* Ksendar wsiadl na kon
+* Slain chuchnal w rece, zatarl je i wskoczyl na konia
+Zolnierze armii sojuszniczych latali dziury w palisadzie. Magowie szykowali magiczne pulapki, zgodnie z rozkazami. Naprawiono tez juz brame, zniszczona uderzeniami poteznego tarana. Sam taran stal zweglony niedaleko obok, odsiecz spalila go ognistymi kulami.
+
+* Ksendar siegnal do kieszeni i wreczyl Slainowi pierscien
+<Ksendar> Zaloz, chroni przed chlodem
+* Slain usmiechnal sie nieznacznie zakladajac pierscien. Poruszal glowa i wyprostowal dlonie gdy cieplo zaczelo rozchodzic sie po kosciach
+Na wasz widok zolnierze pospiesznie otworzyli brame. Za wami wyruszylo na koniach kilku zolnierzy eskorty, uzbrojonych w kusze i dlugie, waskie koncerze.
+
+* Ksendar skina na Slaina dyskretnie dajac znak, zeby odeslal zolnierzy
+* Slain zrownal sie z eskorta, zamienil dwa zdania, po czym zoldacy zawrocili do miasta
+Bryn Shander znajdowalo sie dwie i pol mili na poludnie od Targos. spokojna trasa, godzina, poltorej i jestescie na miejscu.
+
+<Ksendar> Mam zle przeczucie... 
+Fakt faktem, mogliscie nieco przyspieszyc. Kilku piechurow wyprzedzilo was, posylajac wam dziwne spojrzenia.
+
+<Ksendar> Cos niedobrego wisi w powietrzu, tutaj w Dolinie Lodowego Wichru i 10 miastach
+* Ksendar uderzyl ostrogami przyspieszajac konia
+Konie chetnie przeszly w bieg, przejechaliscie tak ponad mile. Naprzeciw was widzicie kolumne ludzi, zbrojnych. na czele jechal okragly, puculowaty facet w nieco za duzej zbroi.
+
+* Ksendar zwolnil nieco
+* Ksendar przyjrzal sie twarzy dokladniej
+* Slain jedzie nieco z tylu przygladajac sie zbrojnym dokladnie
+Facet zaczyna juz lysiec, wysokie czolo, lekko kartoflowaty nos, i oczy, bystre i chlodne. Kolczuga zuzyta, ale dobrej jakosci. Kolumna piechurow wyglada jak pospolite ruszenie, nie zawodowe wojsko.
+
+* Slain westchnal ledwo zauwazalnie wyobrazajac sobie jak ci pozal sie boze wojacy gina w starciu z regularnym wojskiem
+* Ksendar puscil sie w galop, bo czul, ze czas nagli
+Jezdziec uniosl dlon w gescie pozdrowienia
+
+* Ksendar odpowiedzial skinieniem glowy
+* Slain rowniez kiwnal glowa i spial konia do nieco szybszej jazdy
+Jezdziec znowu uniosl dlon, proszac was o zatrzymanie sie
+
+Okolica to rzadki zagajnik, troche swierkow i innych drzew iglastych. droga idzie akurat wzdluz szerszego pasa golej ziemi.
+
+* Ksendar wstrzymal konia
+* Slain przystanal niechetnie i postawil konia wpoprzek drogi opierajac lokcie na grzywie
+Jestescie z Neverwinter?!
+
+<Slain> Slabiscie z heraldyki, co?
+* Slain prychnal kpiaco
+- Jestem Cassius, burmistrz Bryn Shander! Idziemy z ludzmi pomoc mieszkancom Targos pogonic ich az pod Kopiec Kelvina! Po co jedzecie do Bryn Shander, cala zabawa was ominie!
+
+<Slain> Zabawa w rzez? Wiesz ilu z nich wroci do domow?
+* Slain mial nieszczegolny dzian i od zawsze kpil z pospolitych ruszen, zle i byle jak organizowanych przez wladcow
+- Wszyscy! To najtwardsi ludzie, jakich nosila ziemia, nie jeden najazd przezyli! Tylko silni przetrwaja w Dekapolis.
+
+* Slain juz mial cos powiedziec ale tylko glosniej nabral powietrza do pluc i pokrecil glowa
+<Ksendar> Wybaczcie, ale nie mamy czasu. Podobno Drizzt wrocil do Shander
+<Ksendar> Prawda to?
+- W kazdym razie, ruszajcie z nami! Nasz zwiadowca jest gdzies w okolicy, jak tylko wroci, zda raport i ruszamy do boju!
+
+- Polowiczna. Ale jak chcecie go spotkac, musicie poczekac chwile. Sprawdza, czy droga dla moich ludzi czysta.
+
+* Slain oblizal usta i rozejrzal sie z siodla
+<Slain> W takim razie wypada nam po drodze.
+<Ksendar> To dobra wiadomosc, mamy do niego sprawe nie cierpiaca zwloki
+Burmistrz wypowiedzial te slowa w zla godzine. Gobliny nie mogly uciekac na poludnie, prosto w lodowate wody Maer Dualdon. Zdecydowana wiekszosc wybrala droge na poludnie, cala okolica roila sie od nich. Juz wczesniej slyszeliscie odglosy z lasu, w chwili obecnej dobiegly one z bliska.
+
+* Slain pogladzil sie po lekkim zaroscie na brodzie
+<Slain> No, to zobaczymy co ci ludzie naprawde potrafia
+* Slain rzucil Ksendarowi spojrzenie i pokazal glowa na zarosla
+* Ksendar kiwna zrozumiale
+"O, cholery! Formowac szyk obronny!" Jeszcze zanim burmistrz skonczyl zdanie, ludzie utworzyli czworobok, z wlocznikami na zewnatrz i kusznikami i lucznikami w srodku. Takiego jeza ciezko byloby ugryzc doborowej krasnoludzkiej piechocie z Adbar.
+
+* Ksendar siedzial w siodle i tylko sie patrzyl wymownie i z lekkim usmiechem na Slaina
+* Slain uniosl brew w jako takim podziwie
+* Ksendar skupil mysli, rozlozyl rece i wypowiadajac inkantacje rzucil na formacje czar dodajacy sily i wigoru
+* Slain polozyl dlon na drzewcu topora poprawiajac sie w siodle
+<Ksendar> am Netha!
+* Ksendar walna kosturem w ziemie tworzac ochornna sciane ognia
+Zarosla z obu stron zaszelescily. Jezeli to mial byc Drizzt, to raczej duzo go bylo. Zanim ta mysl zaswitala wam jednak w glowach, z dwoch stron lasu graniczacego z gola ziemia wypadly orki i gobliny. Duzo ich, a na dodatek czesc zostala z tylu, chwytajac za luki.
+
+Ksendar, k20.
+
+<Ksendar> ?! ... czlonek dziewiatki i mam rzuca... ))
+<Ksendar> mialo byc odgrywanie :P ))
+to przez tampony w mordzie. No, ale niech Ci NA RAZIE bedzie :P ))
+
+<Ksendar> Wyplulem ))
+Czesc za wami zostala odcieta przez sciane ognia Ksendara. Dwoch nie zdolalo sie zatrzymac, przebiegli przez nia, skwierczac i krzyczac. Kilku biegnacych z drugiej strony upadlo, trafionych przez kusznikow i lucznikow z ludzkiego szyku. Ale i sami ludzie oberwali, jeden z wlocznikow chwycil sie za przebite strzala gardlo i upadl, a dwoch kusznikow cofnelo sie do wnetrza formacji z poprzebijanymi ramionami
+
+Fakt faktem, nadal ich byly ze 3, 4 tuziny, z czego jeden to lucznicy. A pozostali wlasnie dobiegli do formacji, dwoch rzucilo sie na Ksendara, trzech na Slaina. Cassius zeskoczyl z konia i dolaczyl do szyku.
+
+* Ksendar machnal reka tworzac plomien
+* Slain pognal konia na przeciwnikow zgrabnie wyciagajac topor i tnac nim na odlew schyliwszy sie z siodla na bok
+<Slain> Przegrupuj ludzi Cassius!
+Ksendar, dwoch orkow nie zdolalo nawet do ciebie dobiec. Padli jak razeni piorunem, dymiac sie lekko.
+
+<Ksendar> Nomi, ata, dej
+* Ksendar zatoczyl rekami polkole rzucajac na siebie czar niewidzialnosci
+* Slain przeskoczyl koniem nad trojka atakujacych, zawrocil, schylil sie w siodle i cial mocno od gory
+Slain, jeden z orkow chybil, usilujac cie trafic, gdy przechyliles sie na druga strone i odciales jego kompanowi glowe. Szyk ludzi zaczal sie lekko sciesniac, lucznicy chwycili za bron biala, kilku padlo. Jeden z orkow zdolal przedrzec sie, zabijajac wlocznika, i wpadl do srodka szyku. Nie powalczyl sobie wiele, gdyz powalila go czarna pantera, ktora wybiegla przed chwila z lasu i dlugim susem przeskoczyla nad ludzmi.
+
+<Slain> Odsun lucznikow bo ich stracisz!
+* Slain darl sie przy okazji do Cassiusa
+Kolejny ork upadl, trafiony toporem w kregoslup. Dookola przestaly swiszczec strzaly, postac w zielonym plaszczu zaczela wybijac orczych lucznikow, wywijaac dookola nich piruety z dwoma ostrzami.
+
+Slain, nie ma jak, oni sa w srodku zamknietego szyku. W momencie pojawienia sie pantery ludzie naparli jednak na napastnikow i odepchneli ich, zyskujac przewage i powalajac kilku.
+
+Ksendar, na chwile wszystko sie zamazalo, jednak juz po sekundzie ty widziales wszystko doskonale - a inni ciebie nie.
+
+* Slain zeskoczyl z konia i wpadl w wieksza grupe orkow mlocac po lbach i korpusach az zbroja, twarz i wlosy pokryla sie posoka
+* Ksendar odsunal sie na niewielka odleglosc i zaczal zlozona inkantacje polaczenia astralnego starajac sie sprowadzic z wymiarow zywiol ognia pod swoja komende
+* Slain zapaerl sie noga i wyszarpnal topor z grubej zcaszki orka
+Slain, wpadles napastnikom walczacym z ludzmi za plecy, czesc padla, czesc zaczela uciekac. Jednego dopadla czarna pantera. Ksendar, tym razem rzuc k20.
+
+<Slain> d20
+<Jaskier> Slain, (d20) 10.
+<Ksendar> d20 i obys Jaskier dobrze rzucil
+<Jaskier> Ksendar, (d20) 8.
+Moze to nie byl szczyt twoich mozliwosci, ale z portalu miedzy planami przeszla postac ludzkiego wzrostu, zrodzona z ognia. Jej dotyk spopielil jednego z uciekajacych orkow. Inne dostaly sie pod furkoczace sejmitary, niosace smierc.
+
+* Slain uderzyl szerokim lukiem toporem i od razu poprawil buzdyganem lamiac kosci twarzy
+* Ksendar mentalnie rozkazal sludze ognia spopielic wszystkie orki w poluwidzenia
+Kolejny ork padl na ziemie. Kilku napastnikow ucieklo do lasu, reszta nie zdazyla. Za uciekinierami pognala pantera i zywiolak ognia.
+
+Na polu bitwy lezalo kilkadziesiat trupow orkow i goblinow oraz 8 ludzkich, a kilku ludzi bylo ciezko rannych. Padl tez kon Classiusa, pozostawiony przez niego na poczatku walki.
+
+* Slain wsparl sie na toporze i lapal ciezko oddech wydobywajac kleby pary
+* Ksendar zszedl z konia i ujawnil swoja obecnosc
+* Slain powiodl wzrokiem po umierajacych i umarlych, a potem odszukal spojrzeniem Cassiusa
+Ten stal z boku i rozmawial cicho z przybylym drowem, pokazujac na was. Nawet nie mrugnal, patrzac ci w oczy.
+
+* Ksendar podszedl pod Slaina
+<Ksendar> Podaj mi pergamin
+* Slain zaniosl topor i umocowal przy siodlea pozniej wytarl twarz i wlosy sniegiem
+<Slain> mhm
+* Slain odsapnal tylko i zaraz siegnal pod napiersnik wyciagajac skorzana koperte
+* Slain przygladal sie z daleka Drizztowi
+Drow podszedl do was i przywital sie. Mowil cichym, dzwiecznym glosem, a jego fioletowe oczy hipnotyzowaly.
+
+- Chcieliscie mnie widziec?
+
+<Ksendar> - tak
+* Slain podal dlon w rekawicy
+Drizzt rowniez podal ci dlon w skorzanej, ocieplanej rekawicy z wzmocnieniami na palcach.
+
+<Slain> Zawsze chcialem Cie poznac. To dla mnie honor.
+* Slain skinal glowa tym razem bez cienia kpiny
+* Ksendar pozostawil na pozniej zbedne przywitania i wreczyl pergamin
+Drizzt uklonil sie lekko, po czym chwycil pergamin, zlamal pieczec i odczytal zawartosc. Wraz z czytaniem jego twarz pochmurniala.
+
+* Slain wrocil do wierzchowca czyszczac z posoki
+Po przeczytaniu pergamin wyparowal, a Drizzt stal chwile w milczeniu z marsowa mina.
+
+<Ksendar> I?
+* Ksendar powiedzial zniecierpliwiony
+- Mysle, burmistrzu, ze w chwili obecnej lepiej bedzie zawrocic ludzi do miasta i zostawic orki w spokoju.
+
+* Slain gladzil konia po pysku przygladajac sie Drizztowi i szczerze zazdroszczac slawy, ktora tamten mial w kazdym niemal miejscu
+- Ktory z was mial jakies doswiadczenia z demonami?
+
+<Ksendar> Raz, czy dwa
+<Ksendar> Bardziej smoki
+Mhm. Nie bede wam wszystkiego opisywal, ale te gobliny i orki nie dzialaly same. Przez nieuwage jakiegos adepta magii w Luskan, ktoremu wydawalo sie, ze moze zapanowac nad tanar`ri, na plan materialny powrocil Errtu. I, mowiac krotko, dyszy zemsta.
+

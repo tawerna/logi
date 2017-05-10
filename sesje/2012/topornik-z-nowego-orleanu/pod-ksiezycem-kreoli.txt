@@ -1,0 +1,894 @@
+------------------------------------------------
+10 październik, roku Pańskiego 1888, Nowy Orlean, Luizjana. Miasto doświadczone jak chyba żadne inne w odbudowujących się wciąż Stanach Zjednoczonych przez przemoc, rabunek i wyzysk. De facto rządzone przez grupę bogatych bankierów i finansistów skupionych w organizacji zwanej potocznie "Kręgiem", który gwarantuje pracę i dostatnie życie w zamian za jedno - lojalność. Policja dopiero zaczyna się odbudowywać po zamieszkach roku 1874, kiedy to biała część miasta dokonała linczu na czarnych, których obwiniano o większość przestępstw dokonywanych w mieście. Włoscy imigranci podzieleni są na dwie zażarcie zwalczające się w krwawych potyczkach na ulicach miasta rodzinach, pieniądze zagarniając za transporty opium, handel ludźmi i haracze.
+Nawet w takich czasach jednak przychodzi nadzieja na lepsze - wybory wygrywa otwarcie opozycyjny do Kręgu Joseph A. Shakspeare, z hasłami reform i zerwania z gangsterską przeszłością miasta. Szefem policji, mającej być jego główną podporą w starciu z mafią, zostaje David Hennessy - człowiek odważny, który ciężką pracą i swoją inteligencją dorobił się wysokiego stanowiska w służbie, za którego jednak plecami często opowiada się, że uniewinniający go za zabójstwo partnera wyrok wydany parę lat temu był tak naprawdę efektem przekupstwa sędziego. Najwyraźniej w ówczesnym Nowym Orleanie nie ma ludzi bez skazy.
+Hennessy zaczyna urzędowanie od zatrudnienia wsparcia spoza miasta, a także zebrania oficerów których darzy zaufaniem na poufnym spotkaniu w jednej z sal ratusza.
+------------------------------------------------
+
+<Vuko> Do pomieszczenia, w którym zebrało się około dwunastu policjantów, detektywów i oficerów wokół potężnych rozmiarów okrągłego stołu wszedł wysoki, elegancko ubrany mężczyzna około czterdziestki. Nowy szef policji - Hennessy.
+ * Rawls spojrzał na przybysza spode łba
+<Vuko> Pewnym krokiem podszedł do jedynego wolnego krzesła przy stole, po czym, odchrząknąwszy, zaczął mówić:
+<Vuko> - Panowie, zebrałem was tutaj by omówić nową strukturę policji miejskiej i związane z tym nowe przydziały. Choć być może nie wszyscy się tu znacie, mam do każdego z was zaufanie, że obowiązki, jakie na was nałożę, będą wykonywane sumiennie i należycie.
+ * Donnelly siedział dość sowobdnie, trochę bokiem -jedną ręką zarzuconą na oparcie krzesłą, a drugą na stole, z wolna i bezgłośnie pukając palcami o blat
+ * Rawls lekko pokiwał głową
+<Vuko> Panie Donnelly, obejmie pan tekę szefa wydziału zabójstw.
+ * Joyce z wewnętrznej kieszeni marynarki wyciągnął paczkę Lone Jacków i poczęstował Donnelly'ego papierosem
+<Vuko> Pańskimi zastępcami będą panowie Joyce, Rawls. Na razie niewiele, ale nie mamy wielu ludzi dostępnych w tej chwili.
+ * Rawls zmrużył oczy i obejrzał dokładnie Donelly'ego
+<Vuko> Z tego co wiem dzisiaj wpłynęła do was pierwsza sprawa, na bagnach w drodze do Baton Rouge znaleziono zwłoki topielca. Zajmijcie się tym, burmistrz - nie, Nowy Orlean - potrzebuje teraz szybkich i spektakularnych sukcesów.
+ * Donnelly jak to miał w zwyczaju podziękował sucho skinieniem i poczęstował się jednym
+ * Rawls lustrował teraz wzrokiem Joyce'a
+ * Joyce otarł sumiaste wąsy i poklepał Donnelly'ego po ramieniu
+ * Donnelly prawie mu papieros wypadł od uderzenia w ramie
+ * Rawls notował coś w podręcznym notatniku
+<Donnelly> Cholera Joyce, może chociaż dasz podpalić?
+ * Joyce podstawił zapaloną zapałkę
+<Vuko> Detale dotyczące sprawy będzie znał dzielnicowy, z tego co wiem jest już paru naszych na miejscu zdarzenia. Jakieś pytania panowie?
+<Joyce> No to się dochrapałeś stołka wreszcie, co?
+ * Donnelly podstawił papieros i po chwili zaciągnął się dopiero co odpalonym papierosem
+<Donnelly> Znowu czarnuch?
+ * Rawls skrzywił się lekko
+ * Joyce odpalił i sobie po czym zdmuchnął przyglądając się Hennessy'emu
+<Vuko> Z tego co wiem biały, w przeciwnym razie nie dalibyśmy temu priorytetu.
+<Joyce> Pewnie jeden makaroniasz dźgnął drugiego, ani to nowość ani priorytet
+ * Joyce kaszlnął i spuścił wzrok
+<Donnelly> No już się bałem, że będę się w bagnie za spalenizną babrał
+ * Rawls wstał
+<Rawls> Do roboty, panowie?
+<Donnelly> Nie ucieknie, w końcu trup, nie?
+ * Donnelly leniwie wstał zaciągając się papierosem
+<Joyce> Lepiej się z tym uwińmy bo wieczorem stawiasz kolejkę
+ * Rawls podszedł bliżej
+<Donnelly> Pamiętam, pamiętam
+<Rawls> zdaje się, że nie mieliśmy okazji się poznać, panowie
+ * Donnelly machnął ręką
+<Rawls> Bill Rawls
+ * Rawls wyciągnął rękę do Joyce'a
+ * Joyce zebrał się z krzesła poprawiając marynarkę obsypaną popiołem z papierosów
+<Joyce> Richard Joyce, mów mi Rick
+<Donnelly> James
+ * Rawls podał następnie dłoń Donelly'emu
+ * Donnelly rzucił chłodno dopalając papierosa i gasząc resztkę o blat stoły
+<Joyce> Zobaczmy co kolega z dzielnicy ma ciekawego do opowiedzenia
+<Rawls> Zwłoki w bagnie, hmm
+<Donnelly> No nic Panowie, w drogę
+<Rawls> Panowie prowadzą, nie znam tak dobrze miasta
+<Rawls> jeśli trup leży w wodzie
+<Rawls> to nie pobierzemy już odcisków palców raczej
+ * Rawls wyszedł pierwszy
+<Joyce> Gdzie wcześniej robiłeś, Rawls?
+ * Joyce zapytał po drodze
+<Rawls> Nowy Jork
+<Joyce> W trupach?
+ * Rawls mówił z akcentem z Bronxu tak gęstym, że aż się ludzie obracali
+<Rawls> Między innymi
+<Rawls> ostatnimi czasy przy kryminalistyce
+<Vuko> Przed ratuszem, na placu, stoi posterunkowy obok przygotowanego dyliżansu policyjnego
+<Rawls> nowe metody śledcze
+ * Rawls wskoczył do dyliżansu
+ * Joyce pokiwał głową zerkając na Donnelly'ego
+ * Joyce zatrzymał się przy posterunkowym częstując go Lone Jackiem
+<Joyce> Kto znalazł ciało?
+<Vuko> Posterunkowy spojrzał z wdzięcznością, po czym odpalił sobie fajkę zapałką i odparł:
+<Vuko> Dwójka lokalnych, syn z ojcem
+<Joyce> Kiedy to było dokładnie?
+<Donnelly> Murzyństwo?
+<Vuko> Nie nie, porządni ludzie proszę pana.
+<Vuko> To było dziś z ranka.
+<Donnelly> Rozumiem, to nie bierzemy ich tymczasowo pod uwagę co do podejrzanych w takim razie
+<Rawls> Wypadałoby ich chociaż przepytać
+ * Joyce zerknął z zaciekawieniem na Donnelly'ego
+<Vuko> Byłem na miejscu tylko chwilę, więcej będzie wiedziała grupka naszych tam na bagnie.
+<Rawls> Można ustalić, ile trup leżał w wodzie?
+<Donnelly> Przepytamy
+<Donnelly> Ci dwaj co znaleźli ciało jeszcze tam siedzą?
+<Rawls> ja mam nadzieję
+<Vuko> Tak proszę pana, zresztą i tak są zbyt rozstrzęsieni żeby gdzieś się ruszać. Jest z nimi medyk z 17tej dzielnicy, doktor Brie.
+ * Rawls pokiwał głową
+ * Joyce odciągnął dzielnicowego dwa kroki na bok
+<Joyce> Słuchaj, jak stoisz z miejscowymi? 
+<Vuko> Jak każdy z odznaką, jak nie dziękują za przegonienie czarnego to spluną na sam widok - wzdechnął
+ * Joyce podniósł wzrok i wyjął dzielnicowemu papierosa z ust
+<Joyce> nie o to pytam. 
+<Joyce> Jest coś co powinienem wiedzieć zanim, powtarzam: zanim tam pojedziemy?
+<Donnelly> Jest
+<Vuko> Nie mamy w okolicy gości którzy robią takie rzeczy, obawiam się.
+ * Donnelly powiedzial znad ramienia Joyce'a
+<Donnelly> Nie zapomnij wsiaść do dyliżansu
+ * Rawls wzruszył ramionami
+<Vuko> Włosi się nie certolą z chowaniem ciał, a czarni nie mają na tyle nerwu i oleju w głowie żeby wywozić ciało w cholerę za miasto.
+ * Donnelly po czym sam zajął miejsce w środku
+ * Joyce zgasił papierosa butem. "Dzięki." rzucił na odchodne wsiadajac.
+<Vuko> Posterunkowy westchnął patrząc na to, po czym zajął miejsce woźnicy i dyliżans ruszył przez miasto w kierunku Baton Rouge.
+
+------------------------------------------------
+Droga była długa, ostatecznie jednak powóz dowlókł się na moczary przy drodze na Baton Rouge, gdzie znaleziono ciało. Przy brzegu powolnie płynącej wody kręciło się paru policjantów w jasnoniebieskich koszulach, a także dwójka cywili, trzymających pod ręką wędki. Jeden z nich miał przewieszoną przez ramię fuzję. Pośrodku całego zbiegowiska stała ociekająca wodą skrzynia, koło niej zaś podłużny obiekt przykryty równie przemokniętym kocem. W niedalekiej odległości stał mężczyzna w eleganckim surducie i kapeluszu, wyraźnie zniecierpliwiony.
+------------------------------------------------
+
+ * Rawls wyskoczył z dyliżansu pierwszy
+<Donnelly> patrz, jaki nadgorliwy
+<Donnelly> pamiętasz Joyce? Kiedyś też taki byłeś
+ * Joyce wysiadł i poluźnił krawat, po czym przetarł czoło chustką
+ * Donnelly wylazł powoli i solidnie rozprostował kości
+ * Rawls podszedł do postaci na boku
+<Joyce> Myślałem, ze zrobię nie wiadomo jakie kokosy w tej robocie
+<Rawls> Doktor Brie, jak mniemam?
+<Rawls> Sierżant Rawls
+ * Rawls wyciągnął dłoń
+ * Joyce poszedł się przywitać z policjantami
+<Vuko> Mężczyzna w surducie odwrócił wzrok od zegarka, który cały czas przewracał w dłoni, po czym uścisnął dłoń Rawlsa.
+<Donnelly> witaj Brie
+ * Donnelly pozdrowił skinieniem kapelusza doktorka
+<Vuko> Do jasnej cholery, nabawię się jeszcze jakiejś choroby od gnicia na tych moczarach.
+<Rawls> Co może mi pan powiedzieć o denacie? Pierwsze obserwacje? Jak długo tu leżał?
+<Vuko> Doktor rzucił, ale odwzajemnił pozdrowienie skinieniem kapelusza
+<Rawls> Dlatego najlepiej załatwić to jak najszybciej
+ * Rawls skrzywił się lekko, patrząc na spacerowe maniery kompanów
+<Vuko> Kiwnął głową, po czym podszedł do przykrytych kocem zwłok
+<Donnelly> I co my tu mamy
+<Vuko> Denat utopił się, to nie podlega dyskusji.
+<Vuko> Problem pojawia się, gdy przyjrzymy się ciału dokładniej.
+ * Donnelly dotarł po chwil pod ciało i rozejrzał się dookoła jak to miał w zwyczaju
+<Donnelly> "Problem" - nie lubię tego słowa
+<Vuko> Donnelly: obok ciała stoi pokaźnych rozmiarów kufer, pokryty zdobieniami ale nie pomalowany, samo surowe drewno.
+<Vuko> Wyrzeźbiony, ale bez impregnacji itd.
+ * Donnelly stanał obok kufra i lekko postukał końcem buta w bok
+ * Rawls pochylił się lekko nad trupem, uważnie obserwując i notując detale
+ * Joyce stał obok, wział się pod boki, kapelusz odsunął z czoła i zerkał
+<Vuko> Widzicie panowie, jeśli obejrzymy czaszkę tego jegomościa, znajdziemy ślady silnych uderzeń jakimś tępym narzędziem.
+<Vuko> Doktor obrócił ciało, które ewidentnie opanowało już stężenie pośmiertne, i dłonią wskazał zaschniętą we włosach krew wskazującą miejsca gdzie zadano ciosy.
+ * Rawls obejrzał lekkie odkształcenia czaszki
+<Vuko> Rawls: nie są lekkie, to że denat przeżył te ciosy to cud. \\
+ * Donnelly przyjrzał się dokładniej ciału
+<Rawls> jak na moje, nie przeżył ))
+<Joyce> Czyli żył jak go wrzucili do wody?
+<Rawls> Jak pan myśli, doktorze, ile tu leży? Dzień?
+<Vuko> Albo to, albo po ciosach utopiono go, po czym wrzucono do skrzyni - jeśli miałbym rzucać hipotezami.
+<Vuko> Ciało jest ułożone w nienaturalnej pozie, jakby wtłoczono je do małej przestrzeni siłą \\
+ * Rawls podrapał się po głowie
+<Donnelly> Czyli jednak siedział w skrzyni?
+<Vuko> Na pewno wiele dni.
+<Rawls> Przeprowadzi pan autopsję?
+<Vuko> Faktycznie, gdy doktor ruszył ciało zaczął się od niego rozchodzić intensywny smród.
+ * Rawls skrzywił się mocno
+<Vuko> Doktor westchnął - muszę poczekać, aż powóz dostarczy ciało do mojej kliniki, wtedy będę w stanie powiedzieć coś więcej - to powiedziawszy, spokojnie wyciągnął chusteczkę i zasłonił nos i usta.
+ * Donnelly otworzył kufer i zajrzał do środka
+<Vuko> A teraz jeśli mi panowie wybaczą - spojrzał wyczekująco na zebranych policjantów
+<Rawls> Dziękuję, doktorze
+<Rawls> Czekamy na jakiekolwiek dodatkowe informacje
+ * Joyce ruszył się w stronę dwójki, która znalazła zwłoki. W międzyczasie łyknął z piersiówki.
+ * Rawls sam zerknął do skrzynki
+<Vuko> Skinął głową i odszedł.
+<Vuko> Skrzynia jest pełna szlamu, w środku oheblowane ale nie impregnowane drewno.
+<Vuko> miejscami na ścianach widać ślady zadrapań.
+<Rawls> próbował się wydostać?
+<Rawls> Czyżby ocknął się przed śmiercią?
+<Rawls> Nieszczególny musiał mieć ten koniec
+ * Rawls pokiwał głową
+ * Donnelly wyciągnął lupę i przyglądał się bliżej zadrapaniom
+<Joyce> Opowiedzcie jak to było
+<Vuko> wąskie, po 5 w rzędzie, miejscami z śladami krwi
+ * Joyce zagaił cywilów
+<Vuko> Dwójka która znalazła - syn i ojciec, obaj ubrani w robocze ciuchy, wstali z pniaczka.
+<Vuko> Ojciec odezwał się pierwszy:
+ * Rawls sam nagle zatęsknił za piersiówką
+<Vuko> - Panie detektywie, to jest coś niebywałego. Jak żyję czegoś takiego nie widziałem.
+ * Rawls podszedł do przesłuchiwanych
+<Vuko> Z synem wypływamy tu co tydzień, bo chcę chłopaka nauczyć jak porządnie dobierać przynęty, a tu biorą jak nigdzie indziej.
+<Donnelly> No widac, widac
+<Donnelly> niezle wzielo
+<Vuko> Dno jest tu w miarę płytkie, i kiedyśmy płynęli jakieś pięćdziesiąt metrów w górę rzeki coś uderzyło w dno łódki.
+<Vuko> wpierw myślałem, że to kamień, i bałem się że pójdzie na dno
+ * Rawls notuje
+<Vuko> ale jak odpłynęliśmy na parę metrów 
+ * Joyce kreślił swoje gryzmoły w notesie co chwilę przecierając spocone czoło
+<Vuko> Tutaj zamilkł na chwilę i spojrzał na syna
+<Vuko> Wypłynęła na powierzchnię ta skrzynia
+<Vuko> Miałem myśl, że fart się trafił, bo różne rzeczy ludzie tu wyrzucają
+<Vuko> A ja niemajętny
+<Vuko> ale jak zawróciliśmy i wyciągnęliśmy skrzynię okazało się, że owinięta jest na wszelkie sposoby linami
+<Vuko> zanim ją odpakowaliśmy minęło parę chwil
+<Vuko> I kiedy już już - otwieramy - w środku znaleźliśmy tego, świeć Panie nad jego duszą, człowieka w środku.
+ * Joyce odwrócił się na chwilę do Donnelly'ego i lekko pokręcił głową, dając do zrozumienia, ze to nie ma sensu
+<Joyce> Miał coś przy sobie?
+ * Rawls mruknął do Donelly'ego
+<Vuko> Ależ ja bym nie wiedział, panie detektywie, gdzie tam, pierwsza rzecz na policję posłałem juniora.
+<Rawls> to tylko potwierdza, że żył jeszcze w skrzyni, po co obwiązywać skrzynię z trupem?
+<Rawls> Mieszka pan w okolicy?
+ * Joyce przysunął się krok w stronę ojca
+<Vuko> Kiwnął głową pospiesznie
+<Vuko> Jakie pięć mil w stronę Nowego Orleanu
+<Joyce> Pytam czy na pewno nic przy sobie nie miał?
+<Rawls> Dotykał pan trupa?
+ * Rawls spojrzał na niego uważnie
+<Vuko> Ojciec spojrzał wpierw na Joyce'a, potem na Rawlsa
+<Vuko> No, może trochę rzuciłem okiem
+<Vuko> Ale tylko żeby zobaczyć, czy żyw!
+<Vuko> Miał w kieszeni jakieś papiery, ale dawno przegniłe i zżarte przez bagno.
+<Vuko> Ale na pewno on nie stąd, mości panowie, na pewno!
+<Donnelly> a to dlaczego?
+ * Donnelly do tej pory tylko się przysłuchiwał
+<Vuko> Poznałbym, świeć panie nad jego duszą, jak Boga kocham poznałbym.
+ * Joyce podrapał się w czoło i przywołał gestem Rawlsa
+<Vuko> Ja tu wszystkich w okolicy znam, od Baton Rouge po brzegi Nowego Orleanu
+<Rawls> Gdzie są te papiery?
+<Vuko> Rozpadły się w dłoni proszę pana, zresztą na co komu jakieś zgniłe szpargały?
+ * Joyce machnął ręką i podszedł do skrzyni kucając i przyglądając się jej z zewnątrz
+<Vuko> Skrzynia to niezłe rękodzieło, szkoda że nie wykończone. 
+<Vuko> Sporych rozmiarów, z solidnego drewna.
+<Vuko> Zamykana na wieko od góry, ale zamka brak.
+ * Donnelly machnął na jednego z policjantów w niebieskich koszulach
+<Rawls> Niech żesz to wezmą do badania, trzeba obejrzeć
+<Rawls> gdzie te resztki papierów?
+<Joyce> Na diabła ktoś się tak męczy po to, żeby odesłać kolesia do Św. Piotra
+<Donnelly> Weź no, niech ktoś naszkicuje twarz trupa
+<Vuko> Ojciec - świadek wskazał na stertę zbrązowiałych, pognitych fragmencików papieru nieopodal brzegu.
+<Donnelly> zrobcie kopie, rozdajcie dzielnicowym
+<Donnelly> niech popytają o niego
+ * Donnelly wydał polecenie policjantowi
+ * Joyce wrócił do ojca i poczęstował papierosem
+<Joyce> Macie tu gdzieś w okolicy porządnego stolarza?
+<Rawls> Twarz trupa, hmm
+ * Rawls zanotował
+<Rawls> Na posterunku
+<Vuko> Ojciec odprężył się, skoro zmienił się temat rozmowy
+<Vuko> Panie detektywie, większość najlepszych fachmanów jeszcze za Konfederacji poszła na lepszy świat.
+ * Rawls pokazał policjantom w niebieskich koszulach, żeby zebrali - OSTROŻNIE - resztki papieru
+<Vuko> Zostało niewielu, ot garstka prawdziwych znawców sprawy
+<Vuko> Jest Kennedy, mieszka na trasie do Orleanu
+<Vuko> Starszy facet, jak mi pomógł z wymianą framug to do dziś nie narzekam
+ * Joyce notował
+<Rawls> szare psy gryzą glebę
+ * Rawls mruknął pod nosem
+<Vuko> Poza tym Rogers i Manning mają wspólną wytwórnię w 14-tej dzielnicy
+ * Rawls zanotował to wszystko
+<Joyce> A któryś byłby w stanie zrobić taką porządną skrzynię?
+<Vuko> Poza tym jest zawsze Irving, on ma całą wytwórnię i manufakturę. Ale od niego dobre meble nie wychodzą, samo badziewie, wszystko na taśmie robione.
+<Vuko> Ja wiem, jakbym miał obstawiać to chyba Manning i Rogers, Kennedy raczej nie robi mebli.
+<Joyce> Dużo łazicie po okolicy z synem?
+ * Rawls zakreślił nazwiska Manninga i Rogersa
+<Vuko> No, staram się. Odkąd Krąg przejął moją fabrykę i zrobili czystkę mam znacznie więcej czasu wolnego.
+<Vuko> A na plecach żona i kolejny dziedziak w drodze - westchnął
+ * Rawls pokazał jednemu z policjantów, że sznur też mają zabrać
+<Joyce> Jacyś obcy się kręcą? Ktoś się rzucił w oczy?
+<Vuko> Wiem o co panu chodzi, czy ktoś miałby to tu podrzucić?
+<Vuko> Powiem panu tak, jakby ktoś tutaj miał przytargać to dziadostwo i wyrzucić, to by cała okolica o tym szumiała.
+<Joyce> Tu czy gdzie indziej ale sam się w tej skrzynce nie przyniósł.
+<Vuko> Moim zdaniem - nieboszczyka do bram Piotrowych w górze rzeki, w mieście musieli wyprawić.
+<Vuko> Tu teraz woda wolno płynie, ale jak odpływ jest i trochę popada prąd ostry.
+<Vuko> Skrzynię mogło równie dobrze znad Luizjany nieść jak pogoda odpowiednia.
+ * Joyce pokiwał głową i zamknął notes. Dał ojczulkowi jeszcze papierosa na odchodne.
+ * Rawls zantował ostatnie słowa we własnym notesie i też go schował
+<Rawls> Na wszelki wypadek
+<Rawls> pańskie imię, nazwisko i miejsce zamieszkania
+<Donnelly> Trochę potrwa zanim doktorek coś wyciągnie
+<Donnelly> Jedźmy do tych od mebli
+<Vuko> William Kinkaid, a to William Kinkaid Junior.
+<Donnelly> jak im tam było Rawls?
+<Rawls> Manning i Rogers
+<Vuko> Mieszkamy na drodze do Orleanu, milę od miasta.
+<Rawls> 14 dzielnica
+ * Rawls nawet nie zerkał do notesu
+<Rawls> Dobrze
+<Rawls> Połamania wędki więc
+<Rawls> jeśli zamierza pan coś łowić
+<Vuko> Pokręcił głową
+<Donnelly> Lepiej nie
+<Donnelly> znowu nam jakiego trupa wyłowi
+ * Rawls rozejrzał się jeszcze po okolicy
+<Donnelly> jeden starczy
+<Vuko> Chyba już tu łowił nie będę, a szkoda bo miejsce było świetne.
+ * Donnelly ruszył z wolna w kierunku dyliżansu
+ * Rawls zerknął na Joyce'a
+<Vuko> brb, piwko \\
+<Rawls> Trochę bez sensu wrzucać trupa w skrzyni i jeszcze owijać go sznurem, żeby nie uciekł
+<Rawls> Ktoś chciał, żeby denat miał okrutną i męczącą śmierć
+ * Joyce znowu wziął się pod boki
+<Donnelly> Chyba, że w środku nie było trupa
+<Joyce> Co?
+<Donnelly> No żył, jak go wrzucali
+<Rawls> O to chodzi
+<Rawls> Co oznacza jakieś poważne porachunki i planowanie
+<Joyce> Komu to potrzebne? To znaczy, kto miał się dowiedzieć, ze koleś odszedł w taki sposób?
+<Rawls> Czyżby włosi postanowili urozmaicić swoje gry i zabawy?
+ * Joyce zmarszczył czoło i zapomniał, ze pali papierosa, więc popiół sypał mu się na marynarkę
+ * Donnelly wtramolił się do dyliżansu
+<Rawls> Nie, to trochę bez sensu
+<Joyce> Nie, na pewno nie.
+<Donnelly> to się okaże
+<Rawls> Bez ustalenia jego tożsamości daleko nie zajdziemy
+<Joyce> Ale posłuchaj.
+ * Rawls stanął
+<Joyce> Nie robi się takich rzeczy po to, żeby kogoś się pozbyć. Można to robić po to, zeby ktoś zobaczył czy tam dowiedział się i poczuł się ostrzeżony.
+<Rawls> Ktoś chciał przesłać wiadomość, to ma służyć zastraszeniu
+ * Rawls pokiwał głową
+<Rawls> Stąd trzeba ustalić, kim jest nieszczęśnik
+<Donnelly> Może coś nie wyszło z zastraszeniem
+<Joyce> Albo po to, zeby kogoś ukarać, kogoś, nie wiem, kto wie, ze to... hańba? strach?
+ * Donnelly westchnął
+<Rawls> wątpię, żeby zwinięto kogoś losowego
+<Donnelly> szkoda tylko, że Tych dwóch to nie czarnuchy
+<Donnelly> już byśmy mieli po sprawie!
+<Rawls> No nic
+<Rawls> musimy rozpytać mistrzów stolarki z 14 dzielnicy
+ * Rawls wskoczył do dyliżansu
+<Joyce> Dla kogoś to ma coś znaczyć, w przeciwnym razie ktoś by go zapakował w kilka zbitych desek a nie dłubał skrzynię specjalnie do tego celu.
+<Rawls> Owszem
+<Rawls> Ale gdybanie nic tu nie da
+<Rawls> trzeba też dokładnie obejrzeć te papiery
+<Rawls> może coś się ostało
+<Rawls> zajmę się tym w mieście
+<Donnelly> woźnica: ruszaj
+<Donnelly> do 14 dzielnicy
+<Donnelly> byle prędko
+<Vuko> Posterunkowy kiwnął głową, po czym powóz ruszył.
+
+------------------------------------------------
+Zmierzchało, ludzie wracali z pracy do domu, a ruch na trasie był całkiem spory. Warsztat duetu stolarskiego znajdował się w małej mieścince na przedmieściach, w środku wciąż paliło się wątłe światełko lampy naftowej w gabineciku subiekta. Powóz się zatrzymał a posterunkowy zsiadł i otworzywszy drzwi, oparł się o powóz i sięgnął do kieszeni po piersiówkę.
+------------------------------------------------
+
+ * Rawls zeskoczył znów pierwszy
+ * Joyce wysiadł i na chwilę zatrzymał się przy Donnelly'm odciągając go na bok
+ * Rawls rozejrzał się uważnie po otoczeniu warsztatu
+<Vuko> Ot, domek połączony z sklepem. Całkiem spory, ale nic okazałego. W tle stodoła i całkiem duże obejście.
+ * Rawls czeka cierpliwie
+ * Joyce podszedł do Rawlsa
+<Joyce> Idziemy?
+<Donnelly> Ta
+ * Rawls tylko kiwnął głową
+ * Donnelly uśmiechnął się i popatrzył na Joyce'a wzrokiem "Lone Jacka"
+ * Joyce poklepał się po marynarce zaglądając do warsztatu, w końcu namacał papierosy i wyciągnął częstując Donnelly'ego i Rawlsa
+ * Rawls zastanowił się chwilkę, po czym wziął papierosa
+<Rawls> dzięki
+<Rawls> tak myślę
+<Joyce> Dobry wieczór!
+<Rawls> Halo?
+ * Rawls krzyknął
+ * Joyce zawołał odganiając się od much
+ * Joyce zapukał w okno, w którym paliła się lampa
+<Vuko> Ze środka słychać ruch, po czym drzwi się otwierają, a w nich widzicie wysokiego, postawnego mężczyznę około pięćdziesiątki, ubranego w roboczą koszulę i dżinsy.
+<Vuko> Andrew Manning, w czym mogę panom pomóc?
+<Joyce> Panom policjantom.
+ * Joyce wyjął odznakę.
+ * Donnelly na dobitkę dmuchnął dymem z papierosa
+ * Rawls zaciągnął się nieufnie
+<Donnelly> Chcielibyśmy zadać kilka pytań
+<Vuko> Manning nie stracił nic z rezonu, cofnał się lekko i gestem wskazał korytarz
+<Vuko> Ależ w takim razie proszę wejść, nie rozmawiajmy na podwórzu.
+ * Rawls rozglądał się w środku bardzo uważnie
+ * Joyce obejrzał się za siebie na Donnelly'ego i wszedł za Rawlsem
+ * Donnelly wlazł dopalając papierosa i jeszcze udało mu się wywalić go za siebie nim przekroczył próg
+<Vuko> Korytarz oddzialał część mieszkalną od sklepu i warsztatu. Schody na piętro, w lewo gabinecik. Wszystko schludne, widać że gospodarz dba o swoje.
+<Rawls> Sklep i warsztat nas raczej interesują
+ * Rawls mruknął do Joyce'a
+<Donnelly> nas interesują przede wszystkim informacje
+<Joyce> Ostatnie zamówienia - coś interesującego?
+<Donnelly> jak, np. duża skrzynia, kufer?
+<Vuko> Manning skierował ich gestem do gabinetu, a sam odparł idąc:
+<Vuko> Kufry? Sporo ich szło dobre parę lat temu, jak po wojnie masa ludzi się przenosiła z Nowego Orleanu.
+<Vuko> A już po rozruchach w 74 na pęczki.
+<Rawls> A ostatnimi czasy?
+<Donnelly> A ostatnio?
+<Rawls> Nic wielce wyszukanego
+<Vuko> Westchnął cicho
+<Vuko> Nie bardzo, panowie, nie bardzo
+<Vuko> Teraz wszyscy chcą albo łądną szafę
+<Vuko> Albo kupują te nowomodne teczki na rzeczy
+<Vuko> Starych dobrych kufrów dużo nie schodzi.
+<Donnelly> A nowych?
+<Donnelly> Mozemy zerknac w ksiege zamowien?
+<Vuko> Jak najbardziej, gdzieś tu się zawieruszyłą
+<Vuko> Pan Manning spokojnie usiadł za biurkiem, po czym jął odgarniać sterty planów i skoroszytów aż wydobył obity skórą kajet
+ * Rawls wyjął notes
+<Vuko> Można się zapytać w jakiej sprawie panowie tu? Jakieś problemy z naszymi wyrobami?
+ * Joyce rozglądał się i drapał po czole
+<Donnelly> Być może mocno przemakają, to się okaże
+<Donnelly> Co z tą księga?
+ * Joyce złączył ręce za plecami i gapił się na Manninga
+<Vuko> Ależ proszę - wskazał na leżący na szczycie biurka kajecik
+ * Donnelly przesunął kajet bliżej Rawlsa
+<Donnelly> wertuj, wiesz czego szukać
+<Vuko> Nigdy nie mieliśmy żadnych problemów z naszymi wyrobami, a o przemakaniu nie ma mowy.
+ * Rawls westchnął i otworzył na ostatniej stronie, uważnie cofając się w zamówieniach
+<Rawls> Z czego pan najczęściej wyrabia takie kufry?
+<Vuko> Manning odparł z nieskrywaną dumą
+<Vuko> Tylko z dębiny z Południa..
+<Vuko> Nie to co ten oszust Irving.
+<Vuko> Wieczne kufry, ciesz się meblem na pokolenia, zachwala.
+<Rawls> A robi z brzozy, co?
+<Vuko> Gówno prawda, sprowadza znad Wielkich Jezior tandetne świerki i wciska ludziom za kolosalne pieniądze.
+ * Rawls uśchmienął się pod nosem
+<Vuko> Nie dość że od jankesów, to jeszcze dziadostwo.
+ * Rawls zerknął w notatki odnośnie skrzyni, czy zapisał coś o drewnie
+<Joyce> Wszystkie są lakierowane?
+<Vuko> Zawsze, zresztą nasze kufry są oznaczane i numerowane
+<Vuko> W razie problemów można się do nas zgłosić i przeprowadzamy renowacje i naprawy
+ * Rawls zanotował i to
+ * Rawls napisał "to raczej nie tutaj" i pokazał Donelly'emu
+<Donnelly> Dobrze, dziękujemy za poświęcony czas
+ * Donnelly wstał
+ * Rawls zdał sobie sprawę z tego, że cały czas stał z papierosem, którego nie palił
+<Rawls> no nic, dziękuję
+ * Rawls zamknął księgę
+ * Donnelly udał się w kierunku drzwi wyjściowych, a potem diliżansu, poczekał na kompanów przy drzwiach powozu
+ * Joyce przyszedł zaraz potem, zaglądając jeszcze przez okno do warsztatu
+<Vuko> Manning kiwnął głową, po czym wyszedł razem z policjantami i stał w drzwiach aż ich dyliżans odjechał.
+<Vuko> W warsztacie masa narzędzi, trochę desek na brzegu - drewno ciemne i zaimpregnowane, ewidentnie się suszy.
+ * Rawls wskoczył do dyliżansu ostatni
+<Rawls> pan Irving nas interesuje
+ * Rawls zerknął w swoje notatki, gdzie urzęduje
+<Rawls> Bo co jak co, ale ta skrzynka na pewno nie była dębowa
+<Donnelly> To jutro
+<Vuko> Irving mieszka w dzielnicy Algiers, gdzie ma manufakturę. Sam adres wskazuje, że majętny.
+<Donnelly> najpierw skoczmy do włochów
+ * Joyce zerknął wymownie na Donnelly'ego
+ * Joyce i spokojnie napił się z piersiówki a potem skrzywił.
+ * Donnelly wystawił łeb z dyliżansu i krzyknął do woźnicy
+<Donnelly> wiesz gdzie jest knajpa "Hunting Lodge"?
+<Rawls> No tak
+<Rawls> Mają tam stouta?
+<Vuko> Woźnica kiwnął głową bez słowa
+<Donnelly> Więc ruszaj
+<Donnelly> nie
+<Donnelly> ale mają dużo włochów
+<Vuko> Konie ruszyły ostro, zakręcając na wąskiej drożynie.
+
+------------------------------------------------
+Manning stał cały czas w drzwiach, wolno odpalając fajkę, aż dyliżans znikł mu z oczu. Centrum Nowego Orleanu zbliżało się już szybko, po przekroczeniu zaś mostu na wysokości 3ciej dzielnicy wjechali w włoską dzielnicę. Policjanci byli tu rzadkim widokiem, woźnica ewidentnie nie chciał spędzić tu więcej czasu niż było to konieczne. Hunting Lodge miał niewiele wspólnego z polowaniem, nowy gospodarz kupił ją od wdowy po oryginalnym właścicielu i przekształcił w znaną w całym mieście spelunę, gdzie wielu członków obu rodzin spędzało czas na upijaniu się i ubijaniu interesów. Hazard obecny był od początku, ale mimo oficjalnego zakazu Krąg dawno wprowadził prawo opodatkowujące i przyzwalające na takie praktyki. Gdy dyliżans zajechał przed wejście, ze środka dobiegały głośne krzyki i rumor. Nic zaskakującego.
+------------------------------------------------
+
+ * Rawls wyskoczył znacznie mniej chętnie
+<Rawls> Panowie, prowadźcie, ja nie znam miasta
+ * Rawls spojrzał nieufnie na wychodzących bywalców
+ * Donnelly wskazał drzwi trzy metry przed nimi
+<Donnelly> to niedaleko
+<Donnelly> na pewno się nie zgubisz
+<Rawls> Za Panem.
+<Vuko> mały biobreak, minutkę \\
+ * Donnelly mrugnął na Joyce'a
+<Vuko> re \\
+<Vuko> Przed drzwiami lokalu stoi trzech gości, na widok dyliżansu jeden z nich wszedł do środka. Po kilku chwilach rumor ucichł.
+ * Rawls wzruszył ramionami
+
+ * Donnelly popchnął Joyce'a przed siebie
+<Donnelly> no nie wlecz się tak, to był Twój pomysł
+ * Rawls wszedł za nimi
+ * Joyce przecisnął się do środka i rozglądał podchodząc do baru
+<Joyce> whiskey dla mnie i kumpli
+ * Joyce oparł się obar i wzrokiem szukał znajomej twarzy
+<Vuko> W środku od dymu aż duszno. Vis a vis wejścia szeroki bar, za którym stał łysiejący jegomość pod czterdziestkę. Po prawej parę stołów do blackjacka i pokera, przy jednym z nich spora liczba graczy siedzących w milczeniu i oglądających nowych gości.
+ * Donnelly usiadł, położył kapelusz na barze i łyknał ze szklanki, którą włąsnie barman przed nim postawił
+ * Rawls usiadł obok
+<Rawls> Stouta.
+ * Rawls położył własny kapelusz obok
+<Vuko> Po drugiej stronie baru przy szklance siedział twój stary znajomy, Pinelli. Powoli dopijał bourbon.
+<Vuko> Barman niespiesznie nalewał piwo.
+ * Joyce wziął szklankę z baru i podszedł przysiadając się do Pinellego
+ * Rawls położył dolara na blacie z hukiem
+<Vuko> Barman podejrzliwie wziął do ręki monetę, po czym ugryzł ją lekko i schował do kieszeni.
+ * Joyce odpalając papierosa wyłożył po krótce sprawę, po czym wypił zawartość szklanki jednym haustem
+<Vuko> Pinelli dopił resztkę, po czym odwrócił się do Joyce'a.
+<Vuko> Nie do nas te romanse, Joyce. To nie nasz.
+<Joyce> Wasz, czy nie wasz, chodzi o to kto tak kombinuje, żeby się pozbyć faceta. Przecież nie zazdrosna żona.
+<Vuko> Wzruszył ramionami.
+<Vuko> Kombinuje - nie kombinuje.
+<Vuko> Niekoniecznie to tak było.
+<Joyce> O co chodzi z tą skrzynką? To jakiś przesąd? Wezwanie? Ostrzeżenie? Wróżba czarnuchów?
+<Vuko> Czarni tak tego nie robią, daj spokój.
+<Vuko> Znajdziesz takiego zafajdanego ze strachu
+<Vuko> bardziej bojącego się gniewu białego sąsiada niż stryczka od policji
+<Vuko> Nie, co ty.
+<Vuko> Powiem ci jedno: to nie był pierwszy lepszy idiota.
+ * Donnelly zamówił sobie jeszcze jedną szklaneczkę, a drugą kazał posłać Joyce'owi do stolika
+<Joyce> To jak to było?
+<Vuko> Spójrz na to tak: masz ciało którego chcesz się pozbyć.
+<Vuko> Masz obok rzekę.
+<Vuko> Ale wyrzucisz ciało, znajdą je w try-mi-ga i namierzą gdzie je wyrzuciłeś.
+<Vuko> Stamtąd po sznureczku do twojej szanownej powieszonej szyi.
+<Vuko> Ale włóż je w cokolwiek co popłynie niezauważone, gdzieś opadnie na dno - i kłopot z głowy.
+<Vuko> Ja bym to inaczej zrobił, ale to tylko moje zdanie.
+ * Donnelly przysłuchuje się mimochodem z boku
+<Donnelly> taaa, a może coś czego nie wiemy?
+ * Donnelly rzucił cicho do siebie
+<Joyce> Taaa... Tylko z drugiej strony nie męczę się zamawiając albo wykonując bardzo dobrej jakości skrzynię. Wrzucam zwłoki w jakimś zawiniątku.
+<Vuko> Już wam mówiłem, my takie sprawy załatwiamy inaczej. Jak na moje odpada wam pół populacji przestępców, nie licząc czarnuchów.
+<Vuko> Zaśmiał się do swojego żartu, po czym skinął ręką barmanowi.
+<Vuko> Wzruszył ramionami - to już wasz problem.
+ * Rawls dopił piwo
+<Joyce> Twój także. A teraz wytłumaczę ci dlaczego. Jeśli tą sprawę rozwiążemy gładko i szybko - jesteśmy u sterów, rozumiesz? Rozumiesz. Jeśli z tego natomiast zrobi nam się drzazga niewygodna przy siadaniu, wejdzie tu ekipa z zewnątrz z którą ani ty ani t apołowa, o której mówisz, niestety się nie ułoży jak człowiek z człowiekiem.
+ * Joyce mówił ściszonym głosem nachyliwszy się nad szklanką do Pinellego.
+<Joyce> Daj mi cokolwiek, kogoś, nazwisko, może adres. I jesteśmy na dobrej drodze do porozumienia.
+<Vuko> Pinelli żachnął się.
+<Vuko> My tu byliśmy przed, będziemy po każdej ekipie.
+<Rawls> Może się zrobić ciasno
+<Vuko> Ale wiesz co, lubię cię Joyce, powiem ci to jako kolega.
+ * Rawls mrunknął pod nosem
+<Vuko> Ten wasz sztywny?
+<Vuko> On nie był stąd.
+<Vuko> I nie mówię o dzielnicy, mówię o Nowym Orleanie.
+<Joyce> To niewiele.
+<Vuko> Nasi namierzyli go jakiś czas temu jako cel do skrojenia, bo pieniądze to on miał
+<Vuko> Ale chłopa wcięło nie dalej jak trzy tygodnie temu
+<Vuko> Rozpytywał po mieście, rozumiesz.
+<Vuko> Szukał kogoś - Cavanar? Cavaron?
+<Vuko> Tyle wiem.
+ * Rawls nie omieszkał zanotowac i tego
+ * Joyce wypił drugą szklankę i wydął usta w zamyśleniu
+ * Joyce pokiwał głową patrząc na Pinellego, wstał bez słowa od stolika, skinął na Donnelly'ego i Rawlsa i wyszedł
+ * Rawls bez słowa zabrał czapkę i wyszedł za Joyce'm
+<Rawls> Kiepskiego mają tu stouta
+ * Rawls rzucił na zewnątrz
+ * Joyce zatrzymał się po wyjściu z knajpy i wsadził ręce w kieszenie
+ * Donnelly wyszedł ale po chwili wrócił po kapelusz
+<Vuko> Na zewnątrz zmrok; było już dobrze po ósmej.
+<Donnelly> Pomocny ten Twój Pinelli
+ * Joyce prychnął
+<Donnelly> No nic, dzisiaj już po zabawie
+<Donnelly> jutro rano trzeba odwiedzić tego całego Ivana
+<Donnelly> tak?
+<Donnelly> Jak mu tam było Rawls 
+<Rawls> Panowie, jutro trzeba sprawdzić stolarza
+<Rawls> Irving
+ * Rawls prychnął
+<Donnelly> Irving, właśnie
+<Joyce> Ktoś musi wrócić na posterunek i sprawdzić to nazwisko we wszystkich możliwych papierach, od bójki po podatki
+<Donnelly> Racja
+<Rawls> I tak muszę obejrzeć zgromadzone dowody
+<Donnelly> Rawls: woźnica odwiezie Cię na posterunek
+<Donnelly> rano pojedziemy do stolarza
+<Rawls> Dobrej nocy, panowie
+ * Rawls uchylił kapelusza i wskoczył do pojazdu
+<Donnelly> Chcę mieć raport na ósmą
+<Rawls> mhm
+ * Rawls mruknął coś pod nosem na koniec
+ * Joyce stał tak z rękoma w kieszeniach i słuchał muzyki z knajpy
+<Joyce> Trup zaczyna śmierdzieć, James
+ * Joyce rzucił gdy Rawls odjechał
+<Donnelly> Tego się obawiałem
+<Donnelly> Szlag
+<Donnelly> Widać będziemy mieli robotę
+<Donnelly> a już miałem nadzieję, na dwóch pojebanych czarnych, proste zamknięcie, każdy byłby szczęliwy, nie?
+ * Joyce zerknął na Donnelly'ego i wyszczerzył zęby
+<Joyce> Porobić, zęby się nie narobić, ta.
+<Joyce> A ten Rawls? Sprawdziłeś go?
+<Donnelly> Niby w porządku, sumienny, trochę za bardzo
+<Donnelly> ale to nawet nam się teraz może przydać
+<Joyce> Przydać, tak. Dopóki nie trzeba będzie sprawie łba ukręcić tak jak w przypadku Taggarta w lutym.
+<Donnelly> Z nim będzie trudno
+<Donnelly> no ale
+<Donnelly> każdego da się wyrobić
+<Donnelly> Albo wyrobią jego
+ * Joyce splunął i skinął kapeluszem Donnelly'emu
+<Joyce> Dobranoc, James.
+<Donnelly> Dobrej Joyce
+
+------------------------------------------------
+Noc nie była spokojna. Czarna niedziela, jak ją zwano. Dzień gdy cała czarna populacja upijała się, tańczyła i kochała przy dźwiękach gitar, gdy porządni obywatele zasuwali drzwi na cztery spusty i trzymali dubeltówki w pogotowiu. Każdy z detektywów kładł się do łóżka wiedząc, że nie będzie to prosta sprawa. Prawdziwe problemy miały się jednak dopiero pojawić...
+------------------------------------------------
+
+ * Rawls siedział nad biurkiem z pierwszym z niedawno zakupionej paczki papierosów w gębie i walczył z sennością
+ * Joyce wszedł na posterunek niosąc torbę ciepłych bułek i zaczął szperać za kawiarką po kuchni
+ * Rawls przeglądał kilkanaście zapisanych maczkiem kartek
+<Vuko> Na piętro zajmowane przez wydział zabójstw - w liczbie trzech policjantów - wszedł posterunkowy, ewidentnie rozgorączkowany.
+ * Rawls podniósł na niego wzrok
+<Vuko> Pan detektyw Rawly, tak?
+<Vuko> Dyszał ciężko.
+ * Joyce obejrzał się przez ramię z zaciekawieniem
+ * Donnelly poczęstował się bułką i zajadał oparty o jedno z biurek
+<Rawls> Rawls.
+ * Rawls wstał
+<Vuko> Najmocniej przepraszam. W każdym razie - jest sprawa. Duża. Zabito rodzinę, Millerów. Wszystkich proszę pana, wszystkich. Pannę Miller też, świeć Panie nad jej duszą.
+<Vuko> Posterunkowi z Algiersu już tam są, ale pilnie potrzeba panów.
+ * Rawls z miejsca stracił ochotę na sen
+<Rawls> Do roboty.
+ * Rawls chwycił za kapelusz i płaszcz
+ * Joyce westchnął cicho nad kubkiem świezo zaparzonej kawy, mimo wszystko upijając dwa łyki na spokojnie
+<Donnelly> A po co my tam?
+<Donnelly> już mam jedną sprawę
+ * Rawls zabrał kartki i już był na wylocie
+ * Joyce odstawił kawę i spojrzał na Donnelly'ego
+<Donnelly> Cholera by to
+<Joyce> to ten sam smród, James. Ten sam co wczoraj.
+<Donnelly> a ja czułem, że ta niedziele nie bedzie udana
+<Donnelly> Myślisz?
+<Donnelly> Może tym razem prościej
+<Donnelly> i jakiś pijany czarnuch ześwirował
+<Joyce> Oby.
+ * Joyce zabrał kapelusz i zszedł na dół
+ * Donnelly dojadł bułkę i spokojnie zszedł na dół
+<Vuko> Powóz czeka, woźnica gotów.
+ * Rawls czekał już w środku
+ * Donnelly wgramolił się do powozu
+ * Joyce wsiadł i sprawdził amunicję w rewolwerze, czego nie robił od tygodni
+<Donnelly> jak te sprawy są powiązane, to będzie przejebane
+<Rawls> to od czego zacząć?
+ * Rawls zerknął znowu w swoje notatki
+ * Donnelly puknał w drzwi dając znać woźnicy, żeby ruszył
+ * Joyce skinął na Rawlsa
+ 
+------------------------------------------------
+Powóz ruszył szybko poprzez ulice wschodniego brzegu Missisipi, by po przekroczeniu rzeki mostem wyjechać w dzielnicę rezydencji i posiadłości majętnych tego miasta. Nieopodal wybrzeża rzeki zatrzymał się przed okazałym domostwem, przed którym zdążyła zebrać się sporych rozmiarów grupa gapiów, których bezskutecznie próbowali okiełznać posterunkowi. Na ganku przed domem siedziała i cicho chlipała czarna dziewczyna, sądząc po ubiorze służąca.
+------------------------------------------------
+
+<Donnelly> Chodzmy
+ * Joyce zaraz jak wysiadł to podszedł szybkim krokiem do posterunkowych i w krótkich slowach kazał im ogarnąć gapiów
+ * Rawls wysiadł pierwszy, zdecydowanym krokiem rozpychając się przez tłum
+<Joyce> To miejsce przestępstwa, do ciężkiej cholery, a nie jakiś cyrk
+ * Donnelly korzystajac z pracy Rawlsa, szedł zaraz za nim
+<Donnelly> rozejść się do cholery!
+<Donnelly> Normalnie bym strzelał, gdyby to było stado czarnych
+ * Donnelly pokiwał głowa rzucając do Joyce'a
+<Vuko> Na ganku przed wejściem stał podoficer dowodzący na miejscu zdarzenia, wyszedł detektywom naprzeciw
+ * Rawls kazał jednemu z posterunkowych tonem nie znoszącym sprzeciwu odprowadzić służacą do środka i trzymać gdzieś w pokoju na boku do przesłuchania
+ * Joyce skinął rondem kapelusza
+<Vuko> Witam i ostrzegam, w środku jest dość drastycznie. Paru naszych musiało sobie zrobić przerwę.
+<Joyce> Jak to wygląda?
+<Vuko> Krwawo.
+ * Joyce obejrzał się na Rawlsa
+<Joyce> Dasz radę?
+<Vuko> Dziewczyna - wskazał na służącą - powiadomiła policję z samego rana, gdy odnalazła ciała w sypialni.
+ * Donnelly wszedł do środka jako pierwszy
+<Rawls> JEst tylko jeden sposób, żeby się przekonać
+<Rawls> Jeśli ktoś łazi po miejscu zbrodni, ma natychmiast wyjść
+<Rawls> proszę przekazać swoim ludziom
+<Rawls> sprawa może być grząska
+<Vuko> Parter był pełen policjantów, ale śladów zbrodni zero. Na prawo od wejścia kuchnia z jadalnią, na lewo salon i pokój dzienny. W głąb korytarza drzwi tylne i kanciapka służącej.
+ * Rawls bez czekania na odpowiedź wszedł za Donelly'm
+<Vuko> Podoficer skinął na resztę swoich i tłumek powoli zaczął opuszczać domostwo.
+<Vuko> Na piętrze, proszę panów.
+ * Donnelly ruszył schodami w górę
+ * Joyce jeszcze się rozejrzał po terenie przed domem i też wszedł
+ * Rawls poszedł za nim
+<Vuko> schody wychodziły na długi korytarz; z najbliższych drzwi po podłodze szła długa struga zastygłej brunatnej cieczy, kierująca się do pokoju drzwi obok
+<Donnelly> rzeczywiście
+<Donnelly> grząsko
+ * Rawls przykucnął przy niej, obejrzał, po czym bardzo ostrożnie, żeby jej nie dotknąć, poszedł za śladem
+ * Joyce zagaił jednego z policjantów na dole o wersję służącej
+ * Donnelly po prostu poszedł do końca korytarza
+<Vuko> W pokoju dalej oczom detektywów ukazała się koszmarna scena. U drzwi, z rozciętym karkiem, leżała obok kałuży krwi dziewczyna około czternastu lat.
+<Vuko> Była to ewidentnie sypialnia pana domu, gdyż po lewej stronie okazałego łóżka znajdowało się kolejne ciało.
+<Vuko> Kobieta została powalona ciosem ostrego narzędzia w klatkę piersiową, sufit nad nią był pokryty opryskami krwi.
+ * Rawls spojrzał na sufit
+<Vuko> Na prawo od łóżka, bliżej komody, leżało oparte o ścianę trzecie ciało, z rozłupaną głową.
+<Vuko> Mężczyzna, około pięćdziesiątki.
+<Rawls> rozrzut krwi przy podniesieniu narzędzia po ciosie? ))
+<Vuko> logiczne, prawdopodobne ))
+ * Rawls zapisał coś w notatniku, czując, że robi mu się trochę słabo
+<Donnelly> no no
+<Donnelly> ładna rzeźnia
+<Rawls> Trzeba natychmiast przesłuchać służącą
+<Donnelly> Hej, Joyce, chodź tu lepiej
+ * Donnelly krzyknał w stronę korytarza
+<Joyce> Zaraz
+ * Joyce odkrzyknął z dołu
+<Donnelly> Nie zaraz, tylko teraz
+<Rawls> Niech pan spojrzy
+<Rawls> pierwsza padła córka
+<Rawls> usiłowała dostać się do rodziców
+ * Rawls pokazał na ślad krwi
+<Vuko> Joyce: Policjant który zbierał informacje
+<Rawls> Zabójca wpadł tutaj
+<Rawls> ale
+<Vuko> stwierdza, że służąca wyszła z domu około dziewiętnastej
+ * Rawls spojrzał na rozłupaną głowę ojca
+<Vuko> wróciła, jak zawsze, tylnim wyjściem, które zostawiła otwarte
+<Vuko> i poszła spać.
+<Donnelly> a jakie to ma znaczenie, kto padł pierwszy?
+<Vuko> Gdy rano wstała i ruszyła oporządzić sypialnie pana zastała tą scenę.
+<Joyce> Trochę wygodne takie zostawianie otwartych drzwi, nie sądzisz?
+<Rawls> hmmmm
+<Donnelly> oczywiście
+<Donnelly> bo zabójca będzie zamykał za sobą drzwi
+ * Rawls wyszedł z pokoju zobaczyć, w którym miejscu zaczął się krwawy ślad
+ * Joyce poszedł do służącej
+ * Donnelly zlazł na dół
+<Rawls> Trzeba ustalić, o której doszło do morderstw
+<Donnelly> Joyce, do cholery
+<Donnelly> gdzie Ty lazisz
+ * Donnelly rozgląda się
+ * Rawls mówił do siebie, notując
+ * Joyce zatrzymał się i odwrócił do Donnelly'ego
+<Joyce> tu jestem, idę do dziewczyny
+<Donnelly> chodz najpierw na górę, potem przesłuchamy czarnulę
+<Vuko> Przy bliższym przyjrzeniu się zauważacie, że - najwyraźniej pani Miller - ma rany na nogach.
+<Donnelly> Nowy ma dziwne teorie
+ * Joyce machnął ręką i poszedł na górę
+<Donnelly> Może Ty mu to wybijesz z głowy
+ * Donnelly lazł zaraz za Joyceem
+<Joyce> Ale łaźnia...
+ * Rawls podszedł do Joyce'a
+<Rawls> niech pan zobaczy
+ * Joyce odruhowo wymacał paczkę Lone Jacków ale była pusta
+<Vuko> Krwawy ślad zaczyna się na łóżku młodej.
+<Rawls> po kolei
+<Vuko> Ogromna plama krwi
+<Rawls> Dziewczyna ledwie szła do rodziców
+<Rawls> widać co chwilę większe plamy krwi, tam się zatrzymywała
+<Joyce> Dobra, Rawls, do rzeczy
+<Rawls> mamy jeden odcisk buta
+<Rawls> to jest istotne, bo trzeba ustalić, kto był celem ataku
+<Donnelly> lepiej sprawdź czy to nie któregoś z gliniarzy
+<Rawls> tak
+<Donnelly> albo czarnuli
+ * Rawls pokiwał głową
+ * Rawls pochylił się nad butem
+<Rawls> będzie trzeba zrobić dokładny szkic i odrysować to
+<Rawls> bo po kolei
+<Joyce> Daj spokój, dziecko musiało się drzeć wniebogłosy, Millerowie pewnie też, a dziewczyna twierdzi, ze nic nie słyszała?
+<Rawls> tak
+<Rawls> i dlatego musimy ustalić, czy nie dokonano tego, gdy służącej nie było
+<Joyce> Więc albo kłamie albo ktoś ich zatłukł podczas jej nieobecności a wtedy mamy mniej więcej dokładny czas.
+<Rawls> dokładnie
+<Donnelly> Stawiam, że kłamie
+<Joyce> Ma ktoś papierosy? Cygaro?
+ * Joyce krzyknął na dół
+<Donnelly> to czarni potrafią najlepiej
+<Donnelly> Na mnie nie patrz
+<Donnelly> wiesz, że rzuciłem
+<Rawls> córka żyła dłużej, niż napastnik się spodziewał
+<Rawls> gonił ją? hmm
+<Rawls> nie
+<Rawls> ciężko byłoby jej uciec z taką raną
+<Rawls> chciał pozwolić jej na dojście do sypialni rodziców?
+<Rawls> toby oznaczało
+<Rawls> że mamy kolejny pokazowy mord
+<Joyce> Stał i się przyglądał?
+<Rawls> dał jej tam podbiec
+<Rawls> sama w końcu padła, wykrwawiła się
+<Joyce> Ale po co?
+<Rawls> żeby przekazać wiadomość
+<Donnelly> pokazowy?
+<Rawls> słuchajcie, może ja jestem nowy w tym mieście
+<Donnelly> i kto to ogladal?
+<Donnelly> idziesz w złą stronę moim zdaniem
+<Rawls> ale jak na moje to wygląda jak odpowiedź na wczorajsze znalezisko
+<Rawls> i na to, że przybysz spoza miasta nagle zaginął i równie nagle się odnalazł
+<Rawls> w pudełku
+ * Donnelly uniósł brew
+<Donnelly> i niby czym Ty to powiązałeś?
+<Vuko> wciąż jesteście na pięterku, tak? \\
+<Donnelly> Może młoda dostała przypadkowo?
+<Rawls> a zawsze macie tu brutalne morderstwo całej majętnej rodziny w niecały dzień po znalezieniu trupa majętnego gościa zabitego w równie okrutny i pokazowy sposób?
+<Donnelly> Wiesz, zobaczyła go, a nie powinna
+<Donnelly> to najpierw trzasnął ją
+<Donnelly> potem poszedł po rodziców
+<Donnelly> ale młoda żyła
+<Donnelly> udało jej się potem jeszcze doczołgać do starych
+<Donnelly> i tam padła
+<Joyce> Jest coś w tym, MIller od dawna siedział w Kręgu, jeszcze przed zamieszkami.
+ * Rawls pokiwał głową
+<Rawls> Słuchajcie, naszego kolegi ze skrzynki nie ma w aktach
+<Rawls> przynajmniej ja tak uważam, nie odpowiada nikomu o nazwisku wymienionym przez waszego, ekhm, znajomego
+<Rawls> to człowiek z zewnątrz
+<Rawls> szukał czegoś, ten papier, to był jakiś szkic
+<Rawls> jeśli zakładamy, że to jest odcisk buta sprawcy
+<Rawls> to młoda nie mogła doczołgać się już po fakcie
+<Rawls> bo odcisk idzie do sypialni
+ * Joyce spojrzał na Donnelly'ego i skrzywił się
+<Joyce> Jeśli ktoś porywa się na Krąg i jest z zewnątrz to jest wariatem
+<Joyce> Dlatego bardziej wygląda na wewnętrzną robotę
+<Donnelly> a skad wiesz, ze to slad mlodej?
+<Donnelly> i najpierw sprawdź czy któryś z naszych tego nie dziabnął
+<Donnelly> a my pójdziemy pogadać z czarnulą na dole
+<Rawls> Jeśli porywa się w pojedynkę, tak
+<Rawls> ale jakoś nie wydaje mi się, żeby to był jeden wariat z szalonym pomysłem
+<Donnelly> przestańcie spekulować, to na razie tylko wasze kudłate domysły
+ * Rawls pokręcił głową i zszedł na dół do dowódcy
+<Donnelly> jak dla mnie nie ma na razie w tym żadnego powiązania
+<Donnelly> jeszcze
+<Donnelly> i oby nie było
+<Donnelly> Chodz Joyce
+ * Donnelly zlazł po schodach na dół i skierował sie do pomieszczenia, gdzie siedziałą służąca
+ * Joyce poszedł ale niezbyt przekonany
+<Vuko> Na dole już pusto; policjanci posłusznie wyszli, zostawiając za sobą trochę bajzlu.
+<Vuko> W korytarzu stoi podoficer z służącą, wciąż roztrzęsioną.
+ * Joyce nie powstrzymał się przed wzięciem jednego cygara z pudełka na szafce przy schodach
+ * Donnelly też się poczęstował, mimo że nie pali
+<Vuko> Joyce: było otwarte.
+ * Donnelly kiwnał na policjanta, żeby zaprowadził ja dalej do pomieszczenia i posadził na krześle
+<Vuko> Przeszła do salonu, w którym stał pokaźnych rozmiarów fortepian, spora sofa i kilka krzesełek
+<Vuko> Na fortepianie, otwartym, stała dopita do połowy lampka wina. Na stoliku przed kanapą kilka książek i popielniczka z niedopałkami.
+ * Joyce wziął się pod boki i odsunął kapelusz z czoła
+<Donnelly> no więc, ja to było
+<Joyce> moim zdaniem to strata czasu, ona nic nam sensownego nie powie
+<Donnelly> od początku
+<Donnelly> to się okaże
+ * Rawls milczał
+ * Donnelly przygląda się w międzyczasie książkom i popielniczce
+<Vuko> Służąca spojrzałą przerażona na Donnelly'ego, i odzywa się w te słowa:
+<Vuko> Panie oficerze, ja dopiero wrociłam pod północ, może i później.
+<Vuko> Jej oczy są mocno przekrwione.
+<Vuko> Wyszłam z znajomymi - ot, na chwilę, wie pan jak to jest.
+<Donnelly> nie wiem
+ * Rawls mruknął do Joyce'a, "przesłuchać sąsiadów"
+<Vuko> Ale państwo byli zawsze mili, pozwalali mi tak sobie zrobić wolne raz w tygodniu
+<Vuko> Toteż i jako że mi nie dawano nigdy kluczy do domu ja sobie furtkę, rozumie pan
+<Vuko> z tyłu zostawiałam
+ * Joyce popatrzył na Rawlsa jakby go widział pierwszy raz w życiu
+<Donnelly> a więc furtka była otwarta?
+<Donnelly> no pięknie
+<Donnelly> co państwo robili przed Twoim wyjściem?
+<Vuko> Pan i Pani siedzieli w jadalni, jedząc kolację.
+<Vuko> Sama robiłam przed wyjściem.
+<Joyce> Tak i ona jak i sąsiedzi nawet jakby cokolwiek widzieli woleliby zabrać to do własnej trumny niż powiedzieć. To nie Manhattan, człowieku, tu kazdy boi się o własną białą, a tym bardziej - wskazał na służącą - czarną dupę. 
+<Vuko> Panienka poszła spać wcześniej.
+<Donnelly> Zrobimy tak, że bardziej będą się bać o swoje dupy przez nas
+<Vuko> Sami byli, nikogo w domu poza nimi, o Boże- 
+<Vuko> zaniosła się płaczem
+ * Donnelly westchnął
+<Donnelly> tak do niczego nie dojdziemy
+ * Donnelly pstryka palcami
+<Donnelly> uspokój się!
+<Vuko> Tak, pszpana.
+<Donnelly> co było dalej
+<Joyce> Donelly, ja myślę, że nie obędzie się bez towarzyskiej pogawędki w Choctaw Club
+<Donnelly> To na pewno
+<Donnelly> niestety
+<Vuko> No i wstałam rano, oporządziłam się, po czym poszłam pościelić łóżko państwa i panienki
+<Donnelly> ale najpierw mamy w planach zaległego stolarza
+<Vuko> bo myślałam że nie ma ich w domu
+ * Joyce obciął końcówkę cygara i odpalił
+<Vuko> Z reguły ich nie było rano w poniedziałek
+<Vuko> I jak weszłam na piętro, to nawet nie zaglądałam dalej
+ * Rawls wzruszył ramionami i wyszedł z domu
+<Vuko> tylko co sił pobiegłam na komendę, tu w Algiers.
+<Donnelly> a podczas powrotu, wszystko było jak należy?
+<Donnelly> w nocy?
+<Vuko> Oj ciemno było, panie oficerze, ciemno strasznie.
+<Vuko> Ale wyglądało że jest wszystko jak zawsze.
+<Donnelly> jak to w nocy, cholera
+<Donnelly> w domu, wszystko tak jak zazwyczaj?
+<Donnelly> Nic nie tak jak trzeba, coś przestawione?
+<Donnelly> nic, kompletnie nic?
+ * Joyce wypuścił kłąb dymu i spojrzał na dziewczynę
+<Joyce> Przyprowadzałaś tu czasem swoich znajomków?
+<Vuko> Ja w dom w ogóle nie weszłam, bo Pan nigdy nie pozwalał mi tak się szwendać po domu nieubrana poprawnie
+<Vuko> Spojrzała przerażona
+<Donnelly> o której wróciłaś do domu
+<Vuko> Nie, nigdy!
+<Vuko> Pan postawił sprawę bardzo jasno, i ja się tego trzymałam.
+<Vuko> Ciężko powiedzieć, może pierwsza, druga w nocy?
+<Donnelly> a nie północ? Przed chwilą była północ
+<Joyce> To, ze wczoraj wyszłaś było zaplanowane czy tak na ostatnią chwilę?
+<Donnelly> to w końcu jak?
+<Vuko> Co niedzielę tak wychodziłam, to było moje wolne w tygodniu proszę panów.
+<Vuko> Różnie wracałam, ale rano zawsze pracowałam porządnie.
+<Donnelly> a o której wyszłaś tym razem?
+<Vuko> Toteż pan Miller przymykał na to oko.
+<Vuko> Było ciut po siódmej, wtedy podawałam państwu do stołu.
+<Donnelly> Nie pytam o której podawałaś, tylko o której wyszłaś
+ * Joyce wyjął notes i poślinił ołówek
+<Joyce> kto wiedział, że wychodzisz?
+<Donnelly> jesteś pewien, że wiesz jak się tym posługiwać?
+ * Donnelly powstrzymywał się od zaśmiania
+<Donnelly> Radzę Ci odpowiadać szybko i zgodnie z prawdą, bo jak na razie jedynie Ty jesteś podejrzana
+<Donnelly> rozumiesz, do cholery?
+<Vuko> Służąca była coraz bardziej przerażona
+<Vuko> Tak, oboje państwo wiedzieli
+<Vuko> bo się z nimi pożegnałam w kuchni
+<Vuko> poza tym moi znajomi, bom się z nimi umówiła na drugim brzegu
+<Donnelly> kto, imiona, nazwiska
+<Donnelly> i pytam ostatni raz: o której wyszłaś!
+<Vuko> Po siódmej, może dziesięć minut
+<Vuko> Załkała
+<Joyce> Szkoda czasu, Donnelly, naprawdę.
+ * Donnelly machnął ręką
+<Donnelly> cholerne czarnuchy
+ * Joyce schował notes, machnął ręką i wyszedł gasząc cygaro w popielniczce przy wyjściu.
+<Donnelly> jak zawsze zero pożytku
+ * Donnelly wstał lekko zdenerwowany i wyszedł na zewnątrz
+<Donnelly> mamy przejebane Joyce, oj mamy
+<Donnelly> Tego łba ukręcić się nie da
+<Donnelly> choćby nie wiem co
+ * Donnelly dopiero teraz odpalił cygaro
+<Donnelly> a gdzie jest Rawls?
+ * Donnelly rozgląda się
+<Joyce> Gdzieś tu powinien się kręcić.
+ * Rawls wszedł do domu
+ * Rawls podszedł do dowódcy policji na miejscu
+<Rawls> czy któryś z Pańskich ludzi był na górze?
+<Rawls> jeśli tak, prosiłbym zebrać tych, którzy byli na górze, w osobnym pomieszczeniu
+<Rawls> to zajmie tylko chwilę
+
+------------------------------------------------
+Krew. Przemoc. Okrucieństwo. Niewiele miał wspólnego Nowy Olrean z karnawałem i nocnymi szaleństwami. Rawls szedł z pochmurną miną za policjantami, zastanawiając się czy przybycie na Południe faktycznie było dobrym pomysłem. Joyce i Donnelly w oparach dymu z cygar patrzyli na dom, który do niedawna wypełniał śmiech i życie, myśląc o swojej własnej przyszłości, a ludzie zebrani przed domem Millerów zadawali sobie pytanie, czy ich własne domy są bezpieczne w mieście, gdzie dokonywane są tak brutalne zbrodnie. Perła stanów Południa była okrutnym miejscem, w którym przetrwać mogli tylko najbardziej bezwzględni.
+------------------------------------------------

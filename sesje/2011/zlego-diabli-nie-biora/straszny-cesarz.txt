@@ -1,0 +1,993 @@
+
+
+
+<Juszi> ***
+<Juszi> Działo się to gdzieś na skraju Srebrnych Marchii, za górami Nether, niedaleko rwących wód Rauvin. Pewnego ranka na skraju małej wioski Breen Carvis przystanął nieznajomy człowiek. 
+<Juszi> Dziwna to była postać. Wysoki mężczyzna, ubrany w niezwykle imponującą, bogato złoconą zbroję płytową i w pysznie zdobiony i wyszywany czerwony płaszcz. W ręku trzymał równie imponującą lustrzaną tarczę.
+<Juszi> Nie to jednak zwracało najwięcej uwagi, bowiem nieznajomemu towarzyszyła czwórka dzieci. Prowadził je na grubych łańcuchach, przykutych do żelaznych obroży na szyjach; drugie końce przymocowane były przy pasie jego pancerza.
+<Juszi> Nie wyglądały na zbyt dobrze traktowane, snuły się za nim niczym w transie, wychudzone i brudne.
+<Juszi> Nieznajomy szybko zwrócił uwagę jednego z chłopów, który niechętnie podszedł, przerażony widokiem dzieci i absolutnie obojętną miną nieznajomego.
+<Juszi> Z relacji tych, którzy przeżyli, wynikało, że przybysz zadawał pytania dotyczące starych kapliczek Corellona Larethiana, porozrzucanych po okolicznych lasach, a zostawionych tam stulecia przez elfy.
+<Juszi>  Gdy chłop zwrócił uwagę na prowadzone na łańcuchach dzieci, nieznajomy wpadł w furię; z pianą na ustach zaczął rozkazywać chłopu, by odpowiadał na pytania cesarza świata; następnie uderzył go tarczą, po czym zaczął czarować.
+<Juszi>  Na wioskę spadł deszcz meteorytów, a część z jej mieszkańców rzuciła się na siebie z okrutnym krzykiem, jakby pod wpływem straszliwego zła.
+<Juszi> To było 2 tygodnie temu. Od tego czasu Cesarz pojawiał się w okolicznych wioskach jeszcze trzy razy, za każdym razem pytając o to samo, za każdym razem niosąc też śmierć i zgubę.
+<Juszi> Dwa tygodnie później przy studni w zrównanej z ziemią wiosce Breen Crost wpadło na siebie dwóch ludzi. Wysoka postać, skyta w wyszywanym runami, obszernym płaszczu, i podpierająca się bogato zdobionym kosturem, oraz nieco niższy, kościsty człowiek w skomplikowanie szytej, skórzanej ćwiekowanej zbroi.
+<Juszi> Całkiem łysy, bez zarostu na twarzy poza bródką związaną w warkoczyk. Jedną z rąk opierał na sejmitarze przy pasie.
+<Juszi> Ciekawa para.
+<Juszi> Na spotkanie z ruin wioski wyszedł im półelf w zbroi płytowej, mocno ściskający w ręce poświęcone berło. Kapłan bitewny Ilmatera.
+<Juszi> ***
+
+
+
+<Juszi> Półelf podszedł do kościstego, skinął mu lekko głową. Nie był zbyt zadowolony z tego, kogo widział, ale usiłował zachować to dla siebie.
+<Juszi> "Domyślam się, panie, żeście wysłannik z Sundabar?
+<Nevron> To ja, co tu sie stało?
+ * Nevron mówił spokojnie, opanowanym głosem spod kaptura
+ * Imre uniósł brew, słysząc Nevrona
+<Imre> Zgadza się. Do rzeczy.
+<Juszi> To wszystko? Żadnej odsieczy?
+<Juszi> "Kompanii najemnej?"
+<Juszi> Półelf pokręcił głową.
+ * Imre prychnął
+<Juszi> "Ta okolica nikogo nie interesuje... a kim Wy jesteście, panie?" zwrócił się do Nevrona.
+<Nevron> Powiedzmy, ze wyjątkowa sytuacja, która tu zapanowała konfliktuje z moimi interesami
+<Juszi> Półelf pokręcił zrezygnowany głową. "Nie wiedziałem, że czerwoni magowie w ogóle mają tu interesy."
+ * Imre z rozbawieniem spojrzał na Nevrona, lekko skubiąc bródkę
+<Nevron> To nie Twoja sprawa, mow co zaszlo
+<Juszi> "W istocie, to jest moja sprawa. Mialem oczekiwać wysłannika SUndabar, panie...?"
+<Imre> Imre.
+ * Imre zwrócił się w stronę półkrwi elfa
+ * Nevron spoglądał tylko spod kaptura, nie odezwał się
+<Juszi> Półelf kiwnął głową. "Sig Hellstrom, kapłan bitewny świątynii Ilmatera z Silverymoon. Dobrowolnie opiekuję się okolicą z ramienia mojej świątynii."
+ * Imre machnął ręką
+<Imre> Mów, co muszę wiedzieć.
+<Juszi> "To... to czwarty tego rodzaju atak."
+<Juszi> Półelf odwrócił się i ruszył powoli do wioski.
+ * Nevron spacerował powoli za plecami Imre przysłuchując się
+<Juszi> Domy były wypalone, cżęść przeżarta kwasem albo zruinowana wielkimi głazami.
+<Juszi> Wszędzie panował okrutny fetor śmierci i rozkładu, potęgowany przez upał i suszę.
+<Juszi> Nevron prawie wpadł na zwłoki dziecka. Obok nich leżała kobieta, chyba jego matka, sama poderżnęła sobie gardło nożem.
+ * Nevron szedł równo za nim, z rękami trzymanymi za plecami
+ * Nevron pociągnął kilka razy nosem
+ * Nevron zatrzymał na chwilę wzrok nad zwłokami, po czym poszedł dalej, ciagle ten sam wyraz twarzy, twardy, opanowany
+<Juszi> "Dzieło szaleńca, to możecie stwierdzić zapewne sami. Każe tytułować się cesarzem... Za każdym razem do ataku prowokowało go to samo."
+<Nevron> Dość silne czary tu wyczuwam, całkiem potężna magia, złożone zaklęcia
+<Juszi> Półelf przyklęknął przy siedzącej przy studni staruszce, mrucząc pod nosem złozone zaklęcia. Ułożyłna jej głowie swoje ręce: kobieta przestała cicho szlochać i uspokoiła się.
+<Nevron> Ktoś widział gdzie on tego "cesarz" się udał?
+<Nevron> Może ona? Warto ją przesłuchać
+ * Nevron wskazał na staruszkę i kiwnął na Imrego
+
+
+<Juszi> "Zło bez twarzy." wymamrotał pod nosem, pokazując na kobietę. "Już ledwie mówi. Niedlugo osłabnie do końca i umrze... po czym wróci jako cień siebie, wiedziony tylko chęcią mordu."
+<Juszi> "Pozostali, którzy przeżyli, obecnie też są pożerani przez choroby i klątwy. Sam nic nie zdziałam."
+<Imre> Zmarli powracają?
+<Imre> To chcesz powiedzieć?
+ * Imre zmrużył brew, zaintrygowany
+<Juszi> "Czasem. Czasem choroba przechodzi, jakby ręką odjął... ale uzdrowiony nie jest już sobą."
+<Juszi> "widziałem też przypadki zgnilizny duszy, skazy ognia, innych plugastw, o któych piszą co najwyżej stare księgi."
+ * Nevron puknął kosturem Imre w ramie
+<Nevron> Działaj, ponoć i tak umrze, a słyszałem, że jesteś specjalistą od takich spraw
+ * Imre machnął ręką
+<Juszi> "MOżna powiedzieć, że zabici mają szczęście... często umarli szybko."
+<Imre> Kimkolwiek jest ten Cesarz, nie zależy mu na tym, by się kryć
+<Imre> Znalezienie go nie powinno być trudne
+<Juszi> Półelf wyjął jakiś pergamin z torby przy pasie, ale na razie tylko trzymał go w ręce.
+<Nevron> Jaki Ty jesteś spostrzegawczy
+<Nevron> Może dedukcję zostaw dla innych
+<Imre> Przesłuchanie jej moimi metodami tylko by mnie niepotrzebnie zmęczyło
+<Juszi> "Jak już mówilem, za każdym razem scenariusz był podobny. z Jakiegoś powodu napastnik prowadzi za sobą czwórkę dzieci na łańcuchach, jako niewolników albo branców."
+<Imre> Czy to te same dzieci?
+ * Nevron podszedł pod staruszkę, zaczał cicho inkantować słowa czaru, podniósł rękę i dotknął jej czoła rzucając na nią opętanie umysłu
+<Juszi> "Czasem bywał nawet zadziwiająco uprzejmy w rozmowie, ale gdy ktoś zwracał uwagę na dzieci, chcąc je oswobodzić, wpadał w szał. Efekty... " tylko rozprostował ręce i pokazał dookoła.
+<Imre> No, ktoś ma tu chyba kompleksy
+ * Imre mruknął cicho, uśmiechając się do swojego żartu
+ * Imre widząc Nevrona, złapał półelfa za bark i pociągnął na bok
+<Imre> Słuchaj, po co ten cały Cesarz gadał z chłopami?
+<Imre> O co pytał?
+<Juszi> Nevron: widzisz, że kapłan pokazuje coś Imre na pergaminie, mówiąc cicho.
+ * Nevron podszedł i złapał za pergamin, szarpnał
+ * Imre ani myślał puścić
+<Imre> Zabieraj łapy
+<Nevron> Co to?
+<Juszi> każdy k20, Imre jako wojownik z modyfikatorem -3 ))
+<Imre> d20-3
+ mode/#tawerna [+v Jaskier] by Ictorn
+<Imre> d20-3
+<Jaskier> Imre, (d20-3) 9.
+<Nevron> d20
+<Jaskier> Nevron, (d20) 17.
+<Juszi> Imre chwycił dosyć zręcznie, pergamin został mu w rękach. Półelf stanął między wami rozjemczo.
+<Juszi> "NIE BIJCIE SIĘ!"
+<Nevron> ?
+<Imre> Nawet nie zacząłem.
+<Juszi> "NIE TUTAJ! Te tereny już dośc wycierpiały!"
+<Juszi> Buława w jego ręku zaświeciła się lekko.
+<Juszi> "NIe ma po co! MOżemy ustalić, gdzie znowu uderzy Cesarz. Ale nie tak prędko..."
+<Nevron> Odejdź kapłanie, to nie Twoja sprawa
+<Nevron> Co jest na tym Pergaminie?!
+ * Nevron uniósł kostur
+<Imre> Przepis na babeczki tutejszych elfów
+ * Imre wyszczerzył zęby w szelmowskim uśmiechu
+<Juszi> Półelf nie zszedł Ci z drogi, Nevron.
+<Juszi> "Najpierw dowiem się, kim pan jest. Czego pan tu szuka, szanowny panie magu..."
+<Nevron> Nie Twoja sprawa
+<Nevron> Zejdź z drogi
+<Nevron> Albo mów co jest na zwoju
+<Juszi> "Nie. Odejdź, jeśli nie chcesz mnieć gniewu świątyni Cierpiącego Boga na sobie..."
+ * Imre zwinął pergamin i schował do kieszeni wewnętrznej zbroi
+<Imre> Spokój tam, dzieci.
+<Imre> Panie Czerwony Magu
+ * Imre zwrócił się do Nevrona
+<Imre> Wybacz ale z racji na te i owe mało sympatyczne plotki
+<Imre> o Waszych chlubnych i mężnych dokonaniach
+<Imre> musimy się wpierw dowiedzieć co tu tak naprawdę robisz
+<Imre> Wtedy zdradzę ci nawet z jakiej mąki pieką te babeczki.
+ * Nevron rozprostował palce czarując w stronę kapłana zaklęcie telekinezy
+<Juszi> Kapłan poszybował prosto w zgliszcza jakiejś chaty, rozbijając resztki ściany z hukiem.
+ * Imre machnął niedbale lewą ręką, a dobyty szybko sejmitar stanął w ogniu
+ * Nevron podszedł do miejsca, w którym leżał kapłan
+<Nevron> Geniwu światyni, czego tu szukam...
+<Nevron> to nie Twoje sprawy
+<Nevron> Nikt się tą okolicą nie interesuje
+<Nevron> możni pobliskich miast mają to daleko w zadach na których wgodnie siedzą
+<Nevron> To dzięki mnie Ci chłopi nie głodują, handel wzrasta, a mieścina nie została w zniszczeniach po atakach trolli
+<Nevron> I to w moim interesie jest, jeżeli ktoś rozwala mi okoliczny dostawy ziela, do siedmiu piekieł
+<Nevron> a Tobie zaszczany kapłanie nic do tego kim jestem, ani co Tu robie
+<Nevron> Więc mów po dobroci o co Cię zapytam, bo skończyłą mi się cierpliwość
+<Imre> Daj mu spokój i chodź tu
+ * Imre splunął na sejmitar, a ten zgasł tak szybko jak się zapalił
+<Juszi> Kapłan spojrzał nieco błagalnie na Imre, gramoląc się niezdarnie z gruzów.
+ * Imre sięgnął za pazuchę
+ * Nevron odwrócił się do Imre i podszedł
+<Nevron> a Ty... czego Tu szukasz, kolejny szabrownik chętny na pozyskanie troche ziela, gdy nadaża się okazja
+<Nevron> Tak łątwo Ci nie pójdzie
+<Nevron> To moje ziemie i mój interes!
+<Imre> Nie Twój zasrany interes, wysyłają mnie ludzie którym na rękę, byś dalej rżnął tych ludzi na pieniądze
+<Imre> byleby była cisza i spokój
+<Imre> Wydaje mi się, że w tym jesteśmy zgodni.
+<Nevron> Jak zwykle, nagle im niewygodnie, jak cos sie dzieje
+<Nevron> Psie syny
+ * Imre wzruszył ramionami
+ * Nevron uspokoił się nieco
+<Nevron> Co jest na pergaminie
+<Imre> Ja tu tylko robię za człowieka na zlecenie
+<Imre> Nie do mnie wnioski i skargi
+<Imre> Ale właśnie, do rzeczy
+ * Imre rozwinął pergamin
+ * Imre zakreślił palcem po mapie
+<Imre> Jak wół mamy tu do czynienia z jakimś rytuałem
+<Juszi> Półelf chyba zrozumiał, że nic tu po nim. "powodzenia", mruknął cicho, prawie że smutno. "Będziecie go potrzebować."
+ * Imre zignorował kapłana
+<Juszi> Po czym pokuśtykał pomagać rannym i umierającym.
+ * Nevron przygląda się zapiskom na pergaminie
+<Juszi> Nevron: to mapa okolicznych wisek. Cztery cele układają się w cztery punkty pięciokąta.
+<Imre> Widać też kolejny cel.
+<Juszi> Breen Calla, Breen Shane, Breen Crost, Breen Cavar
+<Imre> Wskazał na dopełniającą pięciokąt wioskę
+<Juszi> te wioski zaatakowano
+<Juszi> Imre pokazał na mały punkcik z napisam "Breen Cavil"
+<Imre> Gdybyśmy wiedzieli choć mgliście, jakiego rodzaju to rytuał, byłoby to na rękę o tyle
+<Imre> że być może skurwiel zostawił w tych czterech punktach jakieś katalizatory mocy
+<Imre> Czort go wie
+<Imre> Ale szukaj wiatru w polu, magii tu tyle że nie poznasz
+ * Nevron przyglądał się pergaminowi mrużąc oczy
+<Nevron> Ale znamy kolejny cel, więc wypada spotkać się z naszym cesarzem
+<Imre> Chyba że cały ten bajzel służy mu za paliwo, nie wiem
+<Imre> No, dawno nie byłem na randce z arystokracją
+ * Imre uśmiechnął się szeroko
+<Nevron> daj ten pergamin
+<Juszi> Po tych słowach rozległ się huk pioruna i zaczął padać deszcz. Doprawdy urocza okolica.
+ * Imre zmrużył oczy
+<Imre> Na co ci?
+<Nevron> Daj i juz
+ * Imre spojrzał badawczo na pergamin
+ * Imre obejrzał raz jeszcze rysunek
+<Imre> Masz, u nas w cywilizowanym świecie używamy takiego wynalazku
+<Imre> Cienki papier
+<Imre> Fajniejsze niż pergaminem
+ * Imre rzucił pergamin Nevronowi
+ * Nevron złozył pergamin w rulon, wyciagnał przed siebie w obu dłoniach
+<Nevron> Odsuń się na chwilę
+ * Imre powoli się odsuwał
+ * Nevron zaczał intantowac zaklęcie, wypowiadał na głos słowa w języku magów Thay
+<Juszi> W powietrzu zamigotał i rozbłysł portal. Po jego drugiej stronie widać wioskę, równie biedną i brudną, ale wciąż w jednym kawałku.
+<Juszi> Breen Cavil zaprasza.
+<Imre> No to siup?
+ * Imre kiwnął głową
+ * Nevron przeszedł pierwszy
+ * Imre ruszył za Nevronem
+<Juszi> Pierwsze, co rzuca się w oczy, to beznadziejna wręcz bieda. To nie teren Srebrnych Marchii; każdy z was widział wioski - lenna Silverymoon albo Sundabar. 
+<Juszi> Rzucają się w oczy proste sprzęty, porozrzucane dookoła prostych chat, przydomowe grządki obsadzone są częściej roślinami narkotycznymi pokroju diabelskiego ziela, niż czymś jadalnym.
+ * Nevron uśmiechnął się do siebie, że przynajmniej jedno źródło dochodu pozostanie aktywne
+ * Imre rozejrzał się
+<Imre> Niezłe masz tu poletko
+<Juszi> Gdzieś rozległ się chichot jakiegoś starca, siedzącego na sklepanej z desek ławie przy studni. Można było powiedzieć o nim wiele, ale na pewno nie to, że był trzeźwy.
+<Imre> Boję się spytać, ile wyduszasz z tych ludzi
+<Juszi> Jedynym w miarę utrzymanym miejscem była kapliczka Jergala, pana obrzędów pogrzebowych, pochówków i śmierci. 
+ * Imre machnął niedbale ręką, po czym spojrzał na studnię
+<Juszi> Kult praktycznie zapomniany w całych Zapomnianych Krainach, tu pasował jak ulał.
+<Nevron> Dużo, to wystarcza
+<Juszi> Imre: nic. Woda. CHyba, bo potwornie mulista i brudna.
+<Nevron> Poza tym, niech umieraja z glody, tak?
+ * Imre wzruszył ramionami
+<Imre> Mnie to nie boli
+<Imre> ale nie udawaj że robisz to, by mieli z czego żyć
+<Imre> Gangsterka wszędzie jest taka sama
+<Juszi> Jakieś brudne dziecko podbiegło do ciebie, Imre. Wycięgnęło rękę... w życiu nie widziałeś tak wychudzonej istoty.
+<Juszi> Poza tym jest całkiem spokojnie. Kilka co bardziej zorientowanych osób na widok Nevrona pochowało się z przerażeniem w chatach.
+ * Imre zatrzymał się
+<Imre> Co jest, szczylu
+<Juszi> Trzyma wyprostowaną rękę z rozłożoną dłonią. Milczy.
+ * Imre rozejrzał się bezradnie
+<Imre> Co ja ci mam, napluć tutaj?
+<Nevron> Sprobuj, może się odczepi
+<Nevron> Pewnie chce złota, jak zwykle
+<Juszi> Imre, Nevron: dziecko złożyło palce u dłoni, zostawiło tylko wyprostowany palec wskazujący. Pokazuje coś za wami.
+ * Imre westchnął
+<Imre> No zgadnijmy co to, nie mogę się domyślić
+ * Imre powiedział głosem sarkastycznym aż do przesady
+ * Nevron wyczarował na prędce wściekłego wilka i rozkazał mentalnie pobiec za dzieciakiem
+ * Imre obejrzał się
+ * Nevron szedł dalej, odważnym krokiem w stronę centrum wioski
+<Juszi> Nevron: wilk pognał za przerażonym dzieckiem. zniknęli za jedną z chat, dalej chyba lepiej nie znać detali.
+<Juszi> Imre: westchnąłeś tylko cicho, widząc przebłyski światła zachodzącego slońca, odbijające się od złoconej zbroi płytowej.
+ * Imre pacnął Nevrona w ramię
+<Imre> Panie gospodarz, gości idą
+<Juszi> Cesarz szedł spokojnym krokiem w stronę wioski, prowadząc za sobą czwórkę swoich dzieci - niewolników. 
+<Nevron> Jeszcze raz mnie dotkniesz, w Twoja głowa wyląduje daleko od Twojego ciała
+ * Nevron syknał na Imre
+<Imre> Następnym razem użyję kijka, zgoda?
+ * Imre żachnął się
+ * Nevron odpowiedział
+<Nevron> nie*
+<Juszi> Stanął na skraju wioski, wypuszczając z dłoni łańcuchy i opuszczając dłoń z tarczą; mierzył was wzrokiem.
+<Juszi> Rzeczywiście był wysoki, musiał mieć ze dwa metry. JEgo oczy... to było ciężkie do opisania. Wyrażały całe spektrum emocji w bardzo krótkim czasie.
+<Juszi> Wolną ręką dudnił o tarczę prosty rytm. Stuk, stuk, stuk, stuk, stuk.
+<Juszi> Pięć powtórzeń, cisza. Pięć powtórzeń, cisza.
+ * Nevron oparł się o kostur
+<Juszi> Uśmiechał się, po czym jego twarz wykrzywiał grymas obrzydzenia. Po chwili w ogóle nie wyrażał żadnych emocji.
+<Juszi> Nagle uśmiechnął się jowialnie.
+ * Imre stanął i bezgłośnie machał palcami lewej ręki
+<Nevron> Skończyłeś już ten występ?
+<Juszi> "Co wiecie o elfich kapliczkach, porozrzucanych po okolicznych lasach, zacni panowie?"
+<Imre> Są.
+<Nevron> Nie Twoja sprawa, czy to Ty się tytuujesz cesarzem po okolicy?
+<Juszi> Nieznajomy uśmiechał się szeroko... przestał się uśmiechać. Z oczu pociekły mu łzy.
+<Juszi> "Błagam! Muszę wiedzie Elfie kapliczki! Elfie kulty!"
+<Juszi> Prawie upadł na kolana przed wami.
+<Juszi> "Magiczna ochrona, spokój! CIsza! Cisza!"
+<Imre> Nevron, tylko spokojnie, na bogów
+<Juszi> Zalał się łzami.
+ * Imre szepnął
+<Nevron> On jest szalony
+<Imre> Wiem
+<Nevron> A ja jestem spokojny
+<Imre> Rzuć wykrycie charakteru
+<Imre> Dobry pokaz.
+<Nevron> Nie interesuje mnie jego charakter, interesują mnie odpowiedzi, których nie chce udzielić
+<Imre> Tu trzeba spokojnie przeanalizować sytuację
+<Nevron> Ty tam, w zbroi
+<Imre> Jak zacznie rzucać masowe czary zniszczeń
+<Nevron> Mów, jak Cie pytam
+<Imre> Całość pójdzie się kochać
+<Imre> I na bogów nie pytaj o te bachory
+ * Imre mówił cicho
+<Juszi> Nieznajomy wyprostował się, jakby rażony piorunem. Twarz wykrzywił mu nienawistny grymas.
+ * Nevron założył ręcę na piersi
+<Juszi> "Odpowiadaj, gdy pytania zadaje ci cesarz świata, nędzny pyle!"
+<Imre> Całego?
+<Imre> A co z planami?
+ * Imre zaciekawił się
+<Nevron> No dobrze, teraz przynajmniej mam pewność
+<Juszi> Dookoła was zgromadził się tłumek wieśniaków, w większości przypadków zbyt naćpanych, by zdać sobie sprawę z niebezpieczeństwa.
+ * Imre rzucił gestem iluzję, by przerazić wieśniaków i zmusić do ucieczki
+ * Nevron podniósł nagle dłoń, która rozbłysła na kolor lawy i uderzył nią mocno o ziemię, na której pojawił się symbol pentagramy dookoła dłoni
+ * Nevron spojrzał na cesarza i wyszeptał zaklęcie przywołania balrona
+<Juszi> Zerwał się wiatr, wzbijający chmury pyłu.
+ * Imre stał w skupieni, lewą rękę trzymał rozprostowaną, prawą na rękojeści miecza
+<Imre> O, cesarzu
+<Imre> Nie wiemy nic o kaplicach
+<Juszi> Nevron odsunął się nie co, gdy pośrodku błyszczącego, czerwonego pentagramu pojawił się diabeł. Wielkie skrzydła załopotały, wzbijając jeszcze większe tumany kurzu.
+ * Imre spojrzał na diabła
+<Imre> Fajny, ma imię?
+<Juszi> DOokoła Imre zaczęła działać mocna magia ochronna. Powietrze lekko falowało, załamywało światło, samo też się świeciło.
+ * Imre przekrzykiwał wiatr
+<Juszi> Balcerferus ))
+<Juszi> Cesarz też nie zasypywał gruszek w popiele. Gdy zaczął mówić, brzmiało to, jakby zaklęcia wygłaszał chór oszalałych z bólu osób.
+ * Nevron przełamał glif zawieszony na rzemyku na szyji uwalniając przygotowane wcześniej zaklęcia ochronne: kamienną skórę, większy klosz occhrony przed magią i odbicie zaklęcia
+<Juszi> Powoli unosil ręce ku górze; gdy jego inkantacja osiągnęła crescendo, wypowiedział jeszcze jedno słowo. Słowo w czarnej mowie, słowo tak plugawe i nikczemne, że aż poczuliście fizyczny ból.
+ * Nevron rozkazał demonowi atakować wojownika
+<Juszi> Gdy unosił ręce, w wiosce wzbiła się zielona mgła, szybko unosząc się. On sam w niej zniknął.
+ * Imre dobył prawą ręką miecza, splunął na niego, a ten zmroził się
+<Juszi> Mgła załamywała się na waszych zaklęciach obronnych, demon pognał gdzieś w nią.
+ * Imre stał w pozycji do walki, z mieczem wysoko
+<Juszi> Słyszycie krzyki, wycia, charczenie, warkot, piski, wrzaski przerażenia i bólu.
+ * Imre rozglądał się, szukał magii, czegokolwiek
+<Imre> skoncentrowanej w postaci cesarza ))
+<Juszi> Imre: wyczuwasz balrona, wyczuwasz też jakieś manifestacje magii dookola. Nie wyczuwasz cesarza.
+ * Imre skupił się na manifestacjach magii
+<Imre> co to ? ))
+ * Nevron trzymał mocno kostur prawą dłonią, obserwował okolice, w lewej dłoni płoneła mu ogniste kula, potęgowana, z każdą chwilą, rozbłyskiwała co jakiś czas
+ * Imre nabrał powietrza i dmuchnął potężnie, próbując z pomocą magii rozproszyć chmurę
+<Juszi> Imre: pojedyncze istoty, jest ich dużo. Może ze 30? 40? Tyle, ilu było mieszkanców wioski, zdajesz sobie nagle sprawę.
+<Imre> Wioska już zarażona
+<Imre> Mieszkańcy świecą się magicznie jak latarnie
+<Juszi> Tak nagle, jak się pojawiła, mgła zniknęła. Po prostu rozpłynęła się w powietrzu.
+<Imre> A tej suki jak nie było widać tak nie ma
+ * Nevron rozejrzał się dookoła, zaniepokojony mrużył oczy
+<Juszi> Mieszkańcy wioski właśnie zbliżają się do was. Powykręcane istoty, wzbudzające odrazę, przerażenie, może litość. Karykaturalne, długie kończyny, owrzodziałe ciała, agonalne krzyki z nienawiści.
+<Imre> To nie koniec
+ * Imre westchnął
+<Nevron> czuje mojego Balerona? Czy już go nie ma? ))
+<Juszi> Część trzyma prostą broń, część narzędzia rolnicze. Widły, jakieś kije, motyki. Idące na przodzie dziecko - wydaje się dziwnie znajome- wyciągnęło dłoń i pokazało na was. Zaskrzeczało.
+<Juszi> Nevron: nie jesteś w stanie go zlokalizować. Wyczuwasz go gdzieś w oddali, w lesie? Za wioską? ALe nie wiesz, co się dzieje.
+<Imre> Wiedziałem, że trzeba było jej dać coś
+ * Imre mruknął
+<Imre> Karma.
+<Nevron> Niech to demony pochłoną, jak ja mam w takich warunkach zarabiać monety?!
+<Imre> To był jakiś portal chyba
+ * Nevron zakął i cisnął kulę ognia w tłum nadchodzących istot, które kiedyś były ludźmi
+<Imre> Wcięło balrona razem z naszym cesarzem
+ * Imre ruszył spokojnym krokiem do pierwszego z brzegu wieśniaka, bez słowa atakując mieczem
+<Juszi> NEvron: przez chwilę śledziłeś ognistą kulę wzrokiem, gdy zniknęła w tłumie. Rozbłysk pochłonął może z tuzin abominacji.
+<Juszi> Reszta zapołonęła, ale zupełnie się tym nie przejmowała. Chaty też zajęły się ogniem.
+<Juszi> Imre: telekinetycznie odbiłeś się od gruntu i w skoku odciąłeś jednej z istot głowę. Spokojnie spadłłeś i przykucnąłeś obok czegoś, co kiedyś było grupką kobiet.
+<Juszi> Nevron: Kilka istot przyspieszyło i ruszyło w twoją stronę, chcąc dźgnąć cię widłami, albo chociaż rozpłatać ci gardło pazurami.
+ * Imre siadł nisko przy ziemi, ciął wokół siebie sejmitarem po nogach tłumu, po czym odepchnął się magicznie za plecy abominacji
+<Juszi> Imre: chlusnęła posoka wymieszana z ropą, istotry poupadały dookoła ciebie. Patrzą się na ciebie tępym wzrokiem.
+
+ * Nevron złapał kostur oburącz, skierował go poziomo w stronę nadbięgających istot by po chwili skupienia posłać w tamtą stronę wachlarz lodu
+<Juszi> Magia wyrzuciła cię tam, gdzie planowałeś. Istoty są zbyt powolne, by za tobą nadążyć.
+<Juszi> Powietrze zafalowało, gdy zmaterializowała się warstwa magicznego zimna. Rozlała się wzdłuż atakujących; istoty upadły z głuchym hukiem na zmrożony grunt. 
+<Juszi> Nevron: odzyskałeś kontakt z demonem. Jest gdzieś za wioską, widzisz, jak na boki latają szczątki wynaturzeń, odrzucanych ciosami bestii.
+ * Imre splunął na sejmitar, a ten rozbłysł się w wyładowaniach elektrycznych
+ * Imre rzucił go w najbliższą abominację, po czym rozejrzał się ile jeszcze wrogów
+<Juszi> Broda by Ci się uniosła od napięcia, gdyby nie była dobrze spięta w warkocz.
+ * Nevron wezwał demona do siebie
+<Juszi> Lecący sejmitar niczym błyskawica przeszył kilka z istot. Upadły na glebę, dookoła was jest już prawie czysto. Sejmitar wrócił do twojej dłoni.
+<Juszi> Nevron: coś jest nie tak. Demon owszem, skierował się w waszą stronę, tratując kilka z ocalałych z pogromu potworów... Ale raczej na pewno nie będzie odpowiadał na twoje żądania.
+<Juszi> Widzicie szkielet demona z wiszącymi z niego zgniłymi kawałkami mięsa i z oczodołami płonącymi żywym ogniem. Kieruje się na was, aż się ziemia trzęsie od jego kroków.
+<Juszi> Obydwaj, k20, im wyżej, tym lepiej.
+<Imre> d20
+<Jaskier> Imre, (d20) 14.
+<Juszi> Kościane łapy uniosły się i z gruntu strzeliły pióropusze płomieni, palące wszystko na drodze istoty. Sojusznicy czy wrogowie, żywi czy martwi, domostwa, sprzęty, trawa...
+<Nevron> d20
+<Jaskier> Nevron, (d20) 4.
+<Juszi> Imre, ogień załamał się na twoich magicznych barierach. Nawet nie czujesz ciepła. Ba, byłyś w stanie wyczarować lepszy, urodziłeś się w końcu z takim talentem magicznym...
+ * Imre tupnął mocno, a stopę przeciągnął poziomo w bok; wokół niego rozeszła się fala zimna
+<Juszi> Nevron nie miał tyle szczęścia. Może pozwolił sobie na chwilę nieuwagi, może w tym miejscu splot magii osłabł - jego osłony złamały się. Co prawda Runy na szacie zabłysły, gdy działała antymagia, ale ogień poważnie nadpalił Ci ubranie, zajęły Ci sie też na chwilę włosy.
+<Juszi> Imre: podmuch mrozu zmiótł płomienie dookoła was. nieumarły demon zbliża się, wymachując wściekle łapami i ogonem.
+ * Imre nabrał powietrza w płuca i wrzasnął, magicznie wzmacniając fale dźwiękowe i kierując je w stronę demona
+<Juszi> k20 - 3, Imre
+<Imre> d20-3
+<Jaskier> Imre, (d20-3) 13.
+ * Nevron nabrał powietrza, otoczył się magiczną ognista aurą ochronną o mocniej złapał za kostur
+<Juszi> Nevron, k20.
+<Nevron> d20
+<Jaskier> Nevron, (d20) 13.
+<Juszi> Imre: podmuch powietrza i fala dźwiękowa zmiotły pozostałości przemienionych wieśniaków, odrzuciły też demona. Nie zrobiło to jednak zbyt wielkiego wrażenia.
+<Juszi> Zamachnął się ogonem na Nevrona, ale jego ognista tarcza zatrzymała cios. Napastnik sam stanął na chwilę w płomieniach.
+ * Imre na powrót zmroził sejmitar; gdy rzucił się do ataku na głowę potwora i skoczył, lewą ręką wspomógł chwyt, a skok wzmocnił magicznie
+<Juszi> k20+3
+<Imre> d20+3
+<Jaskier> Imre, (d20+3) 7.
+<Nevron> Zeby mój własny demon z piekieł zwrócił się przeciwko swemu Panu
+<Nevron> to jest niepojęte! Jestem Zulkir, jeden z dziewięciu włądców THAY i nie pozwolę!
+<Nevron> ukryj się! Imre, ukryj
+ * Imre w locie usłyszał krzyk Nevrona, lecz było już za późno na unik
+ * Nevron zaczał inkantować głośno zklęcie burzy, burzy ognia, zimna i piorunów, a oczy zaszły mu czarną mgłą
+<Juszi> Imre: zmrożenie broni i wyskok poszły według planu. Nie zdołałeś jednak go nawet drasnąć, bowiem bestia zamachnęła się kościstym skrzydłem. Huknąłeś w glebę obok Nevrona... widzisz i wyczuwasz, jak dookoła niego zbiera się energia.
+ * Imre pozbierał się i skupił się na rzucaniu barier ochronnych przed żywiołami
+<Juszi> Nevron: k20+9. 
+<Nevron> d20+9
+<Jaskier> Nevron, (d20+9) 25.
+<Juszi> Szaty Nevrona zafalowały i zapłonęły kolorowym światłem, gdy uniósł kostur nad głowę, wykrzykując słowa mocy.
+<Juszi> Kryształ na kosturze rozbłysnął oślepiającym światłem; nad wami zebrały się gęste, atrramentowociemne chmury.
+ * Imre by zwiększyć tempo zaczął czarować z gestami, śpiewał inkantacje jedna za drugą, gdy dodawał kolejne bariery
+<Juszi> Demon aż się zatrzymał, podziwiając spektakl mocy. Błąd.
+<Juszi> Wpierw z niebios spadly strumienie ognia, paląc resztki wioski, las dookoła, samego demona.
+<Juszi> Zaraz po nich poleciało gradobicie, jakiego te okolice nigdy nie widziały. Demon zaczął zwalniać, jego ruchy stały się mało płynne, zamarzał, kości pękały pod naporem lodowych kul.
+<Juszi> Imre pracował jak najęty, czując słabość swoich tymczasowych osłon.
+<Juszi> Na koniec uderzyła błyskawica. Tylko jedna, prawda, ale jaka... rozbłysk tak jasny, że oślepił was obu na chwilę. Demon stanął w magicznym, różnokolorowym płomieniu.
+<Juszi> Gdy odzyskaliście wzrok, została po nim tylko kupka popiołu. Imre patrzy lekko otumaniony na krople deszczu, spływające po ścianach jego magicznej bariery.
+<Imre> Dobra, muszę przyznać
+ * Nevron stał w środku jedynego zielonega kawałka lasu w okolicy, wyrównywał oddech, kruształ na kosturze powoli ostygał dymiąc
+ * Imre sapnął, zmęczony
+<Imre> Imponujące.
+<Nevron> Pozniej bedziesz podziwiał
+<Nevron> Ktoś nam uciekł
+<Imre> Słuchaj, Nevron
+<Nevron> a ja straciłem kolejne źródło brzęczących monet
+<Imre> Mam pomysł
+<Imre> Ale muszę nad tym chwilę posiedzieć
+<Nevron> Co nie sprawie że jestem bardziej zadowolony
+<Juszi> "9 piekieł pochłonęło kolejne ofiary..."
+ * Nevron nie uśmiechał się wcale, w zasadzie nie złości ani nie smucił także
+<Imre> Znajdźmy miejsce gdzie mogę w spokoju pomyśleć
+<Juszi> Znacie ten głos, który rozległ się gdzies w oddali.
+ * Nevron zarzucił kaptur na głowę
+<Imre> Masz tu jakąś melinę? Punkt przerzutowy?
+<Juszi> Sig Hellstrom, kapłan Ilmatera. Stoi z ponurą miną pośród wypalonych kikutów drzew.
+<Nevron> Pytanie, gdzie skirował się teraz
+<Imre> O tym właśnie mówię
+ * Imre odwrócił się w stronę kapłana
+<Imre> A ten tu czego
+<Nevron> Kapliczki, pamiętasz?
+<Imre> Tak, ale chodzi mi o rytuał
+<Imre> Coś mi nie pasuje
+ * Nevron skierował wzrok w stronę kapłana
+<Imre> Masz gdzieś ten pergamin?
+<Imre> Z rysunkiem, pentagramem, czymtam.
+<Nevron> To tylko mapa, na razie nieprzydatna
+<Nevron> Przyprowadz tu tego kaplana
+<Imre> Daj ją, zaraz ci oddam
+<Juszi> "Przy całej mojej niechęci do tego, co tu się dzieje..."
+<Imre> Daj mu spokój, biedak dość się naoglądał
+<Imre> Dla niego to jak przyspieszone szkolenie w armii
+<Juszi> "Muszę oddać Ilumaterowi to, co należy do niego, a wam To, co Wam należne. Jesteście skuteczni."
+<Juszi> "Nie pochwalam... ale zapewne ktoś to musiał zrobić."
+ * Imre splunął
+ * Nevron złapał kapłana za szyję, a kryształ na jego kosturze rozbłysnał czerwonym blaskiem
+<Imre> Weź mnie nie wpieniaj, klecho
+<Nevron> Zamknij się i słuchaj
+<Nevron> Elfie kapliczki, co o tym wiesz
+<Juszi> "Spokojnie. Nie przybylem się bić. Mam dla was informacje."
+<Juszi> "Możesz mnie puścić."
+ * Nevron puścił lekko popychając
+<Juszi> Półelf był spokojny, ponury, prawie że apatyczny.
+<Juszi> "Pierwsze - najważniejsze - zwiadowcy zaobserwowali wielki ruch istot ku górom Nether. Grupy goblinów, gnolli, łupieżczych orków, wszystkie kierują się w jedną stronę, jak w transie."
+<Nevron> Kapliczki kapłanie, nie wystawiaj mnie ponownie na próbę
+ * Nevron wysyczał przez zacisnięte zęby
+ * Imre jednym uchem słuchał, gdy zrezygnowany siadł, wyjął pergamin, nasmarował szkic mapy, po czym zamyślony zapatrzył się na nią
+<Juszi> ""Cesarz szuka eterycznej kuźni."
+<Nevron> Czego?
+<Juszi> Kapłan łyknął czegoś z bukłaka i kontynuował.
+<Nevron> i skad Ty mozesz wiedziec, czego szuka?
+<Juszi> "To stara opowieść... Tysiąclecia temu te ziemie zamieszkiwały złote elfy i ich skrzydlaci kuzyni, Avariel."
+<Juszi> "Eteryczna kuźnia była szczytowym osiągnięciem elfiej rasy... miejsce, w którym przekuwali oni myśl, siłę umysłu, na oręż i pancerze niespotykanej jakości."
+ * Nevron przysiadł na przypalonym, jeszcze lekko dymiacym z jednej strony pniaku
+<Juszi> "Elfy zniknęły z tych terenów... ale kuźnia i efekty jej pracy pozostały w tym rejonie."
+<Juszi> "Jest jednak jeden problem."
+ * Nevron spojrzał spod kaptura na kapłana
+<Nevron> Powiesz w końcu jaki, czy mam Cie do tego zachęcić?
+<Juszi> "Eteryczną kuźnię odnaleziono sto pięćdziesiąt lat temu."
+ * Imre siedział i tylko grymasy zdradzały, że w środku aż kipi od domysłów
+<Imre> Nevron, jak skończysz z długouchym, znalazłem coś
+<Imre> Nie wiem na ile to się przyda
+<Nevron> Kapłanie, grasz mi na nerwach
+<Juszi> "Detale nie są ważne, dokonało tego pewne stowarzyszenie psioników z południa."
+<Nevron> i mej cierpliwości, która jest dość pojemna
+<Nevron> ale Ty zbliżasz się do kresu jej objętości
+<Nevron> Łupieżcy, tutaj?
+<Juszi> Kaplan wzruszył ramionami.
+<Juszi> "Każda rasa może mieć wśród swoich przedstawicieli mistrzów umysłu."
+<Juszi> "Nie, dokonali tego ludzie... głównie. ale cesarz o tym nie wie."
+<Imre> Ma rację, pracowałem kiedyś z takim
+<Imre> Strasznie nieprzyjemne to
+ * Imre aż się wzdrygnął
+<Nevron> O tych Ci chodzi
+<Nevron> Oni sa nieprzyjemnie tylko dla tych, ktorzy nie sa wycwiczeniu i nie wiedza jak kontrolowac i zabezpieczyc swoj umysl i mysli przed nimi
+<Imre> Cóż, wybacz mi że zajmowałem się walką o życie, gdy ty ślęczałeś nad czytanką
+ * Imre skrzywił się
+<Imre> Dobra, skończmy bo możemy się tak długo
+<Juszi> "Widzieliście, co był w stanie zrobić z demonem... pomyślcie, co się stanie, gdy ktoś taki, ktoś tak niestabilny, tak szalony, dowie się o niepowodzeniu swoich planów?"
+<Nevron> w magicznych uniwersytetach Thay to podstawowa nauk magii
+<Imre> No, tu się zgodzę
+<Imre> Nigdy was nie lubiłem
+ * Imre uśmiechnął się lekko
+<Juszi> "Ale ja wierzę, że pan Imre ma jakieś własne wnioski."
+<Juszi> Półelf znowu łyknął z bukłaka.
+ * Imre był już trochę zaaferowany swoim odkryciem
+<Imre> Dobra.
+<Imre> Patrzcie, tu jest ta mapka - mniej więcej
+ * Imre rozłożył swoje dzieło na ziemi
+<Imre> Myśleliśmy że to jakiś rytuał, prawda?
+<Imre> Że tu chodzi o coś więcej
+<Nevron> Ty myslałeś
+<Imre> A co jeśli tak nie jest?
+<Imre> Pamiętasz początek naszego spotkania z cesarzem?
+<Imre> Ile razy stuknął w tarczę?
+<Imre> Pięć.
+<Imre> Cesarz i czwórka dzieci - pięć.
+<Juszi> Przestało padać. Popiół i zgliszcza zamieniły się w błoto, zrobiło się chłodniej. Wielki księżyc na niebie daje sporo światła, rozbłysł też kryształ na kosturze Nevrona.
+<Imre> Jakie figury oddają pięć?
+<Imre> pięciokąt foremny i pentagram
+<Imre> Ten gość, przy całym swoim wariatkowie
+<Nevron> Nie interesuje mnie, piesc, szesc, czy siedem
+<Imre> ma pieprzoną obsesję maniakalną
+<Nevron> Interesuje mnie cesarz
+<Imre> I teraz pomyśl
+<Nevron> a raczej jego śmierc
+<Imre> Czy cokolwiek związanego z magią
+<Imre> Potężną magią
+<Imre> Ma silny związek z tą liczbą?
+<Imre> Ja nie babrałem się w książkach, ciężko mi coś powiedzieć
+<Imre> Może klecha coś kojarzy
+ * Imre zwrócił się do elfa
+<Juszi> Półelf słucha Cię zafascynowany, mruży oczy, przykłada dłoń do brody.
+<Imre> Cokolwiek w sumie
+<Imre> Nie rytuał nawet
+<Nevron> Zapytam wprost kapłanie
+<Imre> ale może jakieś wydarzenia tu mające miejsce?
+<Nevron> Powiedz gdzie udał się ten szaleniec
+<Imre> Jakieś przepowiednie?
+<Nevron> a idź sobie precz
+<Nevron> i*
+
+<Juszi> "Hmmm, pentagramy i pięciokąty to popularna symbolika... Ale to ma sens."
+<Juszi> "To symbol kilkunastu bóstw, wielu pomniejszych i kilku książąt diabłów..."
+
+ Vukowski is now known as Imre
+<Juszi> "Zignorowaliście coś, co powiedziałem na początku. Że istoty z okolicy gromadzą się w pewnym punkcie."
+ mode/#tawerna [+v Imre] by Juszi
+ * Imre kiwnął głową
+<Imre> Tam będzie i dowódca tej zgrai
+<Imre> Czyli miłościwie nam zabijający
+
+<Juszi> "Wśród bóśtw, najbardziej wybija się pięciokąt będący symbolem Boccoba, pana neutralnej magii."
+<Juszi> Półelf wyciągnął kolejny pergamin, tym razem bogato zdobiony, bardzo dokładną, wojskową mapę.
+ * Imre spojrzał badawczo na półelfa
+<Imre> Ciekawe kim ty właściwie, klecho, jesteś, tak nawiasem mówiąc
+<Juszi> "Tu" - pokazał palcem na punkt w górach - "rano znajdowała się opuszczona światynia Boccoba. Obecnie już jej nie ma, szczyt góry jest pusty."
+<Juszi> "Ale tam też gromadzą się wspomniane istoty..."
+<Juszi> Półelf spojrzał na Ciebie równie obojętnym wzrokiem.
+<Juszi> "Sig Hellstrom, kapłan bitewny świątynii Ilmatera z Silverymoon."
+<Imre> No, to już słyszałem
+<Imre> Nieważne
+ * Nevron wstał i wbił kostur dokładnie w ten punkt w lezący na ziemi pergamin
+<Nevron> Wiec szkoda czasu
+ * Nevron powtorzył zaklęcie przywołując kolejną bramę
+<Imre> Jeszcze sekundę.
+<Juszi> Półelf splótł ręce na piersi, przyglądał wam się badawczo.
+<Imre> Elfie, powiedz mi jeszcze jedno
+<Imre> Ten cały Boccob
+<Imre> Co z niego za ziółko?
+<Imre> Krótko, nie wypada się spóźnić na audiencję
+<Juszi> "LOrd Wszechmagii, Niedbający, Arcymag Bóstw. TO bóstwo z panteonu innego planu, niegdyś rozpowszechnione w Torilu."
+<Juszi> Międzywymiarowa brama znowu rozbłysła: za nią widzicie gromady orków, goblinów, orklinów, kilka gigantów...
+<Imre> Co on ma wspólnego z kuźnią?
+<Imre> Z cesarzem?
+<Juszi> "Nic. Podejrzewam, że Cesarz postanowił wybrać tę lokację... ze względu na symbolikę."
+<Imre> Jasne.
+<Juszi> http://images.wikia.com/sfery/images/4/4e/Boccob2.gif ))
+<Imre> Dobra, Nevron
+<Imre> Jakiś plan?
+<Nevron> Lorde, nie lord, jak zwykle
+<Imre> Szkoda by było tracić czas na te sługusy?
+ * Nevron pierwszy raz śie zaśmiał złośliwie
+ * Nevron przeszedł przez portal
+<Imre> Ale przecież jesteś Thay, zrobisz jak chcesz
+ * Imre westchnął, lekko załamany
+<Juszi> "No cóż, już raz to rzekłem, powiem jeszcze raz: powodzenia."
+ * Imre odwrócił się do elfa
+<Imre> Zamów tam za mnie z jedną modlitwę, a nuż się przyda
+ * Imre żachnął się i skoczył w portal
+<Juszi> Półelf powiedział coś jeszcze, ale już tego nie słyszałeś.
+<Juszi> ***
+<Juszi> Pierwsze, co ujrzał Imre po przejściu przez portal, to plecy Nevrona.
+<Juszi> Czarodziej cofnął się pod samą bramę.
+<Juszi> Staliście ciasno otoczeni przez hordę goblinoidów, gnolli, gigantów... żaden jednak nie zwracał na was uwagi.
+<Juszi> Cała ta zgraja, zgromadzona na wyrównanym szczycie góry, wpatrywała się w kamienną bramę, samotną konstrukcję stojącą pośrodku.
+<Juszi> Na łuku bramy znajdował się pięciokąt Boccoba... w który ktoś wpisał pentagram.
+<Juszi> Brama zamigotała. Wstrzymaliście oddech mimo woli, gdy wyszedł z niej szalony władca, straszny cesarz, przemawiający do poddanych magicznie wzmocnionym głosem.
+<Juszi> ***
+
+ * Imre podrapał się po siwej brodzie
+<Imre> Plan?
+<Juszi> "Lojalni poddani!"
+<Juszi> Barwa głosu zmieniła się kilkakrotnie podczas wypowiadania tylko tych dwóch słów. Z cesarzem musiało być coraz gortzej, szaleństwo pochłaniało go od środka.
+<Juszi> "To czas, czas zemsty, ale i czas... czas radości, czas śpiewu, czas tańca!" Cesarz zaśmiał się radośnie. Po chwili jednak spoważniał.
+<Juszi> "Potęga Piekielnej Bramy zostanie odbudowana...odbijemy ruiny twierdzy!"
+<Juszi> "I wyruszymy, tak, wyruszymy! Na Sundabar! Na Fellbar! Na Silverymoon! Na Everlund! Na Nesme! Na..." tu, nie do wiary, władca policzyłna palcach. "Na nic więcej."
+<Juszi> zachichotał.
+<Juszi> "Ale, witam też szanownych gości."
+<Juszi> Tłum rozstąpil się, tworząc przejście prosto do bramy.
+<Juszi> "NIe wstydźcie się, zapraszam, zapraszam!" wykrzyknął ostatni raz i zniknął w portalu.
+ * Imre westchnął
+<Juszi> Było coś szalenie nieprzyjemnego w tysiącach orczych oczu wpatrujących się w was.
+<Imre> I jak ja mam zdać raport przełożonym, oni mi kurna nie uwierzą
+ * Imre wzdrygnął się
+<Nevron> Rob co chcesz
+<Nevron> ale ja tego tak nie zostawie
+<Nevron> nie wchodzi sie w parade Nevronowi!
+<Imre> I znowu rzucisz burzę stulecia?
+ * Nevron wskoczył w bramę za cesarzem
+<Imre> A, w ten sposób
+ * Imre wzruszył ramionami i rzucił się za Nevronem
+<Juszi> Miejsce, w którym znaleźliście się, wypełnia lekka mgiełka, wszystko jest jakby rozmyte.
+<Juszi> Stoicie pośrodku pięciokątnęj budowli. Prowadzi z niej pięc par drzwi w pięć stron. 
+<Juszi> Miejsce wygląda jak spaczony fragment planu eterycznego...
+<Imre> Poważnie, z takim szaleńcem to ja jeszcze nie walczyłem
+<Juszi> Jest coś jeszcze.
+<Juszi> Imre zauważył idealnie czarny pięciokąt na suficie, wyglądał, jakby pochłaniał całe światło, jakie na niego padało.
+ * Nevron inkantował zaklęcia, słowem i gestem: kamienna, skóra, klosz odpornosci na magie, odbicie czaru, ognista tarcza i lustrzana kopia
+<Juszi> Wreszcie, w jednym z rogów stał mały stolik.
+<Juszi> Leżało na nim pięć różdżek i kawałek pergaminu.
+ * Nevron po czym cicho wyszeptał słowa ostaniego zaklęcia i rzucił na siebie iluzję własnej osoby ukrywając tym samym czary ochronne pod magiczną wizją
+
+
+ * Imre podszedł do stolika i spojrzał na różdżki i pergamin
+ * Nevron ja bym nie dotykał
+<Nevron> Ja bym nie dotykał
+<Juszi> "Biel otworzy Ci drogę... Wszystko inne przyniesie ci zgubę."
+ * Imre rozejrzał się za białym oznaczeniem na drzwiach
+<Juszi> Na żadnych z drzwi nie ma oznaczeń.
+ * Imre wziął do ręki różdżkę
+<Nevron> Nie dotykaj!
+<Nevron> Wszystkiego dotykasz zawsze, co bys nie spotkal?
+<Juszi> Prosta, drewniana różdżka, rozszerzająca się ku przodowi, gdzie ktoś zamocował prosty kryształ, chyba kwarc.
+<Imre> To świr
+<Imre> Myślisz że zostawiłby to i założył pułapki?
+<Imre> Daj spokój, tak byś zrobił ty lub ja
+<Imre> On rozmawia z pieprzonymi gnollami
+<Juszi> Wszystkie pozostałe są takie same.
+ * Imre machnął różdżką w jedno z drzwi
+<Juszi> Imre, poczułeś lekki przeplyw mocy... różdżka zaświeciła z kryształu strumieniem niebieskiego światła. Nic więcej.
+ * Imre machnął w inne drzwi
+<Imre> He, proste
+<Juszi> To jakby bardziej praktyczna i przenośna wersja kostura Nevrona.
+<Juszi> Imre: dalej niebieskie światło, niezależnie, gdzie poświecisz.
+ * Nevron stał podparty kosturem i sie tylki przygladal
+ * Imre złapał za pozostałe różdżki i machał po kolei każdą aż znajdzie właściwą
+<Juszi> Imre: czerwone światło, zielone światło; przy czwartej poczułeś ciepło, wyczuwasz, że to czarne światło, widoczne w infrawizji.
+<Juszi> Piąta plunęła ogniem. Dla odmiany.
+ * Imre wziął tą od czarnego i machnął w stronę pentagramu na suficie
+<Juszi> pięciokątu ))
+<Imre> no co tam))
+<Juszi> Pomieszczenie lekko się zatrzęsło: na chwilę otworzyły się jedne z drzwi.
+<Imre> A białego ani widu
+<Imre> Nosz psia mać
+<Juszi> ...uwalniając schowanego tam Glabezu.
+<Juszi> Glabrezu*
+<Imre> Ups.
+<Imre> Ee, Nevron?
+<Juszi> Demon wpadł do środka, wymachując parą olbrzymich szczypiec.
+<Juszi> Ryknął i zamachnął się na Nevrona: jego magiczne osłony zamortyzowały cios bez szkody.
+ * Nevron kiwa głową
+<Nevron> No to teraz sobie radź mądralo
+ * Imre splunął na ostrze, to zaczęło błyszczeć od wyładowań; złapał miecz za koniec rękojeści, po czym rzucił; z końca rękojeści wysunął się sznur, po którym Imre puścił potężny ładunek elektryczny
+<Juszi> k20 + 3
+<Imre> d20+3
+<Jaskier> Imre, (d20+3) 22.
+ * Nevron na koniec ciosu Imre, wyczarował kulisty piorun, który skierował prosto na demona
+<Juszi> Ostrze wbiło się demonowi w szyje, potężne wyładowanie zwęgliło mu futro. Demon upadł na kolana, rycząc z bólu i odsłaniając się. OStrze - jak zwykle - wróciło do Twoich rąk.
+<Juszi> Obaj k20 + 5
+<Nevron> d20+5
+<Jaskier> Nevron, (d20+5) 23.
+<Imre> d20+5
+<Jaskier> Imre, (d20+5) 21.
+<Juszi> Imre nie czekał, wybił się mocno i jednym solidnym cięciem odciął bestii łeb. Korpus, trafiony potężnym wyłądowaniem kulistym, buchnął płomieniami.
+<Juszi> Pomieszczenie wypełnił smród palonego mięsa i siarki.
+<Nevron> Dobra, a teraz odsun sie człowieku słabego umysłu
+<Imre> Zawsze wolałem określenie "praktyk"
+ * Nevron wziął trzy rozdzki, ta ktora swiecila, na czerwono, na na niebieski i ta co na zielono
+ * Nevron złozył je razem i uniosł
+<Juszi> Trzy snopy razem dały strumień białego światła. Ku waszemu zdziwieniu, rozsunął się srodek pomieszczenia, odsłaniając schody prowadzące gdzieś do głębi budowli.
+ * Imre wskazał ręką
+<Imre> Za tobą, panie oczytany
+ * Nevron ruszył schodami w dół, rozświetlając obszar dookoła kryształem na kosutrze, który nagle rozbłysnał jasną poświatą
+ * Imre ruszył za nim
+<Juszi> Zejście tymi krętymi schodami mieliście zapamiętać do końca swoich dni.
+<Juszi> Po drodze atakowały was demony przeszłości, bóle, rozczarowania, negatywne emocje, śmierci bliskich, złamane serca.
+<Juszi> Każdy krok był kolejną igłą bólu, kolejnym rozczarowaniem, kolejnym cierpieniem.
+<Juszi> Dla Nevrona było to wygnanie z Thay, niesprawiedliwe czy nie, dotkliwe.
+<Juszi> Imre zacisnął tylko mocniej szczęki, gdy przed oczami przelatywały mu niektóre z jego zleceń. Krzyki zabijanych, niehonorowe pojedynki, szpiegostwo.
+ * Nevron szedł pełen złości, wręcz zagryzał szczęke, starał się opanować, prawie uderzył pięścią w ścianę
+<Juszi> Na samym dole schodów obydwaj byliście zlani potem, Nevronowi włosy przykleiły się do czoła pod kapturem. Imre dyszał głośno, usiłował złapać oddech.
+<Juszi> Na samym dole schody znikneły. Stanęliście na środku bezkresnej sali. Posadzka wykonana była z lśniącego, krwiście czerwonego marmuru. Nie było tam nic więcej.
+<Juszi> Usłyszeliście śmiech. Rozpoznaliście go, to był głos Cesarza... nie brzmiał jednak szalenie. Był dobroduszny, rubaszny.
+<Juszi> "Gratuluję, gratuluję. Pierwsi, którzy dotarli tak daleko." Możnaby nawet uznać, że było w tym trochę wdzięczności.
+ * Imre splunął; nie panował nad emocjami, z marmuru aż parował magiczny kwas
+<Nevron> Dość gadania, pokaż się tchórzu i stań twarzą w twarz jak prawdziwy wojownik, a nie jak dziecko chowające się za fartuchem swet matki!
+<Juszi> Za wami pojwił się obłok czerwonego dymu; gdy opadł, stał tam Cesarz. Tak samo ubrany, dumnie naprężony.
+ * Nevron uderzył kosturem w posadzkę aż huknęło
+<Juszi> Była tylko jedna różnica.
+<Juszi> Czwórka dzieci na jego łańcuchach spała.
+ * Imre odwrócił się powoli, z namaszczeniem dobył miecza
+<Imre> Powiedz mi jedno, psi synu
+<Juszi> "Całe moje życie pracowałem nad jednym celem. Równością. Abstrakcyjny, nieosiągalny koncept... Chyba, że użyje się magii."
+<Juszi> Mówił tonem profesora, nauczyciela; prawie można było uwierzyć w jego dobre intencje.
+<Imre> Ten rozpierdol nazywasz równością?
+<Juszi>  "Tak... w moich poszukiwaniach zaszedłem daleko. Za daleko."
+<Juszi> "Ale" - znowu się uśmiechnął - "odkryłem miejsce, gdzie WSZYSCY są równi. Tylko że nie każdy potrafi je pojąć."
+<Juszi> Wystawił rękę; zmaterializowany znikąd pomniejszy diabeł przyniósł mały stolik z nóg i rąk. Za blat służyła wielka, płaska kość, chyba giganta.
+ * Imre zbladł
+<Juszi> Na stoliku widzicie złoto - czarny puchar, wypełniony niebieskim proszkiem.
+<Juszi> "Jeden z was wie, co to jest."
+ * Nevron złozył razem dłoni, niczym do modlitwy
+<Nevron> Masz jeszcze dużo do powiedzenia?
+ * Imre spojrzał zaintrygowany na puchar, potem na Nevrona
+<Imre> Co to jest?
+<Nevron> proszek z grzybow lesnych, rzadkich
+<Imre> Jakiś narkotyk?
+<Nevron> wywoluje silne omamy, halucynacje
+<Nevron> pozorne szczescie
+<Imre> Pieprzony ćpun
+<Juszi> Jedno ze śpiących dzieci poruszyło się; po twarzy cesarza na ten widok przemknął wyraz przerażenia.
+<Imre> Do ciężkiego joba, on to wszystko zrobił... bo się naćpał?
+<Juszi> "jesteście... jesteście na granicy świadomości."
+<Juszi> "Podążajcie ku prawdziwej równości."
+<Nevron> Na to wygląda
+<Nevron> Już pojmuję, dlaczego ja tym handluję, a nie zazywam?
+<Nevron> I to za ciężkie sakwy monet
+<Juszi> Powiedziawszy to, chwycił w dłoń sporą garść proszku, podstawił pod nos i wziął głęboki oddech. Na ustach pojawiła mu się piana, oczy uciekły mu w głąb czaszki, upadł.
+ * Nevron można by przeysiądz, że się na chwile uśmiechnał
+ * Imre nie słuchał juz; usłyszał dość. Złożył w skupieniu dłonie, po czym skupił w nich potężną moc magiczną. Od nasilenia kolczyki w jego uszach zaczęły się aż żarzyć.
+<Imre> Skończmy to.
+<Imre> Nevron!
+ * Nevron przytaknał
+<Imre> Dzieci! Prawdziwe widzenie, już!
+<Juszi> Imre aż wrzasnął z bólu.
+ * Imre miał już serdecznie dość; był stary, widział wiele, ale ilość bólu i cierpienia, którą czuł wcześniej, teraz, osiągnęła granice. Całą swą wściekłość władował w moc w dłoniach, które przyłożył do posadzki, z hukiem posyłając falę w kierunku dziecka
+ * Nevron puścił kostur, który niczym nie zmącony zaczął przy nim lewitować w pozycji w jakiej go zostawił
+<Nevron> Zajmę sie trójką!
+<Juszi> Dzieci zaczęły się budzić.
+ * Nevron wypowiadał słowa mieszając kilka zaklęć, robił rękami coraz większe okręgi, aż uformował się przed nim mały portal
+<Juszi> Wstawały, jedno po drugim, wciąż przykute łańcuchami do nieprzytomnego cesarza.
+<Juszi> I jedno po drugim zaczęły pęcznieć, zmieniać kształty.
+ * Nevron machnął jedną ręką, posłał strzały ogniste, drugą magiczne zatrute
+<Nevron> Plugastwo!
+<Juszi> Gorzej. Czyste zło.
+ * Nevron machnął obieła dłonmi przed siebie, zamieniając finalnie portal w chmurę magicznych pocisków
+ * Imre krzyczał, puszczając potężną wiązkę czystej energii prosto w dziecko
+<Juszi> Imre nie był zbyt obeznany w dolnych planach, piekłach i siedzibach demonów, ale Nevron, będąc osobą wykształconą, szybko je rozpoznał.
+ * Nevron złapał za kostur, uderzył w posadzkę i zniknął, aktywując na sobie zaklęcie cienia
+<Juszi> Asmodeusz, Belial, Mammon, Mefistofeles...
+<Juszi> Cała - jakkolwiek potężna - rzucona magia rozbiła się o niewidoczne bariery, jakbyście rzucali śnieżkami.
+<Juszi> Rozległ się okrutny śmiech, cztery arcydiabły zaczęły się zbliżać do Imre; nie, żeby nie były w stanie znaleźć Nevrona.
+ * Imre był cały spocony, oczy zaszły mu złotą barwą; odzywała się dawna krew gdy czarował jak najęty kolejne fale uderzeniowe
+<Juszi> Asmodeusz tylko machnął jedną z łap i Imre poleciał daleko za siebie, przerywając zaklęcie. Czuł, że śmierć się zbliża.
+<Juszi> Ukryty w cieniach Nevron pierwszy to zauważył. Jakby niebieskie wyładowanie popłynęło od zwłok nieprzytomnego cesarza po łańcuchach, prosto do czterech diabłów.
+ * Nevron pojawił się nagle przy stoliku, wsadził dłoń do kielicha, nabrał garść proszku i wciągnął nosem z dłoniz całych sił
+<Juszi> Znów pojawiła się czwórka dzieci, nieprzytomnych, chyba śpiących.
+ * Imre walczył o oddech, ale domyślił się, że Nevron opracował jakiś plan; resztką sił doczłapał do kielicha i zrobił to, co towarzysz
+<Juszi> TO było jak uderzenie młotem kowalskim w twarz. Rozbłysk światła, pamiętacie jeszcze upadek.
+<Juszi> Gdy otworzyliście oczy, znajdowaliście się w tym samym miejscu, tylko posadzka była niebieska. Ledwie zauważalne duchy przeszłości, echa dawnych wydarzeń, rozgrywały się dookoła.
+<Juszi> Stoicie jeden przy drugim, ramię przy ramieniu.
+<Juszi> Przed wami - 4 arcydiabły, już nie takie straszne, waszych rozmiarów.
+<Juszi> A za nimi - na tronie - cesarz. 
+ * Nevron złapał mocno za kostur, kryształ rozbłysnął purpurowo-niebieskim światłem
+<Nevron> Przyszedł Wasz kres, demonie pomioty
+ * Imre podniósł się; oczy błyszczały mu złotem, skóra aż błyszczała od wyładowań; to była walka na śmierć i życie, a Imre powołał na nią całą swoją moc
+--- Day changed nie mar 20 2011
+<Juszi> Pierwszy z szeregu wystąpił Belial, za nim Mefistofeles. Powietrze wypełniło się setkami drobnych, ledwie widocznych kolców, palących, kłujących.
+<Juszi> Na razie rozbijają się o wasze magiczne osłony.
+<Imre> Po kolei, skupiamy ogień
+ * Nevron uderzył z całej siły w posadzkę, wypowiadając na głos trzy runiczne słowa i przywołując z innego planu astralnego runicznego, kamiennego golema
+ * Imre charknął niskim, ciężkim głosem
+ * Imre dobył sejmitaru, a ten rozbłysł od umagicznienia jak pochodnia
+<Juszi> Dookoła mefistofelesa zapłonęły ciemne płomienie, gdy i on przywołał swojego czempiona, pomniejsze diablęcie. Starło się ono z golemem w zwarciu na pazury i pięści.
+ * Nevron podrzucił kostur, który zniknął i rozłozył ręcę, zaczął plonąć czarnym płomieniem
+<Juszi> Imre: Belial spojrzał się na ciebie, mniej zubtelnie, jego dłonie otoczyły wyładowania; ruszył, szarżując.
+<Nevron> Policzone Wasze dni żywota, to koniec
+<Juszi> Nevron, Imre, k20.
+<Imre> d20
+ * Nevron buchnał czarną energią zamieniając się w wiekiego, czarnego smoka
+<Jaskier> Imre, (d20) 16.
+<Nevron> d20
+<Juszi> ja też rzucę za waszych przeciwników ))
+<Jaskier> Nevron, (d20) 11.
+<Juszi> Belial: d20
+<Jaskier> Juszi, (d20) 13.
+<Juszi> Mefisto: d2
+<Jaskier> Juszi, (d2) 1.
+<Juszi> d20
+<Jaskier> Juszi, (d20) 18.
+<Juszi> Nevron: upadłeś na posadzkę, gdy magia zaczęła cię roznosić; z pleców wyrosły ci wielkie skrzydła, ogon pokryl się kolcami, wydłużyły ci się kończyny, a na skórze wysypały się ciemnofioletowe łuski.
+<Juszi> Fala kwasu, którą zionąłeś, starła się z falą czarnych płomieni MEfistofelesa.
+<Juszi> Istna walka tytanów...
+<Juszi> Imre: Belial ruszyłna ciebie, posadzka aż się trzęsła od jego kroków. Zamachnął się zmaterializowaną gizarmą, ale powstrzymałeś cios zwinnym parowaniem. Wybiłeś się ostro i spadając sam usiłowałeś dźgać, ale zdołał sparować cios.
+<Juszi> Golem Nevrona dosłownie oderwał skrzydło diablęcia, rozległ się potworny ryk.
+<Juszi> Znowu k20
+<Imre> d20
+<Jaskier> Imre, (d20) 4.
+<Nevron> d20
+<Jaskier> Nevron, (d20) 7.
+<Juszi> Mefistofeles: d20
+<Jaskier> Juszi, (d20) 10.
+<Juszi> Belial: d20
+<Jaskier> Juszi, (d20) 14.
+<Nevron> Golem: k20?? )
+<Juszi> Nevron: Ciemne płomienie niebezpiecznie zbliżyły się do ciebie, czujesz, jak twój strumień kwasu słabnie.
+<Nevron> Golem: d20
+<Jaskier> Nevron, (d20) 16.
+<Juszi> diablęcie: d20
+<Jaskier> Juszi, (d20) 13.
+<Juszi> Golem jednak akurat skończył z diablęciem, jego głowa potoczyła się prosto pod nogi Mefistofelesa.
+ * Nevron cofał się pod naporem mrocznych demonich płomieniu, próbował ratować się i zamachnął w tym momencie długim ogonem prosto w czerem pomiotu
+<Juszi> W kilku niewiarygodnych, ciężkich susach dopadł do pana piekieł i uderzył metalową, umagicznioną runami pięścią, odwracając jego uwagę i przywracając rónowagę walki.
+ * Imre gdy spadał na ziemię, był już przygotowany. Lewą ręką grzmotnął w podłoże, które rozwarło się. Z szczeliny wpierw wychyliły się dwa owłosione odnóża, potem kolejne, aż wreszcie ujrzała pole walki pajęczyca.
+<Imre> Ibitha, spowolnij ich! - wrzasnął, po czym przyszykował miecz do parowania
+<Juszi> Belial pewnie podszedł do pajęczaka. Zamachnął się gizarmą, odcinając parę odnóży. Potworny skrzek rozległ się po okolicy.
+<Juszi> znowu k20
+<Juszi> Mefisto: d20
+<Jaskier> Juszi, (d20) 1.
+<Nevron> d20
+<Jaskier> Nevron, (d20) 7.
+<Imre> d20
+<Jaskier> Imre, (d20) 13.
+<Juszi> Belial: 20
+<Juszi> Belial: d20
+<Jaskier> Juszi, (d20) 7.
+<Nevron> Golem: d20
+<Jaskier> Nevron, (d20) 4.
+<Juszi> Nevron: Golem zdołał bardzo skutecznie odwrócić uwagę arcydiabła. Kolejny strumień żrącego, potężnego kwasu dosięgnął do jego głowy. Mimo, że nie słyszeliście krzyków, mogliście wręcz odczuć ból istoty.
+<Juszi> Nevron pod postacią Czarnego Smoka wzbił się ostro do góry i dopadł Mefistofelesa, rozszarpując go pazurami, tłukąc ogonem i gryząc.
+ * Nevron złapał czorta za łeb, zacisnął zębiska i szarpnął
+ * Imre załapał mocno sejmitar, a ten znów się zajątrzył; ruszył skokiem wzmocnionym magią prosto w Beliala, tnąc znad głowy, licząc na przepołowienie
+<Juszi> Imre: nie zdołałeś tego zrobić, ale cięcie było dosyć poważne. Twój przyzwaniec nie czekał, rzucił się na wroga za tobą, drapiąc pazurami na nogach i usiłując gryźć.
+<Juszi> Nevron: to był koniec. Oderwałeś mu głowę, ni mniej, ni więcej. Zwłoki zniknęły z głośnym trzaskiem.
+<Juszi> Chciałeś pomóc towarzyszowi, ale zobaczyłeś, że w twoim kierunku pełznie pół-wąż, pół oślizgły humanoid z rogami. Mammon.
+ * Nevron wypluł z pogardą czerep demona, uniósł łeb i ryknął przeraźliwie i tryumfalnie
+<Juszi> Nevron: k20, golem to samo
+<Juszi> Imre: k20 + 3
+ * Nevron skierował swój łeb w stronę następnego diabła
+<Imre> d20+3
+<Jaskier> Imre, (d20+3) 8.
+<Juszi> Mammon: d20
+<Jaskier> Juszi, (d20) 10.
+<Nevron> d20
+<Jaskier> Nevron, (d20) 20.
+<Juszi> Belial: d20 - 3
+<Nevron> Golem: d20
+<Jaskier> Juszi, (d20) 17.
+<Jaskier> Nevron, (d20) 8.
+<Juszi> czekaj, fakt
+<Juszi> Belial: d20-3
+<Jaskier> Juszi, (d20-3) 16.
+ * Nevron wybił się w powietrze, rozłożył swoje wielkie skrzydłą i posłał potężny podmucha w stronę Mammona
+ * Imre skanalizował energię w mieczu, którym grzmotnął oburącz w ziemię, rozszczepiając ją potężną magią ognia
+ * Nevron pikował prosto w dół na przewróconego czorta ziejąc w niego obficie kwasem
+<Nevron> GIN!
+ * Nevron rycząć dopadł go pazurami, złapał jednym odnożem za tors, podniósł, a druga łapął za łeb
+<Juszi> Imre: cios skontrował równie potężny atak lodu. Zdołałeś tylko krzyknąć, gdy  fala zimna wyrzuciła cię w powietrze i posłała kawałek za siebie. Zbroja zamortyzowałą upadek, ale mocno się potłukłeś.
+ * Nevron posjrzał z pogardą w oczy demona i zacisnął łapy z całych sił
+<Juszi> Nevron: ciśnienie wycisnęło z Mammona flaki. Dosłownie. ROzległ się straszliwy pisk, zalała cię diabelska posoka i wnętrzności.
+<Juszi> I jego zwłoki zniknęły.
+<Juszi> Czujesz, jak kończy się twój czar: znów zmniejszasz swe rozmiary, wyrastają ci włosy, pojawiają się szaty. Stoisz obok golema, zaciskajac dłonie na kosturze.
+ * Imre potężnie kopnął w ziemię, z której wzbił się pył i zawisł wokół Imre; ten zakreślił krąg, po czym w postaci zmrożonych pocisków drobiny wystrzeliły w potężnym deszczu sopli
+<Juszi> Imre: k20
+<Imre> d20
+<Jaskier> Imre, (d20) 15.
+ * Nevron stanał twardo, podniósł rękę, z której buchnał ogien, trzymał kilę ognia na dłoni spoglądając na Asmodeusza i kierując w jego stronę kostur
+<Nevron> Kolej na Ciebie, poczwarto
+<Juszi> Belial: d20
+<Jaskier> Juszi, (d20) 5.
+<Juszi> Imre: to był epicki koniec tego arcydiabła. Sople i stalagmity wystrzeliły na twój rozkaz, szatkując Beliala na kawałki. Rozlegl się krzyk, prawie że ludzki, po czym i ta maszkara zniknęła.
+<Juszi> Pan dziewięciu piekieł uśmiechał się szyderczo, ściskając swoje rubinowe berło. 
+ * Imre machnął sejmitarem w powietrzu raz i drugi; zwrócił się w kierunku Asmodeusza
+<Juszi> Spokojnym krokiem podszedł do was dwóch i wyrzucił z siebie potworny zaśpiew w czarnej mowie, który zwalił was obu na kolana.
+<Juszi> obaj k20-2
+<Juszi> Asmodeusz: d20
+<Jaskier> Juszi, (d20) 14.
+<Nevron> d20-2
+<Jaskier> Nevron, (d20-2) 7.
+<Imre> d20-2
+<Jaskier> Imre, (d20-2) 15.
+<Juszi> Pan dziewięciu piekieł nie próżnował. Rubinowe berło rozbłysło krwistoczerwonym światłem, które dosłownie zmiotło wszystkie osłony magiczne Nevrona. Upadł na kolana, dysząc ciężko.
+ * Imre z całych sił tłumił magię słów, które miały go obezwładnić. Zakreślił czubkiem ostrza koło wokół siebie, a z ziemi zerwała się ściana magii obronnej
+ * Nevron upadł na kolana, podparł się kosturem, z dłoni wyparowała ognista kule
+<Nevron> kula*
+<Juszi> Imre miał więcej szczęścia. Pod osłoną włąsnej magii podszedł bliżej, na odległość skutecznego cięcia.
+<Juszi> Imre: k20, Nevron: k20-2
+<Imre> d20
+<Jaskier> Imre, (d20) 15.
+<Juszi> Asmodeusz: d20
+<Jaskier> Juszi, (d20) 14.
+<Nevron> Golem: d20
+<Jaskier> Nevron, (d20) 5.
+<Nevron> d20-2
+<Jaskier> Nevron, (d20-2) 2.
+ * Imre lewą ręką machnął lekko, a nad dłonią zmaterializował się dysk czystej energii. Zasłonił się nim, miecz uniósł ostro nad tarczą i runął do przodu, tnąc krótko
+<Juszi> Asmodeusz podniósł obie ręce, wzbijając tumany dzikiej, złej energii. Nevron nie oparł się jej, zaczął krwawić z oczu, krzycząc z bólu. Znowu ujrzał demony przeszłości.
+<Juszi> Jego golem rozpadł się w metalowy pył.
+ * Nevron rozłorzył ręcę na boki, krzyczał w bólu, upuścił kostur
+<Juszi> Władca piekieł odsłonił się jednak przez to na cios z boku. Imre ryknął z nienawiści i wbił sztych prosto w plecy istoty.
+<Juszi> Imre: k20+9
+ * Nevron odetchnął z ulgą, zebrał siły, oddech, złapał za kostur i wstał
+<Imre> d20+9
+<Nevron> Umrzyj!
+<Jaskier> Imre, (d20+9) 14.
+<Juszi> Asmodeusz: d20-10
+<Jaskier> Juszi, (d20-10) -8.
+ * Nevron wyczarował kulę zimna, krzyknał, zrobił piruet i wymawiając głośno słowa zaklęcia z rozpędu cisnął lodowym kolcem w stronę demona
+ * Imre odskoczył saltem do tyłu i wylądował miękko, po czym rozłożył ręce i odchylił głowę; na jego szyi widać było potężną energię idącą przez gardło; nabrał powietrza i ryknął potężnie w arcydiabła, a z jego ust wystrzelił strumień niebieskiego ognia
+<Juszi> Lodowy kolec przebił arcydiabła na wylot. Spojrzał się na dziurę w klatce piersiowej z niedowierzaniem, podobnie jak na ostrze obok.
+<Juszi> Rozległ się szaleńczy śmiech, gorszy nawet od śmiechu Cesarza w momentach najgorszego delirium, gdy Asmodeusz płonął w niebieskim, oczyszczającym ogniu. 
+<Juszi> Powietrze rozjaśniło się, znikąd zaczęły pojawiać się pioruny, trafiając w płonące zwłoki Asmodeusza. Głośny trzask, jasny błysk, potem huk... zwkłoki zniknęły.
+ * Imre padł na kolana i oparł się na dłoniach, ciężko sapiąc z wyczerpania
+<Juszi> Nevron podszedł bliżej, opierając się ciężko na kosturze. Był coraz bardziej wściekly.
+<Juszi> Cesarz wstał ze swojego tronu, który zniknął.
+<Juszi> "Te siły... nikt nie powinien z nimi zadzierać."
+<Juszi> "Nie doświadczony demonolog, nie arcykapłan próżnego bóstwa... nie prosty diablista."
+ * Imre walnął pięścią w ziemię, a sejmitar wzbił się w powietrze. Złapał go w locie, po czym zwrócił go ostrzem w cesarza.
+<Juszi> Gdy wypowiadał swoje ostatnie słowa, jego głos znowu zaczął bulgotać.
+<Imre> Dość tego. - charknął głębokim głosem
+<Juszi> Walczył z szaleństwem, które znów probowało go opanować.
+<Nevron> Umrzeyj w konću
+<Juszi> "A to wszystko... TO WSZYSTKO...
+ * Nevron wyciągnął włoń, poaznokcie mu poczerniały, wręczy zaczynało się z nich dymić
+<Nevron> Umrzyj...
+<Juszi> "To wszystko KŁAMSTWO! PRZYJAűŃ! WIERNOŚĆ! MIŁOŚĆ!" [cp1250]
+ * Nevron przystawił dłoń do czoła cesarza, powoli wypowiadał słowa zaklęcia śmierci, wyssania życia
+ * Nevron wysysał życie z cesarza powoli, wypowiadając dokłądnie cicho słowa, gotował jego krew w żyłach i arteriach
+ * Imre patrzył beznamiętnym, złotym wzrokiem na powolną agonię Cesarza. Twarz nie zdradzała żadnej emocji.
+ * Nevron ręką mu wręcz płonęła, gotował mu krew wręcz do wrzenia wparowując ją ze wszystkich stron
+<Juszi> "Pamiętaj... pamiętaj... mogą cię nienawidzić, byleby byli posłuszni..."
+<Juszi> Ciało cesarza zaczeło schnąć, marszczyć się, skóra zaczęła się naprężać i pękać.
+ * Nevron gdy skończył nawet nie spojrzał, dłoń przybrała normalny wygląd, podniósł ją z suchego kościeja w zbroi, odszedł gdy trup spadał z podestu na którym stał
+<Nevron> Nikt nie wchodzi w paradę Czerwonym Magom z Thay
+<Juszi> Nic dodać, nic ująć. Patrzycie na wysuszony szkielet w bogato pozłacanej zbroi płytowej.
+<Juszi> Nawet nie zdziwił was teraz już znajomy, nieco apatyczny głos.
+<Juszi> "Dwóch oportunistów, dwóch cyników... Uczyniło więcej, niż całe Silverymoon do spółki. Na swój sposób urocze."
+<Juszi> "Wypada już jednak wracać, panowie"
+<Juszi> powiedział Sig Hellstrum, kapłan bitewny Ilmatera ze świątyni w Silverymoon.
+<Nevron> aco Ty tu robisz, nedzny kapalnie?
+<Nevron> Tez przyszedles zakonczyc swoj marny zywot?
+<Juszi> Błysk, świst, wir obrazów... znowu stoicie w spalonych ruinach Breen Cavil.
+<Juszi> "Oh, nie, ja bardzo sobie cenię swój żywot."
+<Juszi> "Podobnie, jak i wy."
+ * Imre rozejrzał się po ruinach, po czym spojrzał na kapłana
+<Imre> To koniec?
+<Imre> Cesarz padł i co, zwijamy manatki?
+<Imre> Co to, do kurwy nędzy, było!
+<Juszi> Kapłan przewiesił swoją buławę przy pasie, zmieniła się w szablę w pochwie. Z drugiej strony pasa pojawiła się druga, taka sama.
+<Juszi> "Koniec?"
+<Juszi> Kapłan pierwszy raz uśmiechnął się, chociaż trochę krzywo.
+<Nevron> Nie...
+ * Nevron zmruzył oczy
+<Juszi> "Nie, to nie koniec. To jedno zwycięstwo na bardzo długim froncie."
+<Imre> Nie ze mną. Mam to w dupie.
+<Juszi> "Oczywiście."
+<Juszi> "Ale..."
+<Nevron> Walcz sobie, mnie nie mieszaj w swoje dziwny wojny
+<Imre> Prawie zginąłem ratując jakąś zawszoną dziurę!
+<Juszi> Kapłan trzymał w ręku rubinowe berło Asmodeusza.
+<Nevron> Ja juz swoje rachunki wyrownałem
+<Juszi> "Co ja mam zrobić z tym?"
+<Imre> Czemu ty tego nie zrobiłeś, pieprzony długouchy!
+ * Nevron naciągnął mocniej kaptur
+ * Imre wskazał na berło
+<Juszi> "Dopilnuję, panie Imre, żeby został pan wynagrodzony. Bo udaje się pan po nagrodę do Sundabar, prawda?"
+<Juszi> "Raport dotrze tam, zanim się pan zjawi."
+ * Imre zacisnął zęby, milczał
+<Juszi> "Powstrzymaliście lokalnego szalonego maga z zapędami na lisza. W krótkiej walce. Bardzo prostej."
+<Juszi> "A pan, panie Nevron..."
+<Nevron> Zejdź mi z oczu Mroczny, wiem kim jestes, nic dobrego po Twojej obecnoci nigdy nastepuje
+<Juszi> "Jakie to uczucie, siedzieć wśród czerwonych magów w Thay?"
+<Nevron> I nie wtracaj sie do moich spraw wiecej
+<Nevron> nie beda taki laskawy nastepnym razem
+ * Imre patrzył się badawczo na posłańca.
+<Juszi> "Czas się więc przekonać, panie Nevron."
+<Juszi> Po czym wręczył Ci zwinięty list z magiczną pieczęcią z Thay.
+<Imre> Jeszcze jedno pytanie.
+<Juszi> "Oczywiście."
+ * Nevron schował w rękawie, nawet nie spojrzał, nie musiał
+<Imre> Wydaje mi się, że po tym bajzlu, który przeszliśmy
+<Imre> Należy nam się odpowiedź na pytanie
+<Imre> Kim jesteś.
+<Imre> Nie kim myślisz że jesteś
+<Imre> Kim się stałeś
+<Imre> O co tu, kurwa, chodziło.
+<Imre> Jest jedna rzecz której nienawidzę, i to jest bycie wystawionym do wiatru
+<Imre> a teraz tak się właśnie czuję.
+<Juszi> "Oj, nie do końca.
+
+
+<Juszi> ***
+<Juszi> "Jestem wysłannikiem trzeciej frakcji. Trzeciej drogi. Obserwatorów."
+<Juszi> Nevron już nie słuchał, domyślił się odpowiedzi wcześniej. Przysiągłby, że już zresztą go spotkał.
+<Juszi> Zamachnął się mocno kosturem bez pożegnania, mrucząc coś o pieniądzach i stratach.
+<Juszi> ZNiknął w rozbłysku światła.
+<Juszi> "Nie wiem, czy zechce pan dla nas pracować, nigdy nikogo do tego nie zmuszamy. Zazwyczaj."
+<Juszi> "Teraz też przecież działał pan dla Sundabar."
+<Juszi> Zbroja płytowa zmieniła się misterną konstrukcję, złożoną z elementów kolczugi i płytek adamantytu.
+<Juszi> "Niech mi pan wierzy, będę w stanie pana znaleźć..."
+<Juszi> Pojawił się zgniłozielony płaszcz i szerokim kapturem, zakrywającym twarz. Zmienił się głos "kapłana", na nieco bardziej chrypiący.
+<Juszi> "
+<Juszi> "Bądź co bądź, każdemu zależy na równowadze. Jutro możemy pomóc drugiej stronie."
+<Juszi> Smukła dłoń w czarnej, skórzanej rękawicy ze srebrnymi ćwiekami zdjęła kaptur. Mroczny elf z krótkim, białym irokezem i zielonymi oczami spoglądał na ciebie z nieco złośliwym uśmiechem.
+<Juszi> "Jeśli to będzie konieczne.", powiedział drow znany jako Heian i zniknął, rozpływając się w chmurze ciemności.
+<Juszi> ***
+<Juszi> FIN
+

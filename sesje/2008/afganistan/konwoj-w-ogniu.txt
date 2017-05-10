@@ -1,0 +1,1792 @@
+
+1SFOD-D, Delta - strzelcy wyborowi w stopniu Master Sergeant. Ulokowaliscie sie w nocy, parami, po dwoch przeciwleglych krancach afganskiej wioski Khtal.
+Zeby nie bylo nieporozumien: nie jestescie 'najlepszymi z najlepszych'. To Wy wyznaczacie standardy w tej chwili. Z jednej mili jestescie w stanie zdjac cel 'z biegu'. Nie ma mowy o pomylce.
+Zmieniacie sie co godzine: snajper i spotter. Dwojka: Butler i Jack_Carter - patrzycie przez celownik M110 SASS z magazynkiem 10 naboi. Dodatkowych magazynkow jest 8. Bron nie wymaga przeladowywania po kazdym strzale, dopiero przy zaladowaniu nowego magazynka.
+
+Wasz sprzet.
+
+Rowniez. Przyjrzyjscie sie tez na wyglad, kamuflaz, ekwipunek.
+
+Powyzsze zdjecie oddaje tez umiejscowienie - piaszczyste wzgorze pelne wysokiej trawy i wysuszonej roslinnosci.
+
+Oprocz M110 kazdy z Was ma w kaburze Mk23 z dodatkowymi 2 magazynkami w schowkach kamizelki.
+
+Spotter opiekuje sie H&K z granatnikiem - 5 granatow. Oczywiscie po godzinie zmiana.
+
+Kamizelka
+
+Oczy spottera, to on mowi o wybranym celu, odleglosci, wietrze itp. On wybiera cel sposrod kilku, ocenia zagrozenie, informuje snajpera.
+
+To pan Jack_Carter
+
+W tej chwili lezycie obaj majac na sobie swietny kamuflaz odwzorowujacy kolorystyke roslinnosci wzgorza i nawet jej gestosc.
+Jestescie praktycznie niewidzialni.
+
+Oto pan Butler.
+
+Jak widac komunikujecie sie we czworke za pomoca mikrofonow. Polaczenie z baza ma tylko Trevor_Connors, rozkazy z dowodztwa przekazuje Wam na biezaco.
+
+W tej chwili Butler jest przy karabinie. Jack_Carter obserwuje i notuje koordynaty.
+Nastepna dwojka:
+
+Jay_J operuje Barretem M109, skierowany jest na droge wychodzaca do utwardzanej drogi od wioski do najblizszego miasta
+Ta dwojka widzi tylko niewielki fragment wioski, natomiast droga jest dla Was odkryta az do wzgorz (nieco ponad 1 mile)
+
+Na skalach roslinnosc jest gestsza, Wasz kamuflaz nieco inny.
+
+Operujecie Barretem na wypadek pospieszajacej tu z pomoca kolumny samochodow z wmontowanymi karabinami 30mm, Barret jest bardziej skuteczny przeciwko kierowcom pojazdow, a niedokladne trafienie nie robi wlasciwie roznicy przy tym dziale.
+
+Jay_J i Trevor maja pod reka H&K, ale bez granatnika.
+
+Obydwie dwojki znajduja sie we wlasnych polach widzenia.
+Pomiedzy skalnym wystepem, a wzgorzem, na ktorym leza Butler z Carterem znajduje sie wioska, kilkanascie chat, spora, wspolna stodola, dwa nieduze stawy, z niecki prowadzi droga do szosy, ktora przebiega obok.
+Oto plan:
+Za ok 30min ta szosa bedzie przejezdzaja kolumna samochodow z wojskowym sprzetem, sprzet ma trafic na linie frontu, ktora dwa dni temu wyrosla za miastem Faillada. Jada tez leki, opatrunki itd.
+Kolumna wyjechala duzo wczesniej. Zdecydowano sie na samochody ze wzgledu na duza ilosc zestrzelen w tym rejonie, uzywane przez partyzantow afganskich mozdzierze, rakiety, nawet ogien z ciezkich karabinow maszynowych - eliminowalo helikopter transportowy.
+Juz po jej wyjezdzie z bazy, doniesiono o mozliwych ukrywajacych sie terrorystach w tym rejonie, a zdjecia satelitarne wskazaly na tunele pod ta wlasnie wioska. Jako, ze przetransportowanie wiekszej ilosci wojska nie wchodzilo w gre (bo oslabiloby to front pod Faillada), zrzucono Was w nocy nad zalesionym terenem i po godzinie byliscie juz na pozycjach.
+Jezeli kolumna przejedzie spokojnie, a jednostki wroga nadal beda aktywne - wycofujecie sie.
+Butler z Carterem - obserwujecie wioske (500-700m), Jay_J z Trevorem - szosa i wzgorza (ok 1300m).
+Ostatnia sprawa: Gdyby konfrontacja nasilila sie a jednostki partyzanckie naplywaly - macie obowiazek wezwac Seal team z MH-47 z 160 Special Operations Aviation Regiment, helikopter powinien tu byc w ciagu 6-7 minut.
+
+* Butler sprawdził magazynek i rozejrzał się po wiosce przez lunetę
+<Trevor_Connors> Tu Connors, jestesmy na pozycji.
+* Jay_J mrugnął i wrócił do obserwacji drogi przez lunetę 
+<Jay_J> Connors, przekaż im, na razie czysto.
+* Jack_Carter obserwuje teren
+<Jack_Carter> Czysto
+<Trevor_Connors> bede dawal wypowiedzi do bazy w * * ))
+<Trevor_Connors> *Tu 1SFOD-D, brak kontaktu wzrokowego z wrogiem, teren wydaje sie czysty*
+<Jay_J> Ech, ja, jak wrócę, to pewnie nacieszę się pobytem z rodziną tydzien, a potem znowu powrót do Fort Bragg, słyszałem, że chcą mnie wziąć na instruktora
+Uwaga, Butler i Carter maja tlumik: http://erq.tbx.pl/Newest/M110_ECP_Left_Sup.jpg i tylko oni maja zezwolenie na otwieranie ognia jako pierwszi. Jay_J i Trevor_Connors nie otwieraja ognia, dopoki wrog nie zacznie otwierac ognia do ktorejs z dwojek.
+
+<Butler> Znowu? Czy to nie drugi raz w ciągu ostatniego półrocza?
+*pozostancie na pozycjach. nie wolno wam ich skompromitowac. bez ruchu i cisza.*
+
+<Jay_J> Tak bywa
+<Trevor_Connors> *Tu Juno-5, przyjalem, bez odbioru*
+<Jay_J> Chociaż nie kręci mnie szkolenie jakichś dziwnych ludzi z Afryki...
+* Jay_J poprawił lekko ułożenie kolby w dołku strzeleckim
+<Jack_Carter> Masz cos do ludzi z Afryki?
+<Butler> A ja to bym się napił Whisky, ale takiej porzadnej. Nie piłem chyba z osiem miesięcy
+<Jay_J> Mam, jeśli za 3 lata nie okaże się, że strzelają do mnie
+W wiosce normalnie, nikogo, niczego podejrzanego, zadnych wiekszych grup. Na szosie dwoch ludzi przeprowadza bydlo w strone rzeki.
+
+<Jack_Carter> Nie lubię alkoholu
+<Jay_J> Connors, widzisz coś?
+<Trevor_Connors> Jay_J
+<Jack_Carter> Jeśli juz, to piwo
+<Trevor_Connors> miej oko na tych dwoch na szosie
+* Jay_J zlustrował wjazd do wioski przez lunetę z przystawką noktowizyjną
+<Trevor_Connors> widze dwoch cywili prowadzacych bydlo do wodopoju
+<Jay_J> Przyjąłem
+* Jay_J skierował broń w ich stronę
+<Butler> Carter, coś ciekawego w wiosce?
+<Jack_Carter> dwóch ludzi prowadzi bydło do rzeki
+<Jack_Carter> Nic więcej, spokój
+* Butler podłubał sobie między zębami aż w końcu splunął cicho obok
+<Butler> Cholera, znowu mi coś wleciało do mordy
+* Trevor_Connors zaczal cicho nucic 'Sweet home Alabama'
+Zaczyna switac, odezwaly sie koguty. Z dwoch, czy trzech chat powychodzili ludzie krzatajac sie jak codzien.
+
+<Jack_Carter> Mnie to mówisz? Cały czas mam piach w gębie
+<Trevor_Connors> Cholera, chcialbym dostac przepustke... Nie widzialem sie z dziewczyna juz z pol roku.
+<Butler> Piach, piach. Mój piach się wiercił
+<Butler> I chciał biec dalej
+<Jack_Carter> Cóż, bywa i tak.
+<Jay_J> Connors, nie ma szans, mówią, że ta rotacja może potrwać nawet rok
+<Jack_Carter> Przynajmniej nie chrzęści w żebach
+* Jay_J powoli przejechał wzrokiem wzdłuż wzgórz otaczających drogę
+<Trevor_Connors> No, przy tym co te dziady odstawiaja to moze i dluzej
+* Jack_Carter rozgląda się szukając czegoś ciekawgo
+* Butler obserwował przez lunetę okna w domach
+Macie ze soba tyton do zucia, zwykle mietowe gumy, ot, dla rozrywki i rozmasowania szczek zdretwialych od karabinu.
+
+* Jay_J czwartą godzinę mlaskał tą samą gumę do żucia
+* Jack_Carter wyciaga tyton do zucia i odkraja kawałek
+<Jack_Carter> Chcesz trochę?
+* Trevor_Connors splunal czarna breja
+* Butler wrzucił kolejna gumę, bo mu w ustach leko przyschło
+* Jay_J znów kontrolnie spojrzał na wjazd do wioski
+Trevor_Connors: spomiedzy wzgorz wyjezdza samochod. Polciezarowka bez plandeki.
+
+<Jack_Carter> rozumiem, że to znaczyło nie
+<Jack_Carter> Twoja strata
+<Trevor_Connors> Jay_J, uwaga
+<Jay_J> Juno 6, Juno 6, znacie dokladny czas przyjazdu konwoju?
+<Jay_J> Tak?
+<Trevor_Connors> Mamy nieoznakowany samochod
+<Trevor_Connors> Kierunek, 150 stopni
+* Jay_J natychmiast skierował broń w tamtym kierunku i zlustrował najpierw plandekę, potem kabinę
+<Jay_J> nie plandekę, tylko pakę ))
+* Trevor_Connors przyglada sie kierowcy
+Trevor, Jay_J - samochod wyglada na typowy w tutejszych jazdach poza miasto, jeden czlowiek za kierownica, brak pasazera obok, na pace zdaje sie, ze dwie lub trzy osoby siedzace
+
+* Jay_J dokładnie obserwuje osoby siedzące na pace, sprawdza, czy nie są uzbrojeni itp.
+<Butler> Dalej nic ciekawego się nie dzieje?
+<Jack_Carter> Nie, nie spiesz sie tak
+* Trevor_Connors rozglada sie po wzgorzach i lustruje kierunek skad przyjechala polciezarowka
+<Jack_Carter> Jestem pewien, że jak już się zacznie, nie bedzie na co narzekac
+* Jack_Carter wraca do obserwacji wioski
+<Jay_J> Juno 6, Juno 6, mamy pojazd jadący od wschodu
+<Jack_Carter> Juno 5, Juno 5, pojazdy powinny przyjechac dopiero za jakies 25 minut, obserwowac, nie strzelac
+<Jay_J> Przyjąłem. 
+* Jay_J mimo wszystko nadal lustruje pojazd w poszukiwaniu broni w czyichs rękach
+* Butler wypluł gumę
+<Butler> Juno-5, Juno-5, w którym kirunku porusza się cieżarówka?
+<Jay_J> Juno 6, w kierunku wioski.
+<Butler> Jaki dystans?
+<Jay_J> Erq, jaki dystans? ))
+* Butler skierował celownik na wylot szosy do wioski
+* Jack_Carter skierował tam lunetę
+Dystans - w tej chwili rowno 1000m i zmniejsza sie, ciezarowka jedzie z predkoscia ok 50km/h
+
+<Trevor_Connors> Tu Juno-6, odleglosc 1 klik i zbliza
+<Trevor_Connors> Przejmijcie ja za 30 sekund
+Trevor_Connors: ciezarowka zwolnila i zatrzymala sie zjezdzajac na pobocze
+
+* Jay_J podąża za pojazdem lunetą
+<Jay_J> Juno - 6, pojazd zatrzymal się na poboczu
+* Jay_J patrzy na pakę
+<Jay_J> Obserwuj mi ich, Connors
+<Trevor_Connors> Przyjalem
+Jack_Carter: w wiosce zaroilo sie, ludzie wynosza pakunki, krzesla i skladaja przy studni
+
+<Jay_J> Juno 6, Juno 6, obserwujcie wioskę
+<Jack_Carter> Juno 5, juno 5, obiekt nie przyjechał
+<Jack_Carter> Patrz, co się tam u diabła dzieje?
+<Trevor_Connors> Tu Juno 6, pojazd stoi w odleglosci okolo 900m od wioski, jak to u was wyglada?
+<Butler> Co się dzieje, Carter?
+* Butler widził tylko małe urywki przez lunetę
+* Jay_J znowu poprawił ulożenie się
+<Jack_Carter> Ludzie wynoszą jakieś paczki, krzesła i inne sprzęty i kładą to wszystko przy studni
+<Jack_Carter> Nie mam pojęcia co się dzieje
+<Jay_J> aa, nowe spodnie mnie zabijają
+Trevor_Connors: Dwaj mezczyzni gonia bydlo z powrotem od wodopoju w strone szosy.
+
+* Butler obserwował studnię, ile tylko mógł przez lunetę
+<Trevor_Connors> Jay_J, mamy znowu tych cywili z bydlem
+<Butler> mam tam jakiegoś zooma ustawianego? Żeby w miare sensownie sobie oddalić? ))
+<Trevor_Connors> pilnuj pickupa, ja bede mial na nich oko
+Butler: tak, jak najbardziej, ale widzac studnie opuszczasz wjazd do wioski
+
+<Jack_Carter> Dzieje sie cos ciekawego?
+<Jay_J> Butler: wiesz, możesz sobie zmieniać płynnie zoom w lunecie karabinu, ale potem musisz go znowu przestrzelic, inaczej będzie niecelny ))
+<Jack_Carter> Co z ta ciezarowką?
+<Butler> Juno-5 - co z ciężarówką?
+<Jay_J> Juno-6, stoi
+<Jay_J> Ale ludzie coś uciekają od niej, odbiór
+* Butler został pzy studni
+<Butler> Dajcie znać jak tylko ruszy
+<Trevor_Connors> Jay_J, mam zle przeczucia co do tej ciezarowki
+<Trevor_Connors> Szukaj ew. ladunkow
+<Trevor_Connors> to moze byc samochod-pulapka
+<Jay_J> Poinformuj o niej bazę
+* Jay_J patrzy, co robią ludzie na ciężarowce
+* Jack_Carter przygląda się zachowaniu mieszkancow
+* Jack_Carter probuje wyczytac cos z ich twarzy
+<Butler> Carter, co Ci ludzie wyprawiają??
+Jack_Carter: Ciezko powiedziec, ustawiaja meble, wyglada Ci to na jakies lokalne targowisko
+
+<Jack_Carter> Ciezko stwierdzic
+<Jack_Carter> Teraz ustawiaja te meble
+<Trevor_Connors> Tu Juno-6
+<Trevor_Connors> Baza podaje opoznienie konwoju
+<Jack_Carter> Robą coś na kszałt..hm..najbliżej temu do targowiska
+<Trevor_Connors> Mamy dalej pozostac w ukryciu, nie angazujemy sie
+<Jay_J> Erq, co robią ludzie na ciężarowce? ))
+Trevor_Connors: Spomiedzy wzgorz, szosa jada dwie polciezarowki Forda, a za nimi pickup.
+
+Jay_J: nic, siedza, nie wysiedli, silnik chodzi.
+
+<Trevor_Connors> Jay_J, mamy wiecej pojazdow
+<Jack_Carter> Nigdy czegoś takiego jeszcze nie widziałem
+<Trevor_Connors> 3 jada szosa w kierunku wioski
+<Jay_J> Juno 6, mamy więcej pojazdów zbliżających sie do wioski
+* Jay_J skierowal lunetę w tamtą stronę
+<Jack_Carter> Juno 5, jakie to pojazdy?
+<Jay_J> Carter, obserwuj pojedynczą ciężarówkę na poboczu, żeby któryś nie zwiał
+Jay_J: on nie da rady, Trevor ma tam obraz
+
+<Jay_J> Juno 6, dwie półciężarówki forda i pickup, chyba Toyota
+<Butler> Juno-5: Jaki dystans?
+<Trevor_Connors> no ? ))
+* Butler zmienił znowu pozycję, na wlot szosy do wioski
+* Trevor_Connors splunal czarna breja z tytoniu
+<Jack_Carter> Nie mam jej w zasięgu
+<Trevor_Connors> Co my, trafilismy na afganski manhattan?
+Butler: Ty dostrzegasz pojazdy z drugiego konca szosy, miedzy drzewami. Nie widzisz wyraznie.
+
+Trevor_Connors: ponad kilometr, ale przemieszczaja sie szybko, jada ponad stowe))
+
+<Butler> Carter! Druga strona
+* Butler zmienił cel lunety
+<Trevor_Connors> Juno 5, miejcie caly czas oko na wioche, Jay_J ma tu czyste pole ostrzalu
+* Jack_Carter spoglada w tamtym kierunku
+<Trevor_Connors> Cele poruszaja sie okolo 100/h, sa m/w 1 km od wioski
+Trevor_Connors: ta, ktora byla na poboczu, ruszyla z miejsca i przyspieszyla od razu
+
+<Jack_Carter> Juno 6, jakies pojazdy wyezdzaja z drugiej strony
+* Jay_J caly czas ma broń skierowaną w stronę pierwszego pojazdu w kolumnie
+Jack_Carter: to amerykanska kolumna, na przedzie opancerzony hummer!
+
+<Jack_Carter> To nasi!
+<Jack_Carter> Na przedzie Hummer
+<Trevor_Connors> Niezbyt w czas
+<Butler> Tak wcześnie? Miało być opóźnienie?
+* Trevor_Connors patrzy na samotnego pickupa
+<Butler> Connors, melduj bazie
+<Trevor_Connors> Nie wiem co sie dzieje, Juno 5
+* Butler obserwował dokładnie kolumnę przez celownik
+<Butler> Carter, widzisz coś dokladniej przez tą swoją patrzałkę?
+* Jack_Carter przypatruje sie dokładniej
+* Jay_J skierował celownik w stronę maski pierwszego pojazdu w nadjeżdżającej kolumnie, pierwszej półcięzarówki
+<Jay_J> Connors, raport, czy na pojazdach są ludzie, czy są uzbrojeni, wszystko!
+<Jack_Carter> Nie, tylko to, że to amerykańska kolumna
+<Jack_Carter> Są za daleko
+* Trevor_Connors patrzy przez okular na te 3 pojazdy
+<Trevor_Connors> co widac? ))
+* Jack_Carter patrzy co sie dzieje w wiosce
+<Jay_J> Connors, zapytaj o te kolumnę bazę, są tu za wcześnie!
+<Jack_Carter> Właśnie? ))
+<Trevor_Connors> Uwaga, Juno 5
+<Trevor_Connors> Uwaga, Juno 5
+Trevor_Connors: polciezarowki nie sa pewne, sa w nich ludzie, ale nie widzisz broni.
+
+<Trevor_Connors> Baza podaje ze to NIE JEST konwoj, ten dalej ma opoznienie
+<Trevor_Connors> Sprawdzcie drugi raz
+* Jack_Carter przyglada sie kierowcom
+<Jack_Carter> Przyjąłem
+<Trevor_Connors> Jay_J, nie widze broni na tych polciezarowkach
+<Trevor_Connors> wygladaja jak cywile
+* Butler bierze na cel kierowcę pierwszego pojazdu
+<Jay_J> Kompletne popolupo
+<Butler> Connors, jakie rozkazy z bazy? Melduj, że mam ich w zasięgu ognia
+* Jay_J zaczął cicho klnąć
+<Trevor_Connors> Mamy nie otwierac ognia, sprawdzaja w tej chwili co sie dzieje
+Butler: ale ktorego? Ty widzisz humvee a nie tamten konwoj, on jest za Toba, konwoj polciezarowek widza oni
+
+<Jack_Carter> Erq, co z tymi kierowcami, to amerykanie? ))
+<Butler> Erq: no chodzi mi o tego Humvee
+* Jay_J wziął na cel maskę pierwszego pojazdu "partyzanckiego" konwoju
+<Trevor_Connors> konwoj humvee --- wiocha --- pickup --- konwoj polciezarowek ))
+Jack_Carter: amerykanskie mundury, tak, za humveem wyjezdzaja jeszcze dwa ze stanowiskami strzeleckimi, a za nimi ciezarowka
+
+<Jay_J> Juno 6, jak blisko jest ten wasz konwój?
+<Jack_Carter> Jak blisko jest? ))
+Butler: aha, w takim razie wygladaja ok
+
+<Jay_J> Connors, raportuj do bazy, niech żesz tu przyslą jakiegoś bezzałogowca do obserwacji pola walki
+Jack_Carter: humvee zwalnia, caly konwoj zatrzymuje sie, bydlo zastawilo cala droge.
+
+<Jay_J> Bo jak na razie, to chaos
+<Trevor_Connors> Przyjalem
+<Jack_Carter> Juno 5, bydło zablokowało trasę konwoju
+* Jack_Carter sprawdza co w wiosce
+* Butler mierzy cały czas w okolicach konwoju z Humvee
+<Jack_Carter> Erq, jakies zmiany? ))
+* Jay_J uspokoił oddech i czekał na rozkazy
+<Trevor_Connors> Jay_J, badz gotow do zatrzymania tej kolumny polciezarowek
+<Butler> Connors, co wchodzi w skład naszego konwoju
+<Jack_Carter> O co tu chodzi?
+* Jay_J wycelował w maskę pierwszego pojazdu w kolumnie
+<Trevor_Connors> Baza nie ma kontaktu z konwojem
+Carter, Butler - Z humvee wysiadl jeden z zolniezy i zaczal wykrzykiwac na ludzi prowadzacych bydlo
+
+<Jay_J> Connors, proszę o pozwolenie na zatrzymanie kolumny
+<Trevor_Connors> Wstrzymaj ogien
+* Jack_Carter przygląda się scenie
+<Jack_Carter> Coś niedobrze mi to wygląda...
+* Butler przez lunete przyjrzał sie odznaczeniom żołnierza
+Butler: nic podejrzanego
+
+<Trevor_Connors> Juno 6, traktujcie ich jako nasz konwoj, mogli miec awarie sprzetu
+<Trevor_Connors> Wyglada na to ze nasi sa po prostu za szybko
+<Butler> Muszę miec bezpośrednie potwierdzenie
+<Trevor_Connors> Niemozliwe, Juno 6, nie mamy lacznosci z konwojem
+<Jay_J> Connors, nie są w stanie wywołać konwoju? I co z bezzałogowcami?
+Trevor_Connors: polciezarowki zwalniaja, sa jakies 300m od przeszkody na szosie
+
+Jack_Carter: z jednej chat wylatuje smuzka dymu, Humvee wybucha i przewraca sie na bok
+
+<Trevor_Connors> Chyba nie dostaniemy tego bezzalogowca
+<Jack_Carter> Zasadzka!
+<Butler> ATAKUJA! ATAKUJA KONWUJ!
+<Jack_Carter> Butler! Tamta chata!
+<Trevor_Connors> Jay_J, mamy wrogow w wiosce
+* Butler namierzył wiskę z dymem
+<Trevor_Connors> Traktuj polciezarowki jako wrogie
+* Butler kierował sie koordynatami Cartera
+<Trevor_Connors> Cel: pierwszy pojazd
+Trevor_Connors: na Toyocie jest zamontowany karabin, byl pod przykryciem, teraz ostrzeliwuje naszych
+
+<Jay_J> Zrozumiałem
+* Jack_Carter szuka celów
+<Trevor_Connors> odleglosc, 300m
+<Trevor_Connors> Cel, 146 stopni
+* Jay_J wymierzył w maskę pierwszego pojazdu i strzelił, by zatrzymać pojazd
+Butler: nic nie widac, okno jest z innej strony
+
+<Trevor_Connors> Jay_J, wyeliminuj strzelcow na pickupach
+<Jay_J> Zrozumiałem
+* Trevor_Connors przeszukuje pole bitwy w poszukiwaniu wyrzutni RPG
+<Trevor_Connors> okularem ))
+* Jack_Carter szuka uzbrojonych przeciwników w polu widzenia
+Jack_Carter: k100
+
+* Jay_J zmienił cel na pierwszego strzelca z brzegu, wziął oddech, wypuścił powietrze i oddał strzał w strzelca
+Jay_J*
+
+<Butler> Carter! Do cholery! Namiary!
+<Jack_Carter> d100
+<Jay_J> d100
+<Jack_Carter> Co jest? ))
+<Jack_Carter> SZUKAM!
+Z polciezarowek wyskoczyli mezczyzni z karabinami, dwoch facetow, ktorzy przeprowadzali bylo, padlo na ziemie
+
+<Jack_Carter> d100
+<Jaskier> Jack_Carter, (d100) 34.
+<Jay_J> D100
+<Jay_J> d100
+<Jaskier> Jay_J, (d100) 34.
+<Jay_J> Connors, raportuj do bazy, mamy uzbrojonych przeciwników
+Jeden z drugiego humvee dostal, Jack_Carter - zauwazyles snajpera w oknie jednej z chat
+
+<Jack_Carter> Jest snajper!
+<Butler> Gdzie?
+<Jack_Carter> Tam! 
+* Jack_Carter daje namiary
+<Butler> ?!
+* Butler normalnie przez chwilę zwątpił
+* Butler kieruje się namiarami
+<Jack_Carter> Okno, tamta chata
+<Jay_J> Connor, raportuj, kto z tej bandy jest najgroźniejszy twoim zdaniem? jacyś strzelcy wyborowi?
+<Trevor_Connors> Jay_J, pilnuj strzelcow KM'ow
+<Trevor_Connors> Szukam RPG
+Trevor_Connors: widzisz, ze posrod pasazerow ciezarowek sa czarnoskorzy, jeden krzyczy cos do krotkofalowki
+
+<Jack_Carter> Namierzyłeś?
+<Trevor_Connors> ciezarowek konwoju czy bad guys? ))
+Butler: widzisz w zasadzie tylko koniuszek broni w ciemnym oknie
+
+<Jay_J> Erq, umknęło Ci to, że strzeliłem? ))
+Jay_J: glowa stzrelca rozprysla sie, a cialo osunelo na ziemie., Samochod jest unieruchomiony.
+
+* Butler zabrał oddach, wycelował prosto w lufę, starał się tam, gdzie teoretycznie powinien siedzieć snajper i oddał strzał
+<Jay_J> Jeden mniej, Connors, widzisz innych strzelców na pojazdach?
+* Jay_J zlustrowal pojazdy sam, na wszelki wypadek
+Butler: firanka zafalowala, bryzgnela krew.
+
+<Jack_Carter> Zdjęty, szukam dalej
+<Trevor_Connors> Jay_J, strzelaj wedlug uznania
+<Trevor_Connors> Daj naszym chwile oddechu
+* Jay_J wziął na cel pierwszego z brzegu strzelca z AK i strzelił, mimo kompensatora odrzut dał mu się we znaki
+Zolnierze z humvee ostrzeliwuja sie, Jack_Carter - dostrzegasz dwoch mezczyzn wynoszacych z chaty RPG, jeden kleka - przymierza sie do strzalu
+
+<Butler> Jeden padł, powtarzam, jeden sniper wroga padł
+<Jack_Carter> RPG, 60 stopni w lewo, 2 wychodzi z chaty
+* Butler wycelował, przymierzył i strzelił mocno trzymając karabin
+* Trevor_Connors szuka potencjalnych dowodcow, wyrzutni RPG, KM'ow przez okular
+Jay_J: drugi osobnik wgramolil sie na tyl toyoty i zlapal za karabin maszynowy
+
+* Jay_J wymierzył w głowę i znowu strzelił, klnąc, gdy odrzut znowu "kopnął"
+Butler: jednoczesnie z Twoim strzalem wylecial pocisk z RPG. Strzelec padl na schody, pocisk trafil w ziemie, przed humvee, samochodem rzucilo
+
+<Trevor_Connors> Jay_J, wyeliminuj podstawe tego dziala, oni beda sie caly czas rzucac do tego KM'a
+<Jack_Carter> Zdjęty, jeszcze drugi
+<Butler> Strzelec RPG, padł, powtarzał, padł
+Jay_J: cialem rzucilo, facet zniknal z pokladu toyoty
+
+<Butler> Carter! Jak sytuacja?
+<Jay_J> Connors, wezwij żesz wsparcie śmigłowców szturmowych, niech Apache zrobią z tych pojazdów trociny
+<Jay_J> Sami możemy tak strzelać do jutra, a konwój się wykrwawi!
+<Trevor_Connors> Przyjalem
+W wiosce ciezko rozroznic kto cywil, kto terrorysta, co chwile zdaje Ci sie ze ktorys ma bron
+
+<Jack_Carter> Za dużo tam ludzi
+Trevor_Connors: pomiedzy ciezarowkami widzisz dwoch czarnoskorych z radiostacja
+
+* Jack_Carter rozgląda się uważnie
+* Jay_J znowu wziąl głęboki oddech i uspokoił się, szukając następnego celu, "Connors, raportuj, cele"
+<Trevor_Connors> Apache nie bedzie, ale leca do nas oddzialy szturmowe
+* Butler próbował obrać na cel drugiego mężczyznę z RPG
+<Trevor_Connors> Mamy ich przytrzymac do ich przylotu
+<Butler> Carter! Gdzie jest drugi?
+<Jay_J> Po cholerę?! Tu trzeba cięzkiego sprzętu! Gdzie oni wysadzą to wsparcie?! I raportuj mi cele!
+<Jay_J> Posadzą Chinooka na płaskim polu? Zestrzelą go!
+<Trevor_Connors> Nie ja jestem dowodztwem
+<Jack_Carter> 8 stopni w lewo, biegnie
+Jack_Carter: trzy osoby sposrod wioskowych zaczelo biec w kierunku konwoju z kalasznikowami, otworzyli ogien
+
+<Trevor_Connors> Jay_J, masz strzelca AK, cel, 280m, 140 stopni
+<Jay_J> Czekaj, a Chinook nie będzie miał osłony Apache tak czy inaczej?
+* Jay_J wziął rzeczonego na cel, znowu głęboko odetchnął, przycelował i oddał strzał
+<Jack_Carter> Szybciej do diabła!
+<Trevor_Connors> Jay_J, mamy 2 bandytow z jakas radiostacja
+Jay_J: tym razem w serce, cialo potoczylo sie w dol pobocza
+
+<Jay_J> Connors, pozycja
+<Trevor_Connors> wrogi konwoj, z tylu Forda
+<Butler> Carter! RAPORT! CELE!
+<Trevor_Connors> cel, 290m
+<Trevor_Connors> 142 stopnie
+<Jack_Carter> Trzy cele z Ak-47, 15 stopni w prawo
+Butler: kolejne RPG - okno jedynej pietrowej chaty w wiosce
+
+* Jay_J zlustrował teren i przyjrzał się rzeczonym, Erq, opisz mi gości z radiostacją? ))
+* Butler wycelował, zebrał oddach i wystrzelił zaliczając poważniejszy odrzut
+Jack_Carter: na szosie kiepsko, poza masakra bydla, ktore zdezorientowane rzuca sie gdzie popadnie, widzisz co najmniej pieciu martwych naszych
+
+<Jack_Carter> Zaraz! RPG, pietrowa chata! 5 stopni w prawo
+<Jack_Carter> Mówiłem żebyś nie narzekał na spokój!
+Butler: pocisk tylko syknal w tlumiku, eksplozja wewnatrz pokoju upewnila Cie, ze tam juz jest spokojnie.
+
+Jack_Carter: jeden, potezniejszy, ciagle krzyczy w sluchawke, drugi trzyma pistolet, pilnuje radiostacji
+
+<Jack_Carter> Teraz zajmij się tymi z Ak, 10 stopni w prawo
+Jay_J*
+
+* Butler zmienił kąt i poszukał celu
+<Butler> MAM
+* Jay_J uśmiechnął się złosliwie, przycelował w radiostację i strzelił
+Za drzewami, po lewej stronie zbocza slychac juz helikopter.
+
+* Butler oddał strzał, tym razem nie odczuwając takiego kopnięcia jak poprzednio
+* Jay_J aż zgłupiał, gdy usłyszał JEDEN helikopter
+Jay_J: eksplodowala razem z nadgarstkiem jednego z czarnoskorych, drugi rzucil sie plasko na ziemie, nie widzisz go za samochodem
+
+<Trevor_Connors> Jay_J, lap sie za okular
+<Jay_J> Jeden?! Wysyłają zespół szybkiego reagowania? Gdzie eskorta!
+<Jack_Carter> jeden stopien w prawo
+* Trevor_Connors zdejmuje okular i podaje go Jay_J
+<Jay_J> zostaw mi radio do kontaktu z baza, bo nie wiem, jak to zrobisz celując
+* Jay_J odsunął się od broni i chwycił HK416 należące do Connorsa
+* Trevor_Connors odklada radiostacje
+Butler: Udalo Ci sie przestrzelic potylice jednego i kregoslup drugiego afganczyka, obaj wpadli na cywilow
+
+* Trevor_Connors lapie sie za giwerke Jay_J
+<Trevor_Connors> Jay_J, cele
+<Butler> Carter, jak dalej?
+* Jay_J podunął radio do siebie i przyjrzał się sytuacji na polu bitwy
+<Jack_Carter> 0,5 stopnia w lewo
+<Jay_J> Connors, zostalo 5 naboi w magazynku, tak tylko informuję
+Jack_Carter: widzisz jak w dwoch miejscach wioski grupki po trzech chlopakow rozklada mozdzierze
+
+<Trevor_Connors> Wiec daj mi 5 celow
+<Jack_Carter> 8 stopni w lewo, moździerz, spróbuj trafić w pocisk
+* Jay_J rozejrzał się po konwoju w poszukiwaniu strzelców z RPG
+Pierwszy mozdziesz wypalil z charakterystycznym gluchym stukiem, widzisz eksplozje na wzgorzu Trevora i Jay_J'a
+
+<Jay_J> Kurwa! znaleźli nas!
+* Butler wziął na cel jeden moździerz i zaczął ściągać po kolei
+Jay, Trevor_Connors - huknelo, zasypala was chmura kurzu i kamieni
+
+* Jay_J aż zadzwoniło w uszach, kaszlnął
+* Trevor_Connors rozejrzal sie
+<Trevor_Connors> Wynosmy sie stad!
+<Trevor_Connors> Juno 5, jestesmy pod ostrzalem, zdejmijcie te mozdzierze!
+Butler: udalo Ci sie sciagnac jednego. Skonczyl sie magazynek.
+
+<Butler> Cholera
+* Butler zaczał zmieniać magazynek
+Ponad lasem pojawil sie helikopter, Byl to Mi 8...
+
+<Butler> Carter, obserwuj! Zmieniam magazynek
+* Jay_J zerwal się, chwycił za radio i broń i ruszył jak długi ze wzgórza
+* Jack_Carter przygląda się załodze moździerza
+<Jay_J> Connors, za mną!
+...ktory otworzyl ogien z dwoch stanowisk, seria przeszla mniej niz pol metra od Butlera
+
+* Trevor_Connors zlapal za snajperke i pobiegl za Jack_Carter
+<Trevor_Connors> Jay_J* ))
+* Jay_J ruszyl ostro w bok i zaczął rozglądać się za jakąś pozycją ochronną
+<Jack_Carter> Pojawił się helikopter
+Jay_J: drugi pocisk mozdzierzowy, wyrwal mniejsze drzewa, wywrociles sie i sturlales gdzies w krzaki
+
+<Trevor_Connors> Przyjalem Juno 6
+<Trevor_Connors> 5* ))
+<Jack_Carter> 6 ))
+* Trevor_Connors rozejrzal sie za jakas osloniona pozycja
+* Butler przełądował i starał się ściągnąć pozostałych dwóch
+* Jay_J zerwal się na nogi i spojrzał na radio
+<Jay_J> Kurwa. KURWA.
+<Butler> CHOLERA!
+<Trevor_Connors> Jay_J, mow do mnie
+Trevor_Connors: nadlatujacy helikopter ostrzelal konwoj, zwolnil, seria przeszla obok Ciebie
+
+<Jay_J> Connors, straciliśmy kontakt z bazą!
+<Butler> Carter, nas tez mają, spadamy!
+<Trevor_Connors> Jay_J, musimy czekac na posilki, oni beda mieli radio
+<Jay_J> Pozbądź się pilota! Jakoś... nie wiem, jak, zrób cud!
+<Jay_J> Może nie byc posiłków, Chinook nie ma eskorty!
+* Trevor_Connors padl na ziemie, szukajac wzrokiem helikoptera
+<Trevor_Connors> Daj mi namiar
+<Jack_Carter> do lasu!
+* Jack_Carter wstaje i zbiega ze wzgórza 
+* Jay_J przyklęknął i rozejrzał się za helikopterem
+* Butler zabrał karabin i stoczył się szybko ze zobacz, ruszył w stronę lasu
+* Trevor_Connors ustawil karabin i przylozyl oko do lunety
+Butler: Szczesliwie udalo Ci sie dostac jednego z operatorow mozdzierza. natychmiast ojawil sie drugi
+
+<Jay_J> Juno 5, Juno 5, tu Juno 6, straciliśmy kontakt z bazą, opuśćcie pozycję i zwijajcie się w bezpieczne miejsce!
+<Jay_J> Bo was tam wystrzelaja jak kaczki!
+* Jay_J szukał gorączkowo helikoptera przez lornetkę
+<Jack_Carter> Przyjąłem, właśnie spierdalamy
+<Trevor_Connors> Jay_J, wystaw mi tego cholernego Mi
+Butler: droge odciela Ci seria podwojna z MI 8
+
+Trevor_Connors: widzisz operujacych przy mozdzierzu jak na dloni
+
+* Butler padł
+Jay_J: widac go, nadlatuje.
+
+<Butler> Juno-5, Juno-5! Jestem pod silnym ostrzałem.. jestem...
+* Trevor_Connors bierze na oko sam mozdzierz i oddaje strzal z rusznicy
+<Jack_Carter> Kurwa! Zdejmik ktoś ten helikopter!
+* Butler padł z twarzą w piach, jak znowu nadleciał helikopter
+<Jay_J> Connors, Helikkopter jest nad wioską, 10 stopni na zachód, masz go prawie na wprost! Wal w pilota!
+* Jack_Carter padł na ziemię
+* Jay_J przewiesił lornetkę na szyi i chwycił za karabinek
+* Trevor_Connors wzial oddech, namierzyl pilota helikoptera
+* Trevor_Connors wypuscil powietrze i oddal strzal
+Trevor_Connors: Poszedl strzal, helikopter nie zmienil kursu
+
+* Butler odwróćił się na plecy i sam wymierzył w pilota, gdy ten znowu nadlatywał
+* Jay_J bardziej przykucnął
+Trevor_Connors: drugi strzal, pekla szyba od strony pilota, helikopter zachwial sie, zmienil kurs, dwie serie ida po ziemi w Twoja strone
+
+* Trevor_Connors turla sie w bok
+* Jay_J padł na glebę za jakąś skałą
+<Jay_J> Connors, żyjesz?!
+Butler: Twoj strzal zszedl po pancerzu
+
+Mozdzierz: humvee wybuchl zabijajac zaloge
+
+* Trevor_Connors wypluwa piach
+* Jack_Carter czołga się w stronę butlera
+<Trevor_Connors> zyje
+<Jay_J> Kurwa! 
+<Trevor_Connors> dawaj tego Mi
+* Jay_J chwycił za lornetkę i wychylił się zza skały, szukając Mi8
+<Jay_J> jest gdzieś za nami!
+<Trevor_Connors> Juno 6, zajmiemy sie helikopterem. za wszelka cene uciszcie te mozdzierze
+* Butler zaczął się czołgać w stronę lasu
+<Trevor_Connors> Kurwa jego
+Jack_Carter: wybuch mozdzierzowego pocisku, wyrzucilo Cie na metr w gore, wpadles do stawu
+
+<Butler> Nie mamy pozycji
+<Trevor_Connors> Jay_J, dawaj mozdzierz
+<Butler> JASNA CHOLERA!
+<Trevor_Connors> poczekamy na drania
+<Butler> Carter chyba dostał
+* Jay_J wychylił się w drugą stronę i poszukał wzrokiem moździerza
+<Jay_J> Ja pierdzielę
+* Jack_Carter próbuję wydostać się z wody
+Jay_J: sa do Ciebie bokie, nie wszystkich widzisz
+
+* Butler przeczołgał się dalej obok wydmy, żeby mieć na widoku moździerze
+Jay_J: wylazles na brzeg, w niskie trzciny, cala lewa polowa ciala Cie piecze zywym ogniem
+
+Butler: za wydma masz ich jak na ganku
+
+<Jay_J> Juno 6, Juno 6, czekamy na MH-47 ze wsparciem, oni muszą mieć działające radio. Jak go zobaczycie, osłaniajcie go za wszelką cenę, powtarzam, za wszelką cenę, SEALs lecą do nas!
+<Jay_J> Connors, 40 stopni na wschód, na polu, moździerze, nie wszystkie widać, część za budynkami, bij po broni
+* Butler rozstawił sprzęt i nie czekając, zaczął robić porządki i czystkę w szeregach przeciwnika
+<Jack_Carter> Działa mi komunikacja? ))
+* Trevor_Connors odetchnal i wypalil prosto w lufe mozdzierza
+* Jack_Carter oddycha cięzko
+<Jack_Carter> Żyję, Butler, gdzie jesteś?
+* Butler nie odpowiadał, skupił się na celach
+MH-47 pojawil sie na horyzoncie jak na zawolanie, wlasnie znizal lot. Jay_J - po chwili zobaczyles gruby, ciemny dym i jego ukosny niestabilny lot
+
+<Jack_Carter> Kurwa, boli! Wszystko mokre!
+<Jay_J> O kurwa. 
+Butler: Padaja wierzgajac bezladnie konczynami. Nie mieli najmniejszych szans, Strzaly sa precyzyjne.
+
+<Trevor_Connors> Co sie dzieje?
+Jack_Carter: dziala komunikacja
+
+<Jay_J> Juno 6, Juno 6, Chinook na horyzoncie, jest trafiony jak nic, widze dym z jednego z wirników!
+<Butler> Juno-5, Juno-5, moździerze oczyszczone, wszyscy gryzą piach
+<Jack_Carter> Do diabła!
+<Jack_Carter> Butler, kieruj się do lasu
+Trevor_Connors: mozdzierzem rzucilo prawie podczas strzalu, zginelo trzech cywilow
+
+<Jay_J> Módlcie się, żeby Night Stalkers jakos posadzili maszynę!
+* Jay_J rozejrzal sie kontrolnie na boki
+<Trevor_Connors> Jay_J, szukaj tego helikoptera
+* Jack_Carter idzie w biegnie w stronę lasu
+* Trevor_Connors przeladowal magazynek
+Jay_J: helikopter jednak wyladowal, seals biegna w wyuczonym szyku
+
+* Jay_J rozejrzał się nad wioską w poszukiwaniu Mi-8
+* Butler ukryty pod wydmą rozglądał się za następnymi celami
+<Jay_J> Mamy wsparcie, mamy wsparcie! Tu Juno 5, tu Juno 5, SEALs, zgłoście się!
+Jay_J: jego ukosny lot w strone lasu wstazywal, ze z pilotem nie jest wszystko w porzadku. Jednak nie widziales eksplozji.
+
+* Jack_Carter zmienia kierunek, biegnie do Butlera
+<Jack_Carter> Zdjąłeś wszystkich? Czekaj, sam sprawdzę
+* Jack_Carter sam sprawdza
+Butler: pozostali na drodze, zdjales dwoch, a Seals wlasciwie porozstrzeliwali wszystkich pozostalych, nikt nie uszedl z zyciem.
+
+<Butler> Juno-5. Czysto, SEALS dokończyli robotę.
+Jack_Carter: Cztery osoby biegna w strone lasu, uciekaja, sa uzbrojone.
+
+<Jack_Carter> 4 cele 44 stopnie na zachód
+<Jack_Carter> Szybko, zanim wbiegną do lasu
+* Jay_J przykucnął z HK416
+* Butler odwrócił się szybko i wymierzył
+Jay_J: tez widzisz postacie biegnace w strone lasu.
+
+* Jay_J usmiechnął się i otworzył ogień pojedynczymi pociskami
+Butler: pierwszy przekoziolkowal miedzy drzewami, juz sie nie podniosl. Widziales jak glowa mu eksplodowala
+
+<Jack_Carter> 2 stopnie w prawo
+Jay_J: dorwales reszte, ostatniego doslownie miedzy drzewami.
+
+<Jack_Carter> Już nieaktualne
+* Jay_J chwycił za lornetkę i rozejrzał się w poszukianiu jakichś niedobitków
+<Trevor_Connors> Jay_J, jakies cele?
+<Jack_Carter> Daj mi karabin
+Slychac jeszcze pojedyncze strzaly na szosie, ale to Seals dobijali pochowanych w samochodach.
+
+* Jack_Carter rzuca Butelrowi lunetę
+<Jay_J> Connors, wygląda na to, że czysto.
+Cywile pochowali sie w chatach.
+
+<Jay_J> Możesz strzelać w chaty, to opowiedzą o nas w CNN, jak strzelamy do cywili
+Zapadla cisza, przerwana tylko dwiema eksplozjami podpalonych samochodow.
+
+<Trevor_Connors> Ok, pora sie zbierac
+<Jay_J> Czekaj, czekaj.
+* Butler ubrał lornetę i zabrał HK
+Seals zjawili sie w wiosce. Wysoki mezczyzna podszedl do Trevora
+
+- Porucznik Davies. Zbierz tu swoich ludzi.
+
+* Jay_J wstal, otrzepał się i wypluł gumę do życia, którą cały czas memłał podczas walki
+Seals bylo dwunastu liczac z porucznikiem.
+
+<Trevor_Connors> Sierzant Connors, witam. Juz daje komunikat.
+<Trevor_Connors> Juno 6, zbierajcie sie do nas
+<Jack_Carter> Przyjęliśmy
+<Trevor_Connors> Koniec imprezki
+Szesciu z nich przeszukiwalo chaty. Slychac bylo trzy strzaly w nieregularnych odstepach czasu.
+
+<Jack_Carter> A zaczynało się robić ciekawie...
+* Jack_Carter idzie w stronę wioski
+* Jay_J odkaszlnął i ruszył w stronę punktu zbiórki, klnąc cicho
+* Butler podszedł z wolna
+Porucznik usiadl na studni, wyjal papierosa, skrecil go dokladniej i odpalil.
+
+<Butler> Jak tam Carter? Masz jeszcze wszystkie członki?
+<Jack_Carter> Nie jestem pewien
+<Butler> Bo Cię ładnie wywaliło do góry
+- Dobra robota. Naprawde dobra.
+
+- Kto zdjal pilota?
+
+<Jack_Carter> Policzę, jak bedziemy mieli chwilę
+* Jay_J pokazał palcem Connorsa
+<Jack_Carter> Juno 6 meldują się
+* Trevor_Connors wyjal tyton, odkroil kawalek i zaczal zuc
+Jack_Carter: Jeden z Sealsow zaczal opatrywac Twoje poparzenia.
+
+* Jay_J podrapał się po brodzie i zastanowił się, kiedy w końcu będzie okazja ogolić się
+Porucznik poklepal Cie po ramieniu i uscisnal dlon, Connors
+
+* Trevor_Connors splunal
+<Jack_Carter> Było ciężko panowie, ale chyba się udało
+- Dobra, rozejrzyjcie sie po wiosce, zostajemy na noc.
+
+<Jack_Carter> Poruczniku? Jakie mamy straty?
+<Jay_J> Kocham te małe, wojskowe niespodzianki.
+Porucznik Davies dal kilka znakow swoim, gwizdnal i szostka przeszukujaca zmienila sie z tymi, ktorzy rozstawili sie obok.
+
+* Trevor_Connors wzruszyl ramionami i rozejrzal sie za najwyzszym budynkiem z plaskim dachem
+<Jay_J> Connors, czekaj
+<Jay_J> Nie lepiej w jakims oknie?
+Sciemnialo sie powoli. Zaczynala sie szarowka.
+
+* Jack_Carter skrzywil się, kiedy żołnierz dotknął oparzeń
+<Trevor_Connors> te armaty maja jakies stelaze ? ))
+* Jay_J wyciągnąl manierke z kieszeni na pasie oporządzeniowym i napił się wody
+<Trevor_Connors> bo jakos nie widze strzelania z biodra ))
+- Moi ludzie obstawia teren. Potrzebuje z Wami porozmawiac.
+
+<Jay_J> A my potrzebujemy sprawnego radia
+<Trevor_Connors> Jay_J ma racje
+Trevor_Connors: nie, tylko stopki do podpierania ))
+
+<Jay_J> Musimy zdać raport do JSOC, nie podlegamy pod dowództwo Armii
+Porucznik odebral znak od swoich i wskazal ta najwyzsza, pietrowa chate.
+
+<Jay_J> Ani marynarki
+<Butler> Carter, no przeładuj w końcu ten magazynek, bo pusty prawie
+- Spotkajmy sie tam za kwadrans. Wszyscy zrozumieli?
+
+<Jay_J> Zrozumiałem.
+Davies odszedl w strone domostwa.
+
+* Jack_Carter zaczyna przeładowywać
+* Butler włożył do ust spory kawał tytoniu do żucia
+<Jack_Carter> Dobra dobra, chociaż teraz chyba nie bedzie potrzebny
+<Trevor_Connors> Ale sie z tego zrobila chryja
+* Jay_J przetarł broń i podał manierkę Connorsowi
+* Trevor_Connors pokrecil glowa, patrzac na wraki
+<Butler> No tak, świetnie. A potem co, będziesz w biegu zmieniał?
+* Trevor_Connors wzial manierke i pociagnal lyk
+<Jack_Carter> Pić...
+<Jack_Carter> Jay_J daj...
+* Trevor_Connors podal Jack_Carter manierke
+<Jay_J> PRzecież macie wodę w camelbackach
+* Trevor_Connors rozejrzal sie, siegnal do wewnetrznej kieszeni munduru i wyjal mala buteleczke
+<Jack_Carter> Alleluja
+* Jack_Carter łapczywie pił wodę
+* Trevor_Connors golnal lyka i schowal
+<Trevor_Connors> Chodzcie chlopaki, nie dajmy naszym czekac
+http://erq.tbx.pl/Newest/767px-Navy_SEALs_in_Afghanistan_prior_to_Red_Wing.jpg To czesc oddzialu Daviesa, krzataja sie tu i owdzie, sprawdzaja teren, a kilku siadlo przy studni najzwyczajniej gadajac
+
+* Jay_J rozejrzał się ostatni raz, odpiął hełm z oporządzenia i nałożył go na głowę, po czym ruszył do wyznaczonego budynku
+* Trevor_Connors ruszyl za Jay_J
+Davies to czwarty od lewej
+
+* Jack_Carter skierował się za Treborem
+- SNAAJJPEEER!
+
+rozleglo sie za Wami
+
+* Trevor_Connors padl
+KOlej przy studni oplul sie krwia, drudi padl na twarz.
+
+<Jay_J> Kurwa!
+koles*
+
+<Trevor_Connors> Jay_J, szukaj szmaty
+* Jay_J zasunął z buta w drzwi pierwszej chatki z boku i wpadl do środka z bronią gotową do strzału
+<Jay_J> Connors, za mną!
+* Trevor_Connors zlapal za bron i pobiegl do chaty
+* Jay_J rozejrzał się po chatce
+* Butler walnął ryjem o ziemie natychmiast i zaczął czołgać się do nabliższej osłony
+Seals pochowali sie prawie natychmiast, cywile juz dawno pozamykali sie w swoich chatach.
+
+* Jack_Carter padł
+* Butler wpełz szybko do chatki
+<Butler> CARTER, szybko, tutaj
+<Jack_Carter> O kurwa
+* Butler skrył się obok ściany
+* Jack_Carter podpełz do chaty
+* Jay_J przykleknął w chatce i powiedział coś do radia
+<Jack_Carter> A jednak, dobrze było przeładować
+* Trevor_Connors starajac sie nie dac sie zauwazyc w oknach szuka schodow na pietro etc
+<Jay_J> Uważaj na cywili, Connors, tu każdy ma broń
+* Jay_J rozejrzal się, czy w chatce w ogóle ktoś jest
+* Butler znalazł u dołu kratke w chacie i wyjrzał przez przez lornetkę
+<Trevor_Connors> Te cholery moga miec tez jakies przejscia do tych domow
+<Trevor_Connors> Juno 6, miejcie oczy dookola glowy, przeciwnik moze byc w stanie uzyc sieci tuneli
+Trevor_Connors: bez problemu znajdujesz schody
+
+<Jack_Carter> Miejmy nadzieję, że nie mają
+<Jay_J> Juno 5, Juno 5, strzał padl od strony szosy, tam wypatrujcie
+* Trevor_Connors wyjmuje pistolet i idzie na gore
+* Jay_J pobiegł za Connorsem w szyku
+Butler: nic, teren czysty i spokojny, poza tym chmury ciemnego dymu z plonacych samochodow przeslaniaja widok
+
+<Butler> Nic nie widać, cholera
+* Butler sam tez się rozjerzał na jakieś schody w dół
+Butler: k100
+
+<Butler> d100
+<Jaskier> Butler, (d100) 81.
+<Jay_J> Connors,patrz na okna od strony szosy, już jest chyba wystarczajaco ciemno na przystawkę noktowizyjną
+Widzisz pod wzgorzem... cos, ksztalt
+
+* Jack_Carter odbezpiecza pistolet
+<Jack_Carter> Teraz przynajmniej nie jestesmy sami
+<Butler> Carter. Wzgórze, kierunek północny, 15 stopni w lewo
+* Butler spojrzał dokładniej
+* Jack_Carter odkłada pistolet, bierze karabin, celuje i strzela
+* Jay_J wbiegł na górę
+<Trevor_Connors> co widze na gorze? ))
+Jack_Carter: stzreliles. Cisza.
+
+<Trevor_Connors> wparowalismy tam juz we 2 z Jay_J ))
+Trevor_Connors: poprzewracane meble, skrzynie, kurz, nic wiecej
+
+<Trevor_Connors> okna? ))
+<Jay_J> Czysto!
+<Trevor_Connors> Czysto
+Jedno z okien peklo, rozbilo sie.
+
+* Butler wbiegł na piętro, żeby mieć lepszą widocznośc
+<Trevor_Connors> widac przez nie szose? ))
+<Jay_J> Kurwa!
+* Jack_Carter pobiegł za butlerem
+Trevor_Connors: tak, miedzy snopami dymu
+
+<Jay_J> Pod ścianę, już
+* Jack_Carter ustawił się przy oknie
+* Jay_J przesunął się tak, żeby go nie było widać z szosy
+* Trevor_Connors schowal sie z widoku
+<Trevor_Connors> Jay_J
+<Trevor_Connors> musisz mi go jakos wystawic
+<Jay_J> Dobra, przystawka noktowizyjna na broń, już, ja zobaczę, co da się zrobić
+* Trevor_Connors rozejrzal sie za jakims kijkiem czymkolwiek
+* Butler wyjrzał lekko z lornetką przez okno
+Trevor_Connors: pelno kawalkow desek, poreczy od foteli
+
+<Jay_J> Juno 6, Juno 6, Raportujcie mi sytuację, wiecie, gdzie on jest mniej więcej?!
+Butler: k100
+
+<Jack_Carter> Butler, raportuj
+* Trevor_Connors naklada noktowizyjna przeslone na lunete
+<Butler> d100
+<Jaskier> Butler, (d100) 39.
+* Jack_Carter zakłada na lunete noktowizor
+<Jack_Carter> Masz coś?
+* Jay_J wyjął z torby na udzie noktowizor i podłączył go do montażu na hełmie
+Butler: snop gestego dymu przeslania wiekszosc z Twojego pola widzenia.
+
+<Butler> Nic nie widać, wszędzie dym
+<Butler> Cholera
+Jeden z Seals przebiegl zza poukladanych stolow w krzaki. Nie dobiegl.
+
+* Trevor_Connors lapie porecz od krzesla i naklada na nia helm
+<Trevor_Connors> Jay_J, patrz uwaznie, nie bedzie drugiego podejscia
+<Jay_J> Zrozumiałem
+* Jay_J patrzy na hełm
+<Trevor_Connors> ZA OKNO
+* Butler wyjrzał ponownie na szosę, z innej strony
+* Trevor_Connors gromi wzrokiem
+* Jay_J wyjrzal delikatnie
+* Trevor_Connors wychyla helm na poreczy, tak zeby byl widoczny dla ew. snajpera
+Butler: k100
+
+<Butler> d100
+<Jaskier> Butler, (d100) 92.
+Trevor_Connors: lekko spanikowales, bo snajper strzelil obok helmu. Spudlowal, lub wiedzial.
+
+<Trevor_Connors> Jay_J, widziales cos?
+Butler: dostzregles w koncu w zaroslach... http://erq.tbx.pl/Newest/Camouflaged-sniper.jpg za szosa.
+
+* Jay_J spojrzal po ścianie w noktowizorze, gdzie trafił pocisk, żeby ustalić m.w. kierunek strzału
+Jay_J: to musi byc spomiedzy samochodow, zarosla na poboczu
+
+<Jack_Carter> Butler, widzisz coś?
+<Butler> Carter! Szosa, południowy-zachód. Lekko 5 stopni w prawo - Wrogi sniper. Trudno widoczny.
+<Jack_Carter> przyjąłem
+* Trevor_Connors lapie za bron i rusza do innego okna, zeby moc stamtad oddac strzal
+* Jack_Carter przymierza się i strzela w podanym kierunku
+<Jay_J> Connors, zarośla na poboczu, okolice samochodów
+<Jay_J> Juno 6, raportujcie mi!
+* Jack_Carter wraca do poprzedniej pozycji
+Dwa strzaly jeden po drugim, okna sie rozsypaly.
+
+<Jack_Carter> Trafiłem?
+<Trevor_Connors> Kurwa, dwoch!
+<Jack_Carter> Juno 5, mamy snajpera
+<Jay_J> No brawo, my też! GDZIE?!
+<Butler> Juz dwóch. Jeden za szosą tez lez<-
+<Trevor_Connors> Juno 6, zdjeliscie tego na poboczu?
+<Butler> Tego za szosą, na południowych-zachodzie
+Jack_Carter: Po Twoim strzale, snajper odpowiedzial ogniem. Nie trafiles.
+
+<Trevor_Connors> Jay_J, musisz mi go wystawic jak najdokladniej
+<Trevor_Connors> Sprobujemy tego
+<Jack_Carter> Szlag
+<Jay_J> Connors, czekaj...
+* Jay_J gadał przez radio
+* Trevor_Connors obejrzal sie na Jay_J
+<Butler> Carter! Działaj! Czego on jeszcze dycha?!
+<Jack_Carter> Nie mogę oddać strzału bo mnie zdejmie, nie spieszy mi sie do Raju
+* Butler chował sie za meblami
+* Trevor_Connors poprawil chwyt na broni, zdenerwowany
+<Jack_Carter> odwróc jakoś jego uwagę
+<Jay_J> Juno 6, czekajcie
+* Jay_J chwycił mocniej za HK416
+<Jay_J> Kto jest u was spotterem?!
+<Jack_Carter> Ta, jakby co innego nam pozostało
+<Jack_Carter> Butler
+Seals zaczeli zmieniac pozycje i strzelac, polecial ogien z granatnikow. Zrobilo sie goraco w strone szosy
+
+<Jay_J> Niech otworzy ogień w tamtą stronę! SEALs położą ogień zaporowy!
+* Jay_J wychylił sie przez okno i sam wygarnął serię
+<Trevor_Connors> Jay_J, wystaw mi go
+* Trevor_Connors poprawia bron i delikatnie wychyla sie
+* Jay_J chwycił za lornetke i rozejrzał się gorączkowo
+* Jack_Carter wychyla się i strzela jeszcze raz
+Jay_J: k100
+
+<Jay_J> d100
+<Jaskier> Jay_J, (d100) 81.
+Jack_Carter: k100
+
+<Jack_Carter> d100
+<Jaskier> Jack_Carter, (d100) 80.
+<Butler> Carter! Co z tym cholernym snajperem?!
+<Jack_Carter> Zdjęty! Chyba
+Obaj patrzyliscie w dobra strone, ale trudno bylo odroznic kepy trawy od jego sylwetki
+
+<Jay_J> Connors, sam się też rozglądaj!
+* Trevor_Connors stara sie nawet nie drgnac, probujac dojrzec cos w lunecie
+* Jay_J chwycił za broń i wywalił krótkimi seriami magazynek do końca
+<Jack_Carter> Butler, jesteś cholernym spotterem! Sprawdź!
+Szarowka przeszla w polmrok. Strzal od strony szosy. Jay_J - zarwales w lewy obojczyk
+
+<Butler> No przecież mówiłem Ci gdzie jest!
+* Butler spojrzał jeszcze raz
+* Trevor_Connors patrzyl w strone szosy, widzial cos?
+<Jack_Carter> a ja tam kurwa strzeliłem!
+* Jay_J padł na glebę
+<Jay_J> Kurwa!
+* Jack_Carter wypala jeszcze raz
+* Jay_J spojrzal na kamizelkę, czy wyłapała to
+Trevor_Connors: k100
+
+<Trevor_Connors> d100
+<Jaskier> Trevor_Connors, (d100) 69.
+Jay_J: tak, ale obojczyk zlamany
+
+* Jay_J zaczął klnąć jak szewc
+<Jack_Carter> Juno 5, co sie u was dzieje?
+Trevor_Connors: nic na co moglbys postawic do strzalu
+
+<Butler> To strzel jeszcze raz!
+<Jay_J> Juno 6, dostałem, kamizelka wylapała strzał, boczna płytka pancerza do wyrzucenia
+<Jay_J> a ja mam chyba złamany obojczyk
+<Jack_Carter> U diabła
+Seals kontynuuja ogien, bez efektu, Co raz wybucha pocisk granatnika rzucajac wrakami w gore
+
+* Jack_Carter składa się i strzela piąty raz
+* Jay_J zaczął klnąć jeszcze bardziej
+Jack_Carter: k100
+
+<Jack_Carter> d100
+<Jaskier> Jack_Carter, (d100) 27.
+* Trevor_Connors stara sie nawet nie drgnac, zeby nie dac sie zauwazyc snajperowi, i lustruje krzaki
+Jack_Carter: spanikowales, rece Ci sie trzesly, pocisk poszedl sporo ponad szosa
+
+<Jack_Carter> Do diabła
+Trevor_Connors: k100
+
+* Jack_Carter szuka innego miejsca do oddania strzału
+<Trevor_Connors> d100
+* Jay_J wymienił magazynek w broni, pukając nim najpierw w hełm na szczęście, przeładował i wychylił się, oddając dwie krótkie serie
+<Butler> Carter! Co się kurwa dzieje?!
+<Jaskier> Trevor_Connors, (d100) 93.
+* Butler stał w kącie i starał się coś wypatrzeć
+<Jay_J> Juno 6, WIDZICIE GO?! GDZIE?!
+<Jack_Carter> Nie trafiłem! Ten skurwiel jest dobrze zamaskowany
+Trevor_Connors: jak na dloni. jak motyl na galezi przy bezchmurnym niebie: http://erq.tbx.pl/Newest/sniper2.jpg
+
+* Trevor_Connors odetchnal, wymierzyl, i strzelil prosto w glowe
+* Jay_J padł na glebę, odczekał chwilę
+k100
+
+<Trevor_Connors> d100
+<Jaskier> Trevor_Connors, (d100) 100.
+* Butler dalej się rozglądał
+* Jay_J klęczał
+Zdjales obu. Za to bedzie medal. Czysto, przez lewy oczodol.
+
+<Jay_J> Connors, raportuj
+<Trevor_Connors> Mam ich
+<Jay_J> Martwi?!
+<Jay_J> Juno 6, przerwać ogień!
+<Jack_Carter> Zrozumialem juno 5
+Upragniona cisza. Seals przerwali ogien i wycofali sie.
+
+* Trevor_Connors odetchnal, otarl pot z czola
+<Butler> Cholera, dalej nic nie widzę, przez ten dym
+* Jay_J cięzko oddychał i klnął na wszystko, na czym świat stał
+* Trevor_Connors odlozyl bron i podszedl do Jay_J
+<Trevor_Connors> Caly?
+<Jay_J> Bywało gorzej, w Bagdadzie kiedys przestrzelili mi nogę
+<Jay_J> Juno 6, udajcie się na miejsce zbiórki
+<Jack_Carter> Cholerni talibowie, nie moga dac sobie spokoj?
+<Jay_J> Connors, my też idziemy
+<Jack_Carter> Ok, idziemy
+* Jack_Carter idzie
+* Jay_J lekko utykając i klnąc co krok, ruszył na miejscee
+* Trevor_Connors zlapal za snajperke, nalozyl helm i ruszyl
+* Butler po drodze wymienił się z Carterem
+<Butler> Pora na zmianę
+* Butler zarzucił sobie na plecy karabin snajperki
+<Jack_Carter> me założył lunetę
+* Jay_J podniósł noktowizor na hełmie, gdy doszedł na miejsce
+W sporym pomieszczeniu, w podlodze pali sie ogien, przy nim przykucniety Davies, przy drzwiach jeden z oddzialu
+
+- Usiadzcie, nalezy Wam sie wyjasnienie.
+
+* Jack_Carter siada przy ogniu
+* Jay_J klapnął sobie
+- Wiem, ze nie podlegacie bezposrednio pod nas, ale kontakt z dowodztwem przerwany. Dopoki sie do Was nie odezwa, mamy troche czasu.
+
+<Jack_Carter> Więc słuchamy
+<Jay_J> Jak mają się do nas odezwać bez radia?
+<Jay_J> I czy sprawdziliście konwój? Czy ktoś przeżył od nas? Może mają tam radio?
+- Problem jest po stronie nadajnika, a nie odbiornika.
+
+* Jay_J już wiedział, co się dzieje
+<Jay_J> Góry?
+- Nie przezyl. A konwoj ma sie swietnie. Nadjedzie o swicie.
+
+Davies zanosil sie ostrym kaszlem. Wygladal blado.
+
+<Jay_J> A pan jest cały?
+* Jay_J kontrolnie zerknął na CIRASa porucznika
+* Butler wyjrzał na chwile przez okno, po czym usiadł przy ścianie, nieopodal ogniska
+* Trevor_Connors sprawdzil ile zostalo mu amunicji
+Davies kiwnal tylko glowa.
+
+* Butler przełądował magazynek i postawił broń po prawej, obok siebie - pod ścianą
+- To podpucha, nie mozna bylo ryzykowac takiego sprzetu, kiedy prawdopodobienstwo zasadzki bylo ponad 80%
+
+* Trevor_Connors odlozyl na bok 3 ocalale magazynki
+* Jay_J pokiwał głową
+Davies byl caly, zadnych ran postrzalowych. Gdy znowu zgial go kaszel, na podlodze pojawila sie krew.
+
+<Trevor_Connors> Mi to wyglada na co najmniej zlamane zebro
+* Trevor_Connors pokrecil glowa
+<Jay_J> dostal pan?
+- Jest ok. Jestem caly.
+
+* Butler wsadził do ust kolejna portcje tytoniu do rzucia
+<Trevor_Connors> Czyli zamierzamy utrzymac ta wioske do przybycia konwoju?
+- O swicie dolaczymy do konwoju. Jesli nie bedziecie mieli rozkazow, dolaczycie do nas.
+
+* Jack_Carter smetnie patrzyl w ogien
+<Trevor_Connors> Swietnie.
+Davies plul krwia, ledwo lapal oddech.
+
+- Sluchajcie, nie wiem ile wiecie, ech..
+
+- Ten konwoj.. ta wioska to jego cel.
+
+<Jay_J> Ja pierdolę. Fantastycznie.
+<Jay_J> Co?!
+* Jay_J zerwał się na nogi i prawie upadł, jak poczuł ból w boku
+* Erq Davies padl na podloge bezwladnie. Seals spod drzwi rzucil sie do niego, zeby mu pomoc.
+* Butler nasłuchiwał wyraźnie już poddenerwowany
+Jack_Carter: odezwaly sie Twoje poparzenia.
+
+<Jack_Carter> Zajebiście, co za niespodzianka
+* Jay_J podbiegł do porucznika
+<Trevor_Connors> Czyli zasadniczo
+<Jay_J> Ułożyć go jakoś!
+* Jack_Carter dotyka poparzonego boku i jęczy
+<Jack_Carter> Au.
+<Trevor_Connors> Stoimy wlasnie na pierwszej linii frontu
+<Trevor_Connors> Swietnie.
+* Jay_J szarpnął za sznurek na boku kamizelki porucznika i ta rozpadła się na dwie części
+* Jay_J zrzucil kamizelkę z Daviesa
+Jay_J: porucznik byl nieprzytomny, krew leciala mu z ust,nosa uszu i oczu
+
+<Jay_J> Co jest?!
+Jay_J: patrzyles na twarz porucznika, krew kapala mu na twarz...
+
+<Jack_Carter> Co się kurwa dzieje?
+<Jay_J> Odsunąć się!
+<Trevor_Connors> Co do..
+* Jay_J odsunął się sam i nałożył jednorazowe rękawiczki z małej apteczki na kamizelce
+<Jack_Carter> Jest tu medyk?
+* Butler aż odskoczył pod inną ścianę
+<Jack_Carter> Niech ktoś po niego biegnie!
+* Trevor_Connors odwrocil sie do jednego z oddzialu SEAL
+<Trevor_Connors> Co mu sie kurwa stalo!?
+<Jay_J> Wezwijcie tu kurwa medyka z SEALs!
+<Trevor_Connors> I dawajcie tu medyka!
+Trevor_Connors: Seals na ktorego spojrzales mial zakrwawione usta, sam krecil glowa i nie rozumial
+
+<Jay_J> ?!
+<Butler> Ej... co tu kurwa jest grane?
+<Jack_Carter> Co tu się kurwa dzieje?
+* Trevor_Connors odsunal sie przerazony
+* Jay_J odwrócil się do swoich
+<Jay_J> odsuńcie się od nich!
+* Trevor_Connors wyjal pistolet
+* Butler stał daleko z tyłu, oparty o drzwi
+* Jay_J podniósł broń
+Zolnierz zatoczyl sie pod sciane i usiadl patrzac na swoj erece we krwi i na was
+
+* Jack_Carter wyciaga pistolet
+* Trevor_Connors przylozyc do ust kawalek materialu
+<Jay_J> Carter, Connors, nałóżcie maski przeciwgazowe
+* Jack_Carter zakłada maskę
+* Trevor_Connors naklada maske
+<Jay_J> i rękawiczki z apteczek podręcznych, już
+* Trevor_Connors robi co mowi Jay_J
+* Jack_Carter wyciaga i zakłada rekawiczki
+Uslyszeliscie walenie w drzwi. Byly zaryglowane przez ochroniaza
+
+<Jack_Carter> Do diabła, atak biologiczny?
+<Jay_J> a teraz osłaniać nas, już
+<Jack_Carter> Kto tam?!
+<Trevor_Connors> Butler, Jack_Carter
+* Jay_J sam odsunął się pod ścianę i nałożył maskę p-gaz
+<Trevor_Connors> patrzcie na okna
+* Butler złapał za leżące pod ścianą HK
+Wszyscy macie maski? ))
+
+<Trevor_Connors> Jay_J, kryj mnie
+<Jay_J> Butler, ubierz maskę i rękawiczki!
+* Jack_Carter zbliża się do okna
+* Trevor_Connors otwiera drzwi, mierzac z pistoletu
+* Jay_J skończył ubieranie odzieży ochronnej, poprawił hełm i wycelowal w drzwi
+* Butler założył szybko i wycelował w strone drzwi
+Trevor_Connors: jakas afganska staruszka z corka, gadala cos niezrozumiale
+
+<Trevor_Connors> O kurwa
+* Trevor_Connors rozejrzal sie za maskami
+* Butler coś się słabo poczuł i aż się opartł o ścianę
+* Jack_Carter podbiegł do Butlera
+<Jack_Carter> Co Ci jest?
+<Trevor_Connors> Jay_J, znajdz mi jakies maski!
+* Trevor_Connors pokazal staruszce na maske, znaczaco oddychajac
+<Jay_J> Skąd ja ci je wezmę! Trzymać je z daleka stąd!
+Babka wymachiwala i pokazywala za siebie na podworze
+
+* Jay_J pokazal im ręką, żeby się odsunęły
+* Trevor_Connors wyjrzal tam, gdzie pokazywala starucha
+<Butler> Nie wiem, coś mi się w głowie zakręciło
+<Jay_J> Siedźcie tu wszyscy!
+Corka szlochala, byla spanikowana
+
+<Butler> Ale chyba już lepiej
+<Butler> Tak myślę
+* Butler zakaszlał lekko
+<Jack_Carter> Dasz radę?
+Trevor_Connors: na placu w centrum wioski lezalo pieciu Seals
+
+<Jack_Carter> Wyrzućcie je stąd
+<Jay_J> Connors, co sie dzieje?!
+<Trevor_Connors> Martwi...
+* Trevor_Connors obejrzal sie na Jay_J przerazony
+<Jay_J> Dobra, koniec tego dobrego
+<Jay_J> Wywalić je stąd
+<Jay_J> Zabarykadować drzwi
+* Butler aż usiadł
+Butler: gryzl Cie dym z ogniska, ktorego sie nawdychales. Blizej swiezego powietrza jest ok
+
+<Trevor_Connors> Ognisko?
+<Trevor_Connors> Czym oni je rozpalili?
+* Trevor_Connors patrzy na ogien
+Zolnierz, ktory siedzial pod sciana stracil przytomnosc
+
+<Trevor_Connors> I ZALOZCIE MU MASKE
+<Jay_J> Musimy natychmiastowo nawiązać kontakt z dowództwem
+<Jay_J> KOMU?!
+* Jack_Carter barykaduje drzwi
+* Trevor_Connors przeszukal ekwipunek SEAL'a i nalozyl mu jego maske
+<Jack_Carter> Niedobrze mi się to widzi
+* Jay_J podszedł do Daviesa i zobaczył, gdzie jego radio, przeszukał kamizelkę itp.
+<Jay_J> Musimy nawiązać kontakt z JSOC, ekspresem
+<Jack_Carter> Czułem że coś się stanie
+<Jack_Carter> czułem to
+Kilka osob jeszcze przyszlo, niektorzy probowali zabrac bron zolnierzom
+
+* Jack_Carter zaczęły drżeć ręce
+<Butler> EEe! Precz!
+* Jay_J strzelił w powietrze
+Jay_J: Davies mial mikrofon jak i Ty, stacja musi byc u kogos innego
+
+* Butler odgonił i grożąc lufa HK
+<Trevor_Connors> Ok, dosc tego
+<Jay_J> A, i zabrać SEALsom amunicję
+<Trevor_Connors> Butler, Jack_Carter, kryjcie nas
+<Jay_J> Oni już jej nie potrzebują
+<Jay_J> nam, mimo wszystko się przyda
+<Trevor_Connors> Jay_J, musimy znalezc to radio
+<Jay_J> Idziemy sprawdzić tych w centrum
+<Jay_J> Wiem
+<Jack_Carter> ok
+Trzech ucieklo., pozostali przygladali sie z oddali. Jakas dziewczyna podeszla blizej
+
+<Trevor_Connors> Miejcie oko na wioche
+* Jay_J klepnął Connorsa w ramię
+- mowie po angielsku. boimy sie. co sie dzieje?
+
+<Jack_Carter> jasne, idzcie juz
+* Trevor_Connors odwrocil sie do dziewczyny
+<Jack_Carter> Nic dziecko nic takiego
+<Jack_Carter> Buahaha
+<Jay_J> Idź do chatki, do tych dwóch w maskach, już!
+<Trevor_Connors> Gaz!
+* Jack_Carter zaśmiał się histerycznie
+<Trevor_Connors> Uciekajcie!
+* Trevor_Connors pogonil dziewuche
+* Trevor_Connors ruszyl gdzie mu pokazal Jay_J
+* Jay_J wybiegł z chatki i rozejrzał się na boki, po czym ruszył ekspresem do leżących w centrum
+<Jay_J> przeszukaj, radio i magazynki to podstawa
+<Jay_J> Jak ktoś ma na przykład kombinezony p-chem w torbach, to też świetnie
+Dziewczyna odepchnieta odsunela sie
+
+* Jay_J podbiegł do trupów
+* Butler rozglądał się miedzy ciałami
+<Jay_J> radio, radio, kurwa!
+* Jack_Carter przyglądał się ludziom
+<Trevor_Connors> Co sie dzieje w wiosce? na placu? ))
+<Trevor_Connors> jak to wszystko wyglada? ))
+* Jay_J nie przeszkadzało to zabrać trupowi ładownic z amunicją i przypiąć ich do swojej kamizelki
+Jay_J, Butler - wsrod lezacych jest i lekarz. JEst radio rowniez.
+
+<Jay_J> Connors, radio, ja wezmę sprzęt medyka
+* Jay_J popatrzał po jego kamizelce, która z dużych toreb na niej to apteczka
+Trevor_Connors: W wiosce ludzie sa ciekawi, wygladaja, ktos probuje podejsc blizej, jest juz calkowicie ciemno ale w chatach pali sie swiatlo. Nikt nie zdradza oznak choroby.
+
+<Jay_J> Precz! Precz!
+Jay_J: Bez problemu odpiales apteczke
+
+<Jack_Carter> Co jest? Tylko naszych to dotknęło?
+* Trevor_Connors lapie za radio, ale rozglada sie po ludziach podejrzliwie
+- Oni nie sa martwi, to spiaczka
+
+<Trevor_Connors> Co tu sie kurwa dzieje
+Dziewczyna byla znow obok
+
+* Butler zobaczył w pobliżu w miarę niezniszczonego Humvee i powszedł się rozejrzeć
+* Jack_Carter celuje pistoletem to tu to tam
+* Jay_J zabrał apteczkę i wrzucił ją do torby na zużyte magazynki, potem przypnie
+<Jay_J> co?!
+* Jay_J odwrócil się do dziewczyny
+<Jack_Carter> Jay J, czego ona znowu chce?
+* Trevor_Connors sprawdza tetno cial
+<Jay_J> Nie mam pojęcia... 
+Butler: jeden z samochodow mial tylko przestrzelona opone, poza dwoma cialami w srodku, wszystko bylo ok.
+
+* Jay_J podszedl do dziewczyny, odsuwając się od trupów?
+<Jay_J> Jaka śpiączka?
+<Butler> A radio?))
+* Jack_Carter podszedł do nich
+Butler: w tym samochodzie nie ma.
+
+<Jay_J> Connors, pokaż mi to radio, weź tę apteczkę, może będzie tam coś przydatnego
+<Jack_Carter> Czego chcesz dziecko?!
+Trevor_Connors: rzeczywiscie, zyja.
+
+* Trevor_Connors podaje Jay_J radio i bierze apteczke
+Jack_Carter: dziewczyna popatrzyla tepo na Ciebie
+
+<Trevor_Connors> Ej, chlopaki
+<Trevor_Connors> nie mozemy ich tu zostawic
+- Przyjezdzali tu wczesniej
+
+<Trevor_Connors> pierwszy lepszy mozdzierz zrobi z nich sieczke
+<Jack_Carter> A jak chcesz ich zabrać?
+- Kilku jeszcze jest w stodole.
+
+<Trevor_Connors> Schowajmy ich do ktoregos z domow
+<Jay_J> Juno 6, złóżcie SEALsów z chaty gdzieś na jakichś łóżkach, albo czymś
+<Jack_Carter> Kto przyjeżdzał?
+<Jay_J> Trzeba wezwać MEDEVAC
+<Jack_Carter> Ej! Czekajcie!
+* Jay_J podpiał radio do kamizelki do swojego sprzętu
+<Jack_Carter> Ktoś ukrywa się w stodole
+* Trevor_Connors kiwnal glowa Jack_Carter
+* Trevor_Connors podszedl do dziewczyny
+<Trevor_Connors> Pokaz, gdzie
+* Jay_J próbował radio
+* Trevor_Connors odbezpieczyl bron
+<Jack_Carter> I kto tu własciwie przyjeżdzał
+<Jack_Carter> Zastanów się i mów
+Dziewczyna wzruszyla ramionami i poszla w strone stodoly, kilkanascie metrow dalej
+
+<Jay_J> Juno 11, zgłoś się, kurwa!
+* Trevor_Connors skinal na Jack_Carter
+* Jay_J wydarł się
+* Trevor_Connors ruszyl ostroznie, oslaniajac Jacka, w kierunku stodoly
+<Jack_Carter> Wchodzimy?
+<Trevor_Connors> Na 3
+<Trevor_Connors> Raz
+<Trevor_Connors> Dwa
+* Trevor_Connors odsunal sie, stanal na wprost drzwi
+<Trevor_Connors> Trzy!
+--- Day changed Pn VIII 25 2008
+* Jack_Carter wyważa kopniakiem drzwi
+* Trevor_Connors wpadl do srodka
+* Jay_J spojrzał na leżących w centrum i na ich broń, co to?
+* Jack_Carter strzela na oślep
+<Trevor_Connors> co widac w stodole? ))
+We wnetrzu panowal polmrok. W rzedach przy obu scianach lezalo kilkanascie cial. Wszystkie mialy mundury amerykanskie.
+
+* Butler stał plecami do nich i osłaniał tyły
+<Jack_Carter> O kurwa
+<Trevor_Connors> Ej, chlopaki
+* Jay_J zabrał broń dwóch z SEALs, wybierając M4
+<Trevor_Connors> Jay_J
+<Trevor_Connors> Butler
+<Jay_J> Co jest?
+<Trevor_Connors> Chodzcie tu
+* Jack_Carter przygląda się ciałom
+* Jay_J zawrócił z dwoma M4 przewieszonymi przez plecy
+* Trevor_Connors sprawdza tetno cial
+Dziewczyna przygladala sie temu obojetnie.
+
+* Jay_J spojrzał na zawartość stodoły i zbladł
+<Jay_J> Connors, Carter, weźcie to
+<Butler> CO tam?
+* Butler wszedł
+* Jay_J zrzucił dwa M4 na ziemię
+* Jack_Carter bierze M4
+Wyjrzal ksiezyc zza chmur, zrobilo sie nieco jasniej.
+
+* Trevor_Connors lapie M4 po tym, jak sprawdzil tetna
+- Lepiej sie schowajcie.
+
+* Jack_Carter podchodzi do dziewczyny
+<Jay_J> Schowajcie broń wyboową gdzieś, przyda się pewnie
+<Jack_Carter> Co tu się stało?
+Pokiwala glowa i sama odeszla
+
+<Jay_J> Dobra
+<Jay_J> Wychodzimy
+* Jack_Carter potrząsa nią
+<Trevor_Connors> Spieprzamy stad panowie
+<Jack_Carter> Mów!
+<Trevor_Connors> Mam to w dupie.
+<Jay_J> Zamknąć stodołę, wezwiemy medevac
+<Trevor_Connors> Nie.
+- Dziewczyna nie reagowala, patrzyla sie tepo.
+
+<Trevor_Connors> To mi smierdzi
+<Jay_J> Dobra
+<Trevor_Connors> Odejdzmy na odleglosc
+<Jay_J> Spierdalamy!
+<Trevor_Connors> i patrzmy co sie stanie
+<Jay_J> I zamknijcie stodołę!
+- Znajdzcie jakies schowanie.
+
+* Trevor_Connors ruszyl w kierunku wzgorz
+<Jack_Carter> Kurwa!
+<Jay_J> Mamy tych pięciu w centrum do obserwowania
+<Jack_Carter> Schowaj się gdzieś!
+<Trevor_Connors> POZA WIOCHE
+<Trevor_Connors> tu jestesmy jak kaczki
+* Jay_J obrócił się na pięcie i pobiegł truchtem za Connorsem
+<Trevor_Connors> tam mamy kamuflaz
+Trevor_Connors: kolo studni nie bylo cial.
+
+<Trevor_Connors> Tym nie pomozemy
+* Butler rzucił się w siano
+Jay_J: tez to zauwazyles
+
+* Jay_J nasunął noktowizor na hełmie na oczy i włączył go
+* Trevor_Connors az sie spocil ze strachu, ale biegl caly czas w kierunku wzgorz
+* Jack_Carter skoczył w inny stóg
+<Jay_J> Connors! pod ścianę
+<Jay_J> Tak mamy plecy osłonięte, JUŻ!
+* Trevor_Connors rzucil sie szukajac oslony
+* Jay_J podbiegł do ściany i przykucnął
+<Jay_J> Plecy do pleców, już!
+<Jay_J> I nałóż noktowizor!
+* Butler wyjrzał tylko lekko pod siana, aby ocenic sytuację
+* Trevor_Connors kleknal, nalozyl noktowizor
+* Trevor_Connors spokojnie odbezpieczyl bron i patrzyl
+* Jay_J oslania partnera z HK416
+* Jack_Carter odbezpieczył karabin
+<Trevor_Connors> Powoli odsuwajmy sie od wioski, Jay_J
+Trevor_Connors: zeby nalozyc noktowizor, musiales zdjac maske
+
+<Trevor_Connors> ej! ))
+<Jay_J> ja też, mam ją przypiętą paskami do kamizelki ))
+<Jay_J> Connors, to jest niemozliwe, maska i nokto na raz ))
+ok
+
+<Trevor_Connors> No, ok ))
+<Jay_J> Juno 6, zgloście się!
+<Butler> Tak, tu my
+Butler: cos zlapalo Cie za kostke w sianie
+
+<Jay_J> Musimy dotrzeć do wzgórz, góry odcinają łącznośc radiową z bazą
+<Jack_Carter> Jesteśmy
+* Butler obserwował ze stogu siana
+* Butler aż podskoczył
+<Jack_Carter> Ukrywamy się w sianie
+<Jack_Carter> Czekajcie, coś się dzieje
+<Jack_Carter> Butler?
+<Butler> Cholera!
+* Butler wyskoczył i zaczął strzelać w stóg
+* Jack_Carter strzelił kilka razy
+<Trevor_Connors> Juno 6
+Trevor_Connors: na zewnatrz widziales przemykajace sylwetki
+
+<Trevor_Connors> Do nas, juz!
+<Jay_J> Juno 6, co się dzieje?!
+<Trevor_Connors> Juno 6, do nas!
+<Jay_J> Connors, orientuj się, oczy dookoła głowy!
+<Jack_Carter> Ktoś tu jest!
+Butler, Carter - zadnej reakcji, stog jak lezal tak lezy
+
+* Trevor_Connors nie strzelal nie majac pewnego celu
+* Jay_J miał broń w ręku, przysunął się tylko plecami do ściany
+* Jack_Carter rozgarnął kolbą siano
+<Butler> Cholera... ja tu nie zostaję
+<Jay_J> Juno 6, DO NAS, TERAZ?!
+<Jay_J> JUŻ!
+* Butler wybiegł szybko, skulony na zewnątrz
+<Trevor_Connors> Juno 6, DO NAS, przegrupowac sie!
+* Jack_Carter pobiegł za butlerem
+<Jay_J> Kurwa! Razem mamy większe szanse!
+<Jack_Carter> Biegnę!
+* Trevor_Connors oslania swoich
+<Trevor_Connors> Jay_J, pilnuj plecow
+<Jay_J> Pod ścianę, już!
+<Jay_J> Pilnuję
+Jakas sylwetka wyskoczyla zza studni i biegla w strone chat
+
+* Jay_J cały czas miał oczy dookoła głowy
+<Jay_J> Wstrzymać ogień!
+* Jack_Carter wycelował w nią
+<Jay_J> Musimy identyfikować cele, nie wiem, co to, ale nie chcemy ustrzelić cywili!
+<Jay_J> Pod ścianę, już!
+<Trevor_Connors> Panowie, w grupe!
+<Trevor_Connors> Butler, Jack_Carter, oslaniajcie od wiochy
+<Trevor_Connors> Jay_J, ja i tu na przod
+<Trevor_Connors> wycofujemy sie stad
+<Trevor_Connors> powoli
+<Jack_Carter> Ok
+<Jay_J> Osłaniamy pełne 360 stopni
+* Butler wycelował w tamtą stronę i tyłem wycofywał się wpowoli w ustalonym kierunku
+<Jay_J> tylko nałóżcie noktowizory najpierw
+<Jay_J> zdjąć maski
+* Trevor_Connors idzie, mierzac w kierunku ktory okreslil
+* Jack_Carter założył noktowizor
+<Jay_J> jak wieśniakom nic się nie stalo, to my też przeżyjemy, oni mają ten syf tu dłużej
+<Jack_Carter> Co się stało, że z tego siana wyskoczyłeś?
+<Jack_Carter> Co tam było?
+* Jay_J odpiął dwie ładownice zabrane SEALsom i dał je kompanom z M4
+Odglosy walki, ale nie strzaly, dochodzily z dwupietrowej chaty, z ktorej wczesniej wyszliscie, zostawiajac Davisa
+
+<Jack_Carter> Dzieki
+<Jay_J> macie, przydadzą wam sie, w każdej są po 3 magazynki
+<Trevor_Connors> Panowie, zwiekszmy tempo
+<Jay_J> A my się wycofujemy, noktowizja, pełna osłona stron 
+* Jay_J przyspieszył
+* Trevor_Connors przyspieszyl, widzac jak oddalaja sie od wioski
+* Jack_Carter naśladował Jay_J
+<Butler> Niczego nie zdjmę!
+<Jay_J> Chcę mieć pokrycie 360 stopni, żadnych martwych stref
+<Butler> Wolę walić na ślepo
+<Jay_J> NARAŻASZ WSZYSTKICH!
+<Jay_J> Kurwa! Wieśniacy mają ten syf tutaj dłużej i jakoś sa cali!
+<Trevor_Connors> Ok, panowie
+<Jack_Carter> Zakładaj noktowizor
+<Trevor_Connors> Jak tylko dojdziemy na szczyt
+<Trevor_Connors> Jay_J, lap dowodztwo
+<Trevor_Connors> niech konwoj zawraca
+<Jay_J> Niech wyslą MEDEVAC
+<Jay_J> albo cokolwiek
+<Jay_J> chociaż JSOC pewnie świetnie wie, co tu się dzieje
+<Butler> Nasi nie, i leżą!
+<Butler> Może oni, jakos odporni
+<Jay_J> A może oni to złapali juz w bazie?
+<Jack_Carter> Może naszym to jakoś podali?
+<Trevor_Connors> To samo pomyslalem
+<Butler> Skąd do cholery ja ma wiedzieć?
+<Jack_Carter> Jak to się kurwa stało?
+<Trevor_Connors> Im dalej odejdziemy od wiochy
+<Jay_J> Idziemy, idziemy
+<Trevor_Connors> i wyzej
+* Jay_J rozglądal się nerwowo przez noktowizor
+<Jack_Carter> I skąd się wzięły te ciała w stodole
+Trevor_Connors: rwacy bol w udzie
+
+<Trevor_Connors> tym bardziej to gowno sie rozwieje
+<Butler> Tym nas szybciej wystrzelają
+<Trevor_Connors> KURWA
+<Jack_Carter> Nasi byli tam już wcześniej
+* Butler roglądał się uważnie
+Wszyscy slyszeliscie swist strzalu z tlumika
+
+<Jay_J> Co jest, Connors?
+Jest blisko.
+
+* Trevor_Connors padl na ziemie, wrzeszczac
+* Jack_Carter padl
+<Jay_J> O kurwa.
+<Jay_J> Snajper.
+<Jack_Carter> Zamknij się!
+* Jay_J rozejrzał się, by ustalić, skąd m.w. padł strzał
+* Butler padł i podczołgał się do najbliższego pnia powalonego drzewa
+* Jack_Carter podczołgał się pod duży kamien
+Jay_J: polegasz tylko na sluchu, mozliwe, ze zw wzgorza
+
+* Trevor_Connors staral sie opanowac bol i doczolgal sie za jakis kamien, dajacy oslone od wioski
+<Jack_Carter> I zaczął rozglądać się za pomocą lunety
+<Jay_J> uwaga na wzgórze!
+* Trevor_Connors przeturlal sie na druga strone kamienia
+* Jay_J padł za najbliższą zasłoną
+* Trevor_Connors jeknal z bolu, gdy upadl na zranione udo
+<Jay_J> Butler, Carter, osłaniać nas od strony wioski!
+<Butler> Tam nic nie ma!
+* Jay_J podczołgal się do Connorsa
+<Jay_J> Bez paniki!
+<Jay_J> Lez spokojnie
+* Jay_J ocenił, co z udem
+* Butler czołgał się w stroną wzgórza
+<Jay_J> Leżcie, kurwa!
+* Jack_Carter spojrzał lunetą w stronę wzgórza
+Drugi strzal. Niecelny.
+
+<Trevor_Connors> Jay_J, w dupe z moja noga!
+<Trevor_Connors> Ubij tego szmaciarza
+<Jack_Carter> Ma ktoś jeszcze snajperkę?
+<Jay_J> Masz apteczkę medyka SEALsów, radź sobie sam w takim razie!
+<Butler> Cholera
+* Trevor_Connors otworzyl apteczke i zaczal sie opatrywac
+* Jay_J wychylił sie i wygarnął krótką serię w stronę wzgórza
+<Jay_J> Kurwa, on ma tłumik, nie zobaczymy go
+* Butler rzucił za siebie granat dymny i dalej czołgał się w stronę wzgórza
+<Jay_J> Ale jak slyszeliśmy strzał mimo tłumika, to chuj jest blisko!
+* Trevor_Connors zagryzl zeby, zaciskajac opatrunek. Kula przeszla na wylot, na szczescie omijajac tetnice.
+* Jay_J chwycił za granat dymny, wyjął zawleczkę i cisnął go tak, by wylądował u podstawy wzgórza
+* Jack_Carter lezał spokojnie, liczac że snajper go nie zauważy
+<Jay_J> Connors, masz M4 w łapach, osłaniaj nas od strony wioski. Mimo wszystko.
+<Trevor_Connors> Ok
+* Butler walnął w stoine wzgórza granatnikiem
+* Trevor_Connors oparl sie plecami o glaz, mierzac przed siebie w wioske
+Eksplozja na chwile Was oslepila
+
+* Jay_J poczekał, aż granat dymny wytworzy odpowiednią zasłonę, otrzasnął się i wyrwał przed siebie do pierwszej osłony u podstawy wzgórza
+<Jay_J> Butler, może TERAZ łaskawie poszukasz go w noktowizji, a nie w masce?!
+* Jay_J wychylił się, usiłując wypatrzyć strzelca
+<Butler> Nie ściągnę jej! Chcę pozyć jeszcze
+<Jack_Carter> Kurwa
+<Jack_Carter> wolisz zginąć od kuli, czy od zatrucia?
+<Jack_Carter> Kula jest pewniejsza
+Uslyszeliscie silnik jednej z polciezarowek. Zapalily sie swiatla. Samochod ruszyl w Wasza strone, oslepil.
+
+* Trevor_Connors przeladowal granatnik, i wypalil w pickupa
+<Trevor_Connors> Zryj
+* Jay_J wyłączył noktowizor i podniósł go, bo by oślepł
+* Trevor_Connors wylaczyl noktowizor
+* Butler przeturlał się na prawo
+Ciezarowka momentalni stanela w ogniu, przejechala jeszcze kawalek i stanela. Snajper zerwals ie i odbiegl. Bylo to slychac wyraznie po eksplozji.
+
+<Trevor_Connors> Patrzcie gdzie biegnie!
+* Jack_Carter puscił w jego strone serię
+<Trevor_Connors> Jack_Carter, widziales go?
+* Jay_J odwrócil się, w ruchu nakładając noktowizor i włączając go, po czym spojrzał w stronę przypuszczalnej pozycji snajpera
+* Butler rozejrzał się szybko
+<Trevor_Connors> masz namiar?
+Jay_J: widzisz mniej wiecej gdzie padl na ziemie
+
+Butler: tez to zobaczyles
+
+* Jack_Carter jeszcze raz spogląda w lunetę
+<Jay_J> Mam cię, kutasie
+<Jack_Carter> Treavor, 10 stopni w lewo
+* Butler oddał dwie krótkie serie w tamą stronę
+<Jack_Carter> Masz go?
+<Jay_J> Butler! Ładuj granatnik! 190 metrów, duży kamień koło dwóch drzew!
+* Butler na koniec wypalił granatnikiem na podane koordynaty
+<Trevor_Connors> Nie z ta noga, Jack_Carter
+* Trevor_Connors przeladowal granatnik i caly czas oslanial swoich od wiochy
+<Jack_Carter> Szlag
+Butler: Widziales jak sie zerwal, zanim wystrzeliles, ale nie zdazyl odbiec. Eksplozja rzucila nim w dol, w zarosla
+
+* Jack_Carter obserwował to przez lunetę
+<Jay_J> W chuj z nim.
+Jest czysto.
+
+<Jay_J> Dobra, zbiórka, na pozycję Butlera!
+* Jay_J podbiegł sam we wskazane miejsce
+* Trevor_Connors wstal, i kustykajac, cofal sie caly czas majac oko na wioche
+<Butler> Gdzie teraz?
+* Jay_J przykucnął
+<Trevor_Connors> Wzgorze
+* Jack_Carter podbiegł do Butlera
+<Trevor_Connors> Stamtad mozemy sie bronic
+Trevor_Connors: W wiosce nie palilo sie zadne swiatlo.
+
+<Jay_J> Carter, Connors, wioska
+<Jack_Carter> Co to tak nagle wygasło?
+<Butler> Nie wiem, ale im dalej tym lepiej
+<Jay_J> Na wzgórze, tam możemy się jakos osłonić i wezwać wsparcie
+* Jack_Carter posuwał się w stronę wzgórza tak, aby widziec wioskę
+* Butler ruszył powoli w strone wzgó?za
+<Jay_J> Dobra, na górę, taka formacja, jak wczesniej
+* Trevor_Connors razem z Carterem powoli wycofywal sie
+<Jack_Carter> Kto ma karabin snajperski?
+<Jay_J> pokrycie 360 stopni
+<Jack_Carter> Że się zapytam
+<Trevor_Connors> Moj zostal razem z Daviesem
+<Jay_J> I żwawo, panowie, na górze radio złapie bazę
+<Trevor_Connors> Zreszta, jesli konwoj tu dotrze, to stad mozemy im jeszcze jakos pomoc
+<Trevor_Connors> i z ich pomoca sie wycofac
+* Jay_J wspina sie wytrwale
+<Jay_J> Jazda, jazda
+* Trevor_Connors przyspieszyl tempa
+<Butler> .me był już praktycznie na samym szczycie
+* Butler był już praktycznie na samym szczycie
+Wzgorze usiane jest wystajacymi korzeniami i kepami traw, jestescie prawie u celu. na dawnej pozycji Butlera i Cartera
+
+<Jay_J> Panowie, na górze potrzebuje osłony, mimo wątpliwości osłaniać nas od wioski też
+* Jack_Carter położył się na wzgórzy
+<Jack_Carter> Co teraz robimy?
+<Jay_J> Dobra, na środek, już, potrzebuję oslony.
+* Jay_J dobiegł na miejsce i przykucnął, po czym odezwał się do radia
+<Jay_J> Czekamy
+* Jay_J krzyczal do radia
+<Butler> Nikt nie znalazł tego cholernego radia?
+<Jay_J> Znalazł, cicho, mam coś chyba!
+* Jay_J mówił do radia
+* Jack_Carter nasłuczłonek
+<Jack_Carter> *nasłuchuje
+* Jay_J zbladł 
+* Jay_J widać to nawet w nocy
+* Butler leżał i się rozglądał
+<Jay_J> Spierdalamy.
+<Trevor_Connors2> Co jest?
+<Butler> Co?
+W dole widzicie odblaski strzalow, slychac krotkie serie
+
+<Jay_J> Spierdalamy. JUŻ!
+* Trevor_Connors2 rzucil sie biegiem
+<Jay_J> JUŻ, powierdziałem!
+W wiosce trwa wymiana ognia
+
+<Butler> Ale co?
+* Butler ruszył biegiem
+<Jay_J> JAJCO! WIEJEMY!
+<Trevor_Connors> NIE WIEM, BIEGNIJ
+* Jay_J ruszył drugim zboczem, jak najdalej od wioski
+<Trevor_Connors> Chyba beda czyscili teren
+<Trevor_Connors> Bomba paliwowa
+* Jack_Carter spieprza
+<Trevor_Connors> albo inny kij
+* Trevor_Connors biegnie, nie zwazajac na swoja noge
+<Jack_Carter> Pierdolę, przechodzę na emeryturę jak tylko z tego wyjdziemy
+Niebo syczalo, nadlatywaly, byly juz bardzo blisko.
+
+<Jack_Carter> za stary na to jestem
+* Trevor_Connors biegl ile sil
+Za Wami, za Waszymi stopami napalm rozlewal sie jak ognisty wodospad.
+
+<Trevor_Connors> NIE PADAJCIE NA ZIEMIE
+<Trevor_Connors> BIEC
+<Jay_J> BIEGIEM, JUŻ!
+* Jay_J olał radio i wyrwał do przodu
+<Trevor_Connors> Jak to sie przylepi, zrzucajcie manatki
+* Trevor_Connors rwie do przodu
+Zrobilo sie goraco, powietrze falowalo, snopy ognia przetaczaly sie przez wzgorze i sciekaly ledwie Was doganiajac
+
+* Butler dawał siebie co tylko mógł
+* Jay_J gonił przed siebie, aż kurz za nim leciał w ogień
+* Jack_Carter przyśpieszył
+<Jack_Carter> przynajmniej nie bedzie problemów z oczyszczaniem wioski 
+Goniliscie co sil w strone rzeki, wlasciwie nic nie bylo slychac, panowala kompletna cisza, zadnych odglosow, zadnego sapania
+
+<Trevor_Connors> Panowie
+Bieg jakby w zwolnionym tempie
+
+<Trevor_Connors> Mi to smierdzi
+<Jack_Carter> Mi też. Benzyną
+* Trevor_Connors obejrzal sie na palaca sie wioche
+<Jay_J> Ja się nie dam żywcem, nikomu!
+<Trevor_Connors> Nie!
+* Jay_J biegł, dysząc
+* Trevor_Connors zasapany, biegl
+<Trevor_Connors> Nie o to chodzi!@
+* Butler zatrzymał się zaraz przy rzece
+* Jay_J dobiegl do rzeki i opłukał twarz wodą, dysząc
+<Jay_J> Panowie, jesteśmy...
+* Jay_J dyszał ciężko
+<Jay_J> jedynymi świadkami tego syfu
+W uszach pulsowal astara piosenka, ktora leciala czasem w namiotach w bazie: Dire Straits - Ride Across the river
+
+<Jay_J> Jak nic.
+Napalm nie zatrzymal sie na zaroslach...
+
+<Trevor_Connors> Dokladnie
+* Jay_J odetchnął głęboko, usiłując się uspokoić
+zblizal sie
+
+* Jay_J odwrocił się
+<Jay_J> DO RZEKI!
+* Trevor_Connors rzucil sie do wody
+* Jay_J wbiegł do wody
+Znow cisza. Znow to pulsowanie krwi w skroniach.
+
+"I'm a soldier of fortune and I don't know why..." zaspiewali chlopcy z Dire Straits.
+
+Woda zamknela sie nad Wami. Fala migoczacego blasku przeszla nad rzeka.
+
+* Jay_J szarpnął za sznurek w kamizelce, żeby się z niej wypiąć, i wybił ostro w górę
+* Trevor_Connors odpial kamizelke
+Jay_J: Wyszedles na drugim brzegu i mocno zlapales oddech
+
+* Trevor_Connors poplynal za Jay_J
+<Trevor_Connors> Jay_J, czy ty tez o tym myslisz?
+* Jay_J wyszedł z wody na kolanach
+<Jay_J> Nie wiem, o czym myślę
+* Trevor_Connors zasapany, szepnal
+* Jay_J zrzucił hełm
+* Trevor_Connors obejrzal sie na pozostalych
+Butler zaplatal sie gdzies pod woda
+
+nie widzicie go
+
+<Trevor_Connors> Jay_J!
+<Jay_J> łapmy ich!
+<Trevor_Connors> Butler!
+* Trevor_Connors rzucil sie do wody
+* Jay_J ciepnał broń na bok, wziął oddech i rzucił się do wody
+* Trevor_Connors zanurkowal, szukajac Butlera
+* Jay_J zanurkował płynąc w miejsce, w którym ostatnio widział Cartera
+* Jack_Carter rozpiął kamizelkę
+* Jack_Carter zaczał płynąć w gore, słabł
+Wyciagneliscie Butlera, byl zaplatany w korzenie
+
+<Trevor_Connors> widze Butlera?? ))
+* Jay_J chwycił Cartera za ramię i wyciągnął go ostro w górę
+Trevor_Connors: tak, wspolnie go wydobyliscie
+
+* Jack_Carter nabrał powietrza
+* Trevor_Connors padl na brzegu, wycienczony
+<Jack_Carter> Dzięki
+Jack_Carter: wystawiles glowe ciezko dyszac
+
+* Jay_J wygrzebał się na brzeg
+<Jay_J> Ja pierdolę taka robotę
+* Jack_Carter wypełz na brzeg
+<Jay_J> Talibowie, ok, Osama, ok, ale tego nie było w kontrakcie
+* Trevor_Connors poczul jak bol w udzie lapie go niby skurcz
+Butler lezy na brzegu, jest nieprzytomny, nie oddycha
+
+<Jack_Carter> Często podróże, wielu ludzi doo poznania, dziękuję bardzo
+* Jay_J doczołgał sie do miejsca, w którym rzucił broń, przełożył ją sobie przez ramię
+<Jay_J> Butler!
+* Jack_Carter położył się na plecach i głeboko oddychał
+* Trevor_Connors wstal, ledwo dyszac
+<Trevor_Connors> pochylil sie nad Butlerem
+<Jay_J> Connors, ratuj go, osłaniam nas!
+* Trevor_Connors i zaczal go reanimowac
+<Trevor_Connors> ./me ))
+Jack_Carter: oddychasz wielkimi haustami, glowa po prostu peka Ci z bolu
+
+* Jay_J podbiegł do Butlera, przykucnął dwa metry od niego i rozglądal sie dookoła z bronią w ręku
+Znow krajobraz jakby zatrzymal sie, zwolnil, wszystko dzialo sie za wolno, zbyt ospale, jak w jakiejs oleistej mazi.
+
+Wioska plonela, drugi brzeg takze, bylo cholernie duszno, smierdzialo, powietrze bylo lepkie.
+
+Dire Straits wrocili w swoim Ride Across the River, ktorego sluchaliscie grajac w karty wieczorami.
+
+I wtedy gdy nadeszly rozkazy.
+
+Wtedy cieszyliscie sie, ze w koncu zacznie sie cos dziac oprocz koszarowania.
+
+We are ready to pay with our lives if we must - brzmial wytarty wokal Straitsow
+
+Trevor ze wsciekloscia walil piesciami w piersi Butlera, ale nie slyszeliscie slow, wszystko bylo jak na tasmie w zwolnionym tempie.
+
+Bron leciala Wam z rak, krzyczeliscie na siebie, pokazywalisie, wymachiwaliscie rekoma, Trevor zlapal Butlera za kamizelke i darl sie na niego.
+
+Lzy same ciekly po policzkach.
+
+Butler bezwladnie opadl na ziemie. Trevor darl sie, chociaz ciagla cisza huczala w uszach.
+
+Gonna ride across the river deep and wide
+
+Ride across the river to the other side
+
+Swietna piosenka.
